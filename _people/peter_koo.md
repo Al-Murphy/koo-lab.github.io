@@ -13,7 +13,7 @@ twitter: pkoo562
 - _2010, Master in Financial Engineering at the Hass School of Business at UC Berkeley_
 
 <a href="https://github.com/p-koo"><i class="fa fa-github"></i> @p-koo </a><br>
-<a href="https://twitter.com/pkoo562"><i class="fa fa-twitter"></i> @pkoo562 </a>
+<a href="https://twitter.com/pkoo562"><i class="fa fa-twitter"></i> @pkoo562 </a><br>
 <i class="fa fa-envelope-o"></i> `koo@cshl.edu`
 
 <hr>
