@@ -3,32 +3,12 @@ title: Contact
 permalink: /Contact/
 ---
 
-
-
-
-{% assign reference_types = "scientists|students|discussion" | split: "|" %}
-
-{% for type in reference_types %}
-
-{% if type == 'scientists' %}
-### **For scientists**
- {% elsif type == 'students' %}
-### **For students, lab members**
- {% elsif type == 'discussion' %}
-### **Random bits of discussion**
-{% endif %}
-
-<div class="content list">
-  {% for post in site.posts %}
-    {% if post.categories contains type %}
-    <div class="list-item">
-      <p class="list-post-title">
-        <a href="{{ site.baseurl }}{{ post.url }}">- {{ post.title }}</a>
-      </p>
-    </div>
-    {% endif %}
-  {% endfor %}
+<div class="col6 center">
+ <span style="display: block; margin-bottom: 1em"></span>
+      Simons Center for Quantitative Biology at Cold Spring Harbor Laboratory<br>
+      1 Bungtown Road, Cold Spring Harbor, New York 11724
+ <span style="display: block; margin-bottom: 3em"></span>
+		<a href="https://github.com/koo-lab"><i class="fa fa-github"></i> @KooLab</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://twitter.com/pkoo562"><i class="fa fa-twitter"></i> @PeterKoo</a>&nbsp;&nbsp;&nbsp;
+      <a href="mailto:koo@cshl.edu"><i class="fa fa-envelope-o"></i> koo@cshl.edu</a>
 </div>
-
-<hr>
-{% endfor %}
