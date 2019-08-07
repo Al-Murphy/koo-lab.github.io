@@ -27,6 +27,9 @@ On the left, an image of a pig is correctly classified by a state-of-the-art con
 
 Since evolution samples functional protein sequences, statistical models can be trained to learn functional sites -- site-independence conservations (1-body interactions) and evolutionarily coupled positions (2-body interactions) -- from a multiple sequence alignment of homologous sequences. These models can then be utilized to score mutations in protein sequences, predict protein contacts, perform homology search, and design proteins. Recently, there has been growing interest in replacing more traditional models -- which include Position Sensitive Scoring Matrix (PSSM), Markov Random Fields (MRFs) and Multivariate Gaussians (MGs) -- with deep generative models -- which include variational autoencoders (VAEs), seq2seq models based on recurrent neural networks, generative adversarial networks (GANs), and transformer networks. Our group is interested in interpreting these promising class of models to understand what they are capable of learning. Our goal is to explore the utility of these class of models to inform the deleteriousness of mutations in protein sequences, which can help to prioritize disease-associated genomic variants in coding regions. 
 
+<br>
+<br>
+<br>
 
 
 
