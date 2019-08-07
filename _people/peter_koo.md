@@ -1,6 +1,6 @@
 ---
 name: Peter Koo
-position: Principal Investigator
+position: pi
 avatar: peterkoo_profile.jpg
 twitter: pkoo562
 ---
