@@ -1,58 +1,28 @@
 ---
-title: About
-permalink: /About/
+title: Research
+permalink: /Research/
 ---
 
-### About us
-We are a group of data scientists with interest in brains and, more general, biomedical research. Right at the moment, much of the research in the lab is about deep learning and its applications. However, we are now very much interested in causality and its links with machine learning.
+The Koo Laboratory is broadly interested in uncovering mechanistic insights into gene regulation and alternative splicing. Our data-driven approach leverages interpretable deep intelligent systems to uncover cis-regulatory elements and their interactions, so-called regulatory codes, from big, noisy biological sequence data. Our higher-level goal is to elucidate the functional impact of genomic variants, which can provide mechanistic insights for mutations associated with complex diseases, including cancer.
 
-### Research
-Making sense of data is possibly the biggest problem in Neuroscience and beyond. We build algorithms to analyze data. We also use theory as well as computational and [neural modeling](https://en.wikipedia.org/wiki/Computational_neuroscience) to understand how information is processed in the nervous system, explaining data obtained in collaboration with [electrophysiologists](https://en.wikipedia.org/wiki/Electrophysiology) and in [psychophysical](https://en.wikipedia.org/wiki/Psychophysics) experiments. Lastly, we constrain and develop new technologies aimed at obtaining data about brains.
+### Interpreting Deep Learning for Regulatory Genomics 
 
+Deep learning is being applied rapidly in many areas of genomics, demonstrating improved performance over previous methods on benchmark datasets. Despite the promise of deep learning systems, it remains unclear whether improved predictions will translate to new biological discoveries because of their low interpretability, which has earned them a reputation as a black box. Understanding the reasons for a deep learning model’s prediction may reveal new biological insights not captured by previous methods. Our research develops methods to interpret deep learning models through design principles and interrogation methods.
 
-Our conceptual work addresses information processing in the nervous system from two angles: (1) By analyzing and explaining electrophysiological data, we study what neurons do. (2) By analyzing and explaining human behavior, we study what all these neurons do together. Much of our work looks at these questions from a normative or causal viewpoint, asking what problems the nervous system should be solving. This often means taking a Bayesian approach. Bayesian decision theory is the systematic way of calculating how the nervous system may make good decisions in the presence of uncertainty. Causal inference from observational data promises to be a key enabler for progress in science.
+Design principles – which include architecture choices and the incorporation of priors – can create an inductive bias that guides parameters to learn human-interpretable, biologically-meaningful representations. For instance, we have previously shown that the downsampling intermediate representations in convolutional neural networks (CNNs) directly affects the extent biological features, such as sequence motifs, are learned in each layer [1]. More recently, we demonstrate that highly divergent activation functions, such as an exponential, encourages CNNs to learn more interpretable representations [2].
 
-We've pursued projects that involve handshake greetings, human movement, [cell-phone related parkinson's research](http://journal.frontiersin.org/article/10.3389/fneur.2012.00158/abstract), competitions at [Kaggle](https://www.kaggle.com/), [meta-science analysis](http://www.nature.com/nature/journal/v489/n7415/full/489201a.html), data sharing initiatives, and [recording from all neurons in a mouse](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002291).
-
-
-### Lab Members
-
-Our research group is remarkably interdisciplinary. Our interests span statistics, physics, biology, applied mathematics, molecular biology, metascience, cognitive science, and many other disciplines. Visit our [people page](http://kordinglab.com/people/) to see more information on each person who works in the lab (publications, contact information, photos).
+Distributed representations use many neurons to contribute to the recognition of a feature, in this case a grandma and a cat.  Local representations are when a single neuron recognizes the entire feature, not requiring collaboration with any other neurons. In genomics, CNN first layer filters learn distributed representations of partial motifs by default when pooling sizes are small after a convolutional layer, because deeper layers are able to assemble whole motif representations in a hierarchical manner. In contrast, CNN filters can learn local representations, i.e. whole motifs, in the first layer filters by employing a large pooling size, because deeper layers can no longer assemble partial motifs due to a loss of spatial information.  
 
 
-### Publications
+We are also interested in developing interrogation methods to access representations learned by a deep black box model. Recently, we developed an interrogation method that combines causal inference with attribution methods. Our causal attribution framework was instrumental to show that ResidualBind – our state-of-the-art deep learning model that is trained to predict sequence specificities of RNA-binding proteins – learns features not considered by previous methods. We are expanding this methodology to uncover higher-order interactions of cis-regulatory elements, i.e. regulatory codes, from high-throughput sequencing datasets and validating our predictions experimentally with collaborators. 
 
-For PDFs of our work, visit our [publications page](http://kordinglab.com/publication/). Feel free to [issue on Github](https://github.com/KordingLab/KordingLab.github.io/issues) if links don't work or are obsolete.
+### Improving Interpretability and Robustness with Adversarial Training 
 
+For classification tasks, CNNs have been shown to be susceptible to specially crafted perturbations which alter their predictions confidently to the wrong class (see figure below). Much research has been focused on characterizing a networks susceptibility to these adversarial examples. Robust training methods -- adversarial training, Gaussian smoothing, and regularization -- have been developed to make CNNs more robust to adversaries, but they have also been shown to learn more robust features. We have observed that CNNs that learn robust features -- through design principles and robust training methods -- are more interpretable with gradient-based saliency methods [4]. We are interested in exploring how robust training methods promote an inductive bias towards a biologically-meaningful parameter space and establishing robust training standards for genomic sequences. 
 
-### Collaborators
-
-Here are some cool people in fields that interest us. **note:** This list is in no way complete. We have a lot of collaborators -- if you've collaborated with us and want a link here, let us know!
-
-**University of Pennsylvania:**
-- [David Issadore - Dept of Bioengineering](http://cnt.upenn.edu/david-issadore)
-- [Jay Gottfried - Dept of Neurology](http://labs.feinberg.northwestern.edu/gottfried/)
-- [Raquel and Ruben Gur - Dept of Neuropsychiatry](http://www.med.upenn.edu/bbl/faculty-regur.html)
-- [Maria Geffen - Dept of Otorhinolaryngology](https://geffenlab.weebly.com/)
-- [Yale Cohen - Dept of Otorhinolaryngology](http://auditoryresearchlaboratory.weebly.com/)
-- [Dani Bassett - Dept of Bionengineering](https://www.danisbassett.com/)
-- [Andrew Tsourkas - Dept of Bioengineering](http://www.seas.upenn.edu/~atsourk/)
-- [Jason Moore - Dept of Biostatistics](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8803452)
-- [Lyle Ungar - Dept of CIS](http://www.cis.upenn.edu/~ungar/)
-
-**Northwestern University:**
-- [Lee Miller - Depts of Physiology and BME](http://physio.northwestern.edu/)
-- [Mark Segraves - Depts of Neurobiology and Physiology](http://www.neurobiology.northwestern.edu/people/core-faculty/mark-segraves.html)
-- [Matt Tresch - Depts of Physiology and BME](http://www.mccormick.northwestern.edu/biomedical/)
-- [David Mohr - Dept of Preventive medicine](http://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=17234)
+On the left, an image of a pig is correctly classified by a state-of-the-art convolutional neural network. After A small perturbation is added to the image at every pixel to yield an image on the right that is visually very similar to the original image, but now the CNN predicts that it is an airliner.
 
 
-**External:**
+### Scoring Mutations in Proteins with Deep Generative Models
 
-- [Scott Grafton - UCSB](https://www.psych.ucsb.edu/people/faculty/grafton)
-- [Nicho Hatsopoulos - University of Chicago](http://pondside.uchicago.edu/oba/faculty/Hatsopoulos/lab/)
-- [Peter Strick - University of Pittsburgh](http://www.cnbc.cmu.edu/faculty/strick-peter-l/view-details)
-- [Mriganka Sur - MIT](http://surlab.mit.edu/)
-- [Rob Turner - University of Pittsburgh](http://www.neurobio.pitt.edu/faculty/turner.htm)
-
-
+Since evolution samples functional protein sequences, statistical models can be trained to learn functional sites -- site-independence conservations (1-body interactions) and evolutionarily coupled positions (2-body interactions) -- from a multiple sequence alignment of homologous sequences. These models can then be utilized to score mutations in protein sequences, predict protein contacts, perform homology search, and design proteins. Recently, there has been growing interest in replacing more traditional models -- which include Position Sensitive Scoring Matrix (PSSM), Markov Random Fields (MRFs) and Multivariate Gaussians (MGs) -- with deep generative models -- which include variational autoencoders (VAEs), seq2seq models based on recurrent neural networks, generative adversarial networks (GANs), and transformer networks. Our group is interested in interpreting these promising class of models to understand what they are capable of learning. Our goal is to explore the utility of these class of models to inform the deleteriousness of mutations in protein sequences, which can help to prioritize disease-associated genomic variants in coding regions. 
