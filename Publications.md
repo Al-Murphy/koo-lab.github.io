@@ -8,7 +8,7 @@ permalink: /Publication/
 ## 2019
 
 _Improving Convolutional Network Interpretability with Exponential Activations_<br>
-<b>PK Koo\*</b>, M Ploenzke\* <br>
+<b>PK Koo</b>\*, M Ploenzke\* <br>
 2019 ICML Workshop for Computational Biology ([Preprint](https://www.biorxiv.org/content/10.1101/650804v1.abstract), [Code](https://github.com/p-koo/cnn_exponential_activations))
 
 
@@ -82,7 +82,7 @@ Biophysical Journal 111 (1), 19-24 ([Article](https://www.sciencedirect.com/scie
 
 
 _The Tethering of Chromatin to the Nuclear Envelope Supports Nuclear Mechanics_<br>
-SM Schreiner\*, <b>PK Koo\*</b>, Y Zhao, SGJ Mochrie, MC King <br>
+SM Schreiner\*, <b>PK Koo</b>\*, Y Zhao, SGJ Mochrie, MC King <br>
 Nature Communications 6, 7159 ([Article](https://www.nature.com/articles/ncomms8159))
 
 
