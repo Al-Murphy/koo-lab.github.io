@@ -3,13 +3,13 @@
 # # # # # # # #
 
 # Basic
-name:               "Kording lab"
-title:              "as called as Bayesian Behavior Lab"
-description:        "this is a page for Konrad Kording lab, we are comptational neurosciece and datascience lab based in Rehabilitation Institute of Chicago and Northwestern University, Chicago"
+name:               "Koo lab"
+title:              "Artificial Intelligence for Genomics"
+description:        "We are scientists"
 
 
 # URL
-url:                http://kordinglab.github.io
+url:                http://koo-lab.github.io
 baseurl:
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
@@ -22,18 +22,18 @@ highlighter:        rouge
 
 # Navigation
 nav:
-  - name:           "home"
+  - name:           "Home"
     href:           "/"
-  - name:           "about"
-    href:           "/about"
-  - name:           "publications"
-    href:           "/publication"
-  - name:           "people"
-    href:           "/people"
-  - name:           "blog"
-    href:           "/blog"
-  - name:           "resources"
-    href:           "/resources"
+  - name:           "Research"
+    href:           "/Research"
+  - name:           "People"
+    href:           "/People"
+  - name:           "Publications"
+    href:           "/Publication"
+  - name:           "Openings"
+    href:           "/Openings"
+  - name:           "Contact"
+    href:           "/Contact"
 
 # Sass
 sass:
