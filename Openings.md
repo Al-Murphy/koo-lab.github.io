@@ -15,6 +15,7 @@ We have two postdoc positions available. See descriptions below. Interested cand
 
 <b>Qualifications:</b> PhD in Computer Science, Physics, (Applied) Math, Statistics, Engineering or other quantitative field. Graduate students expecting to complete their doctoral studies within the next 12 months are also welcome to apply. Machine learning experience is required, as is enthusiasm for biology or biomedicine. In-depth knowledge of one or more of the following: generative adversarial networks, variational autoencoders, transformer networks, normalizing flows, adversarial attacks/training, and interpretability techniques for black-box models. Ideal candidates will have strong communication skills and a desire to work in an interdisciplinary environment. Prior experience with biological sequence data is a plus, but not necessary.
 
+Position Number: 02452-R
 
 
 #### Computational biology postdoc
