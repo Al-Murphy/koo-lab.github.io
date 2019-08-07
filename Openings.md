@@ -4,8 +4,6 @@ permalink: /Openings/
 ---
 
 
-
-
 {% assign reference_types = "scientists|students|discussion" | split: "|" %}
 
 {% for type in reference_types %}
