@@ -1,6 +1,6 @@
 ---
-title: Reference
-permalink: /resources/
+title: Contact
+permalink: /Contact/
 ---
 
 
