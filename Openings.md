@@ -29,7 +29,7 @@ Position Number: 02452-R
 
 ## Graduate student openings
 
-We have openings for graduate students interested in rotating, joining, or just conversing about science. Email koo@cshl.edu to set up a time to discuss potential opportunities.
+We have openings for graduate students interested in rotating or joining. Email koo@cshl.edu to arrange a time to discuss opportunities.
 
 
 &nbsp;
