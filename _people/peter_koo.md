@@ -7,7 +7,7 @@ twitter: pkoo562
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-- _Since Fall of 2019, Assistant Professor in the Simons Center for Quantitative Biology at Cold Spring Harbor Laboratory_ <br>
+- _2019-present, Assistant Professor_ <br>
 - _2015, Ph.D. in Physics at Yale University_ <br>
 - _2006, B.A. in Physics at the University of California at Berkeley_ <br>
 - _2010, Master in Financial Engineering at the Hass School of Business at UC Berkeley_
