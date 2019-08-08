@@ -34,7 +34,7 @@ For classification tasks, CNNs have been shown to be susceptible to specially cr
 
   <img class='img-responsive center-block' src="/images/research/piggie.png" width="70%" height="70%"/>
 <p align="justify"> 
-	<sub>On the left, an image of a pig is correctly classified by a state-of-the-art convolutional neural network. After A small perturbation is added to the image at every pixel to yield an image on the right that is visually very similar to the original image, but now the CNN predicts that it is an airliner.
+	<sub>On the left, an image of a pig is correctly classified by a state-of-the-art convolutional neural network. After a small perturbation is added to every pixel of the image, the new image (on the right) is visually very similar to the original image, but now the CNN predicts that it is an airliner.
 	</sub>
 </p>
 
