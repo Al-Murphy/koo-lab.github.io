@@ -5,8 +5,6 @@ permalink: /Research/
 <p align="justify"> 
 The <b>Koo Laboratory</b> studies sequence-function relationships with interpretable deep intelligent systems. We are interested in uncovering  cis-regulatory elements and their interactions for gene expression, RNA-protein interactions, and protein structure. Our goal is to elucidate the functional impact of genomic variants, which can provide insights into mutations associated with complex diseases, including cancer.
 </p>
-<br>
-
 ### Interpreting Deep Learning for Regulatory Genomics 
 
 <p align="justify"> 
