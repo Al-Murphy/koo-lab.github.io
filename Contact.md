@@ -9,7 +9,7 @@ permalink: /Contact/
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
 
-<b>Principal Investigator</b><br>
+####<b>Principal Investigator</b><br>
 Peter K. Koo, Ph.D.<br>
 <a href="mailto:koo@cshl.edu"><i class="fa fa-envelope-o"></i> koo@cshl.edu</a><br>
 <a href="https://twitter.com/pkoo562"><i class="fa fa-twitter"></i> @pkoo562</a><br>
@@ -17,7 +17,7 @@ Peter K. Koo, Ph.D.<br>
 <i class="fa fa-phone" aria-hidden="true"></i> 562-881-4083<br>
 <i class="fa fa-map-marker" aria-hidden="true"></i> (office)<br>
 
-<b>Mailing address:</b><br>
+####<b>Mailing address:</b><br>
 Cold Spring Harbor Laboratory<br>
 1 Bungtown Road <br>
 Cold Spring Harbor, New York 11724<br>
