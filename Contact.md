@@ -9,13 +9,12 @@ permalink: /Contact/
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
 <br>
-<br>
 
 <b>Principal Investigator</b><br>
 Peter K. Koo, Ph.D.<br>
 koo@cshl.edu<br>
-Address: (office)<br>
 Phone number: <br>
+Address: (office)<br>
 
 <b>Mailing address:</b><br>
 Cold Spring Harbor Laboratory<br>
@@ -24,7 +23,9 @@ Cold Spring Harbor, New York 11724<br>
 <br>
 <br>
 
-<p style="text-align: center;">
 CSHL is located on the north shore of Long Island and is readily accessible from New York City via the Long Island Rail Road. For additional information about CSHL, please visit: https://www.cshl.edu.
-</p>
+<br>
+<br>
+<br>
+
 

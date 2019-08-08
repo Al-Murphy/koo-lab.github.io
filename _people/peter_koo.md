@@ -6,6 +6,7 @@ twitter: pkoo562
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+<br>
 
 - _2019-present, Assistant Professor at Cold Spring Harbor Laboratory_ <br>
 - _2015-2019, Postdoctoral Researcher at Harvard University_ <br>
