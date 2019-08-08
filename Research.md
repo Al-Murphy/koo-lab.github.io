@@ -13,7 +13,7 @@ Deep learning is being applied rapidly in many areas of genomics, demonstrating 
 <br>
 
 
- <img class='img-responsive center-block' src="/images/research/representations.png" width="70%" height="70%"/>
+ <img class='img-responsive center-block' src="/images/research/representations.png" width="80%" height="80%"/>
 <sub>Distributed representations use many neurons to contribute to the recognition of a feature, in this case a grandma and a cat.  Local representations are when a single neuron recognizes the entire feature, not requiring collaboration with any other neurons. In genomics, this corresponds to learning whole sequence motifs (local representations) or partial sequence motifs (distributed representations), which are difficult to interpret. 
 </sub>
 <br>
@@ -35,7 +35,7 @@ For classification tasks, CNNs have been shown to be susceptible to specially cr
 <br>
 
 Since evolution samples functional protein sequences, statistical models can be trained to learn functional sites -- site-independence conservations (1-body interactions) and evolutionarily coupled positions (2-body interactions) -- from a multiple sequence alignment of homologous sequences. These models can then be utilized to score mutations in protein sequences, predict protein contacts, perform homology search, and design proteins. Recently, there has been growing interest in replacing more traditional models -- which include Position Sensitive Scoring Matrix (PSSM), Markov Random Fields (MRFs) and Multivariate Gaussians (MGs) -- with <b>deep generative models </b> -- which include variational autoencoders (VAEs), seq2seq models based on recurrent neural networks, generative adversarial networks (GANs), and transformer networks. Our group is interested in interpreting these promising class of models to understand what they are capable of learning. Our goal is to explore the utility of these class of models to inform the deleteriousness of mutations in protein sequences, which can help to prioritize disease-associated genomic variants in coding regions. 
-  <img class='img-responsive center-block' src="/images/research/MSA.jpg" width="30%" height="30%"/>
+  <img class='img-responsive center-block' src="/images/research/protein.png" width="80%" height="80%"/>
 
 <br>
 <br>
