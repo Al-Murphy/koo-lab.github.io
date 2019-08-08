@@ -29,6 +29,12 @@ We have two postdoc positions available (see descriptions below). Interested can
 
 We have openings for graduate students interested in rotating or joining. Email koo@cshl.edu to discuss opportunities.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 &nbsp;
 &nbsp;
