@@ -91,7 +91,12 @@ _Extracting Diffusive States of Rho GTPase in Live Cells: Towards In Vivo Bioche
 PLoS Comptuational Biology 11 (10), e1004297 ([Article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004297))
 
 
+\* Shared co-first author
+<br>
+
 For a full list, please click <a href="https://scholar.google.com/citations?user=7c3geoIAAAAJ&hl=en&oi=ao">here</a>.
+<br>
+
  
 &nbsp;
 &nbsp;
