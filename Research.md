@@ -11,6 +11,7 @@ Deep learning is being applied rapidly in many areas of genomics, demonstrating 
 
 <b>Design principles </b> – which include architecture choices and the incorporation of priors – can create an inductive bias that guides parameters to learn human-interpretable, biologically-meaningful representations. For instance, we have previously shown that the downsampling intermediate representations in convolutional neural networks (CNNs) directly affects the extent biological features, such as sequence motifs, are learned in each layer [1]. More recently, we demonstrate that highly divergent activation functions, such as an exponential, encourages CNNs to learn more interpretable representations [2].
 <br>
+<br>
 
 
  <img class='img-responsive center-block' src="/images/research/representations.png" width="80%" height="80%"/>
