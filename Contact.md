@@ -10,7 +10,7 @@ permalink: /Contact/
 </div>
 
 #### <b>Principal Investigator</b><br>
-Peter K. Koo, Ph.D.<br>
+Peter Koo, Ph.D.<br>
 <a href="mailto:koo@cshl.edu"><i class="fa fa-envelope-o"></i> koo@cshl.edu</a><br>
 <a href="https://twitter.com/pkoo562"><i class="fa fa-twitter"></i> @pkoo562</a><br>
 <a href="https://github.com/koo-lab"><i class="fa fa-github"></i> @Koo-Lab</a><br>
