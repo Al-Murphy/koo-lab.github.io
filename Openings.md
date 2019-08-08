@@ -3,7 +3,7 @@ title: Openings
 permalink: /Openings/
 ---
 
-# Postdoctoral positions
+## Postdoctoral positions
 
 We have two postdoc positions available (see descriptions below). Interested candidates should send a cover letter with a brief statement of research interests, CV, and contact information for three references to: koo@cshl.edu. 
 
@@ -25,7 +25,7 @@ We have two postdoc positions available (see descriptions below). Interested can
 
 
 
-# Graduate student openings
+## Graduate student openings
 
 We have openings for graduate students interested in rotating or joining. Email koo@cshl.edu to discuss opportunities.
 
