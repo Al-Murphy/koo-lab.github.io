@@ -12,8 +12,9 @@ twitter: pkoo562
 - _2015-2019, Postdoctoral Researcher at Harvard University_ <br>
 - _2010-2015, Ph.D. in Physics at Yale University_ <br>
 - _2009-2010, Master in Financial Engineering at the Hass School of Business at UC Berkeley_ <br>
-- _2006-2008, Ph.D. in Physics at Yale University_ <br>
+- _2006-2008, M.S. in Physics at Yale University_ <br>
 - _2006, B.A. in Physics at the University of California at Berkeley_ <br>
+<br>
 
 <a href="https://github.com/p-koo"><i class="fa fa-github"></i> @p-koo </a><br>
 <a href="https://twitter.com/pkoo562"><i class="fa fa-twitter"></i> @pkoo562 </a><br>
