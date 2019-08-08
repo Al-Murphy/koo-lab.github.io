@@ -15,8 +15,9 @@ permalink: /Contact/
 <b>Principal Investigator</b><br>
 Peter K. Koo, Ph.D.<br>
 koo@cshl.edu<br>
-Address (office)<br>
-Phone number<br>
+Address: (office)<br>
+Phone number: <br>
+<br>
 <br>
 
 <b>Mailing address:</b><br>
