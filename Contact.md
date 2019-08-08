@@ -26,13 +26,12 @@ CSHL is located on the north shore of Long Island and is readily accessible from
 
 <p align="center"> 
 <span style="display: block; margin-bottom: 2em"></span>
-<a href="https://github.com/koo-lab"><i class="fa fa-github"></i> @KooLab</a>&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/pkoo562"><i class="fa fa-twitter"></i> @PeterKoo</a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/koo-lab"><i class="fa fa-github"></i> @Koo-Lab</a>&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/pkoo562"><i class="fa fa-twitter"></i> @pkoo562</a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:koo@cshl.edu"><i class="fa fa-envelope-o"></i> koo@cshl.edu</a>
 </p>
 
-<br>
-<br>
+
 
 
 
