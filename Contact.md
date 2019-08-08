@@ -4,11 +4,10 @@ permalink: /Contact/
 ---
 
 <div class="col6 center">
-	<img class='img-responsive center-block' src="/images/contacts/cshl4.jpg" width="70%" height="70%"/>
+	<img class='img-responsive center-block' src="/images/contacts/cshl4.jpg" width="80%" height="80%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
-<br>
 <br>
 <br>
 
@@ -17,8 +16,6 @@ Peter K. Koo, Ph.D.<br>
 koo@cshl.edu<br>
 Address: (office)<br>
 Phone number: <br>
-<br>
-<br>
 
 <b>Mailing address:</b><br>
 Cold Spring Harbor Laboratory<br>
