@@ -40,7 +40,7 @@ Since evolution samples functional protein sequences, statistical models can be 
 <br>
 <br>
 
-  <img class='img-responsive center-block' src="/images/research/protein.png" width="80%" height="80%"/>
+  <img class='img-responsive center-block' src="/images/research/protein.png" width="70%" height="70%"/>
 
 <br>
 <br>
