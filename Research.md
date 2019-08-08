@@ -19,14 +19,14 @@ We are also interested in developing <b> interrogation methods </b> to access re
 For classification tasks, CNNs have been shown to be susceptible to specially crafted perturbations which alter their predictions confidently to the wrong class (see figure below). Much research has been focused on characterizing a networks susceptibility to these adversarial examples. Robust training methods -- adversarial training, Gaussian smoothing, and regularization -- have been developed to make CNNs more robust to adversaries, but they have also been shown to learn more robust features. We have observed that CNNs that learn robust features -- through design principles and robust training methods -- are more interpretable with gradient-based saliency methods [4]. We are interested in exploring how robust training methods promote an inductive bias towards a biologically-meaningful parameter space and establishing robust training standards for genomic sequences. 
 
 
-  <img class='img-responsive center-block' src="/images/research/piggie.png" width="100%" height="100%"/>
+  <img class='img-responsive center-block' src="/images/research/piggie.png" width="70%" height="70%"/>
 <sub>On the left, an image of a pig is correctly classified by a state-of-the-art convolutional neural network. After A small perturbation is added to the image at every pixel to yield an image on the right that is visually very similar to the original image, but now the CNN predicts that it is an airliner.
 </sub>
 
 ### Scoring Mutations in Proteins with Deep Generative Models
 
 Since evolution samples functional protein sequences, statistical models can be trained to learn functional sites -- site-independence conservations (1-body interactions) and evolutionarily coupled positions (2-body interactions) -- from a multiple sequence alignment of homologous sequences. These models can then be utilized to score mutations in protein sequences, predict protein contacts, perform homology search, and design proteins. Recently, there has been growing interest in replacing more traditional models -- which include Position Sensitive Scoring Matrix (PSSM), Markov Random Fields (MRFs) and Multivariate Gaussians (MGs) -- with <b>deep generative models </b> -- which include variational autoencoders (VAEs), seq2seq models based on recurrent neural networks, generative adversarial networks (GANs), and transformer networks. Our group is interested in interpreting these promising class of models to understand what they are capable of learning. Our goal is to explore the utility of these class of models to inform the deleteriousness of mutations in protein sequences, which can help to prioritize disease-associated genomic variants in coding regions. 
-  <img class='img-responsive center-block' src="/images/research/MSA.jpg" width="100%" height="100%"/>
+  <img class='img-responsive center-block' src="/images/research/MSA.jpg" width="30%" height="30%"/>
 
 <br>
 <br>
