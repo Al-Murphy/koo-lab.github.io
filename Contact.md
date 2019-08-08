@@ -16,6 +16,7 @@ Peter K. Koo, Ph.D.<br>
 <a href="https://github.com/koo-lab"><i class="fa fa-github"></i> @Koo-Lab</a><br>
 <i class="fa fa-phone" aria-hidden="true"></i> 562-881-4083<br>
 <i class="fa fa-map-marker" aria-hidden="true"></i> (office)<br>
+<br>
 
 #### <b>Mailing address:</b><br>
 Cold Spring Harbor Laboratory<br>
