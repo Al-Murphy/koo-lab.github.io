@@ -9,13 +9,13 @@ permalink: /Research/
 </p>
 
 <p align="justify"> 
-	<b>Design principles</b> can help create an inductive bias that guides parameters to learn human-interpretable, biologically-meaningful representations (see Figure below). For instance, we have previously shown that the downsampling intermediate representations in convolutional neural networks (CNNs) directly affects the extent that biological features, such as sequence motifs, are learned in each layer <a href="https://www.biorxiv.org/content/10.1101/362756v3">[1]</a>. More recently, we demonstrated that highly divergent activation functions, such as an exponential, encourages CNNs to learn more interpretable representations <a href="https://www.biorxiv.org/content/10.1101/650804v1.abstract">[2]</a>.
+	<b>Design principles</b> can help create an inductive bias that guides parameters to learn human-interpretable, biologically-meaningful representations (see Fig. below). For instance, we have previously shown that the downsampling intermediate representations in convolutional neural networks (CNNs) directly affects the extent that biological features, such as sequence motifs, are learned in each layer <a href="https://www.biorxiv.org/content/10.1101/362756v3">[1]</a>. More recently, we demonstrated that highly divergent activation functions, such as an exponential, encourages CNNs to learn more interpretable representations <a href="https://www.biorxiv.org/content/10.1101/650804v1.abstract">[2]</a>.
 </p>
 
 
  <img class='img-responsive center-block' src="/images/research/representations.png" width="80%" height="80%"/>
 <p align="justify"> 
-	<sub>Distributed representations recognize features, in this case a grandma and a cat, by integrating partial feature representations from many different neurons. On the other hand, local representations only require a single neuron, so-called grandma neurons, to recognize whole feature representations. In genomics, this corresponds to learning whole sequence motifs (local representations) or partial sequence motifs (distributed representations), which are difficult to interpret. 
+	<sub>Distributed representations recognize features, in this case a grandma and a cat, by integrating partial feature representations from many different neurons. On the other hand, local representations only require a single neuron, a so-called grandma neuron, to recognize whole feature representations. In genomics, this corresponds to learning whole sequence motifs (local representations) or partial sequence motifs (distributed representations), which are difficult to interpret. 
 	</sub>
 </p>
 
@@ -24,7 +24,7 @@ permalink: /Research/
 </p>
 
 <p align="justify"> 
-<b>Robust training methods</b> – adversarial training, Gaussian smoothing, and regularization – have been developed to make CNNs more robust to adversarial examples, which are specially crafted perturbations added to data such that they are imperceptible to humans but can easily trick a state-of-the-art classifier (see figure below). There is growing evidence that adversarial training, in particular, also promotes learning more robust features. We have observed that CNNs that learn robust features – through design principles and robust training methods – are generally more interpretable <a href="https://www.biorxiv.org/content/10.1101/657437v1.abstract">[4]</a>. We are interested in establishing robust training standards for genomics and more broadly understanding the properties that make networks more robust.
+<b>Robust training methods</b> – adversarial training, Gaussian smoothing, and regularization – have been developed to make CNNs more robust to adversarial examples, which are specially crafted perturbations added to data such that they are imperceptible to humans but can easily trick a state-of-the-art classifier (see figure below). There is growing evidence that adversarial training also leads to more robust features. We have observed that CNNs that learn robust features – through design principles and robust training methods – are generally more interpretable with attribution methods <a href="https://www.biorxiv.org/content/10.1101/657437v1.abstract">[4]</a>. We are interested in establishing robust training standards for genomics and, more broadly, understanding the properties that make networks more robust.
 </p>
 
   <img class='img-responsive center-block' src="/images/research/piggie.png" width="70%" height="70%"/>
