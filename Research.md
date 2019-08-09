@@ -26,9 +26,16 @@ permalink: /Research/
 ### Improving Interpretability with Robust Training 
 
 <p align="justify"> 
-<b>Robust training methods</b> – adversarial training, Gaussian smoothing, and regularization – have been developed to make CNNs more robust to adversaries, which can modify data with specially crafted perturbations such that they are imperceptible to humans but can trick a state-of-the-art classifier (see figure below). There is growing evidence that adversarial training, in particular, also promotes learning more robust features. 
+<b>Robust training methods</b> – adversarial training, Gaussian smoothing, and regularization – have been developed to make CNNs more robust to adversaries, which can modify data with specially crafted perturbations such that they are imperceptible to humans but can trick a state-of-the-art classifier (see figure below). There is growing evidence that adversarial training, in particular, also promotes learning more robust features. We have observed that CNNs that learn robust features – through design principles and robust training methods – are more interpretable with gradient-based saliency methods <a href="https://www.biorxiv.org/content/10.1101/657437v1.abstract">[4]</a>. 
 
-We have observed that CNNs that learn robust features – through design principles and robust training methods – are more interpretable with gradient-based saliency methods <a href="https://www.biorxiv.org/content/10.1101/657437v1.abstract">[4]</a>. We are interested in exploring how robust training methods promote an inductive bias towards a biologically-meaningful parameter space and establishing robust training standards for genomic sequences. 
+We are interested in understanding robustness properties of deep learning and how it affects interpretability. 
+
+ make neural networks robust, so that we can trust in their predictions 
+
+When it comes to decision making in healthcare where patients lives can be impacted, we need to be able to trust the predictions made by artificial intelligent systems. 
+
+
+training methods promote an inductive bias towards a biologically-meaningful parameter space and establishing robust training standards for genomic sequences. 
 </p>
 
   <img class='img-responsive center-block' src="/images/research/piggie.png" width="70%" height="70%"/>
