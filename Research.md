@@ -32,11 +32,12 @@ permalink: /Research/
 	<sub>On the left, an image of a pig is correctly classified by a state-of-the-art convolutional neural network. After a small perturbation is added to every pixel of the image, the new image (on the right) is visually very similar to the original image, but now the CNN predicts that it is an airliner.
 	</sub>
 </p>
+<br>
 
 ### Scoring Mutations in Proteins with Deep Generative Models
 
 <p align="justify"> 
-	A multiple sequence alignment of homologous sequences can inform statistical models of a protein's evolutionary contstraints (Fig. A), which include site-independent conservations and pairwise coevolutions. These models can then be repurposed to score mutations in protein sequences, predict protein contacts (Fig. B), search for homologs, and design proteins. There has been growing interest in replacing traditional models – Position Sensitive Scoring Matrix (PSSM), Markov Random Fields (MRFs) and Multivariate Gaussians (MGs) – with <b>deep generative models</b> <a href="https://arxiv.org/abs/1906.02598">[5]</a> – variational autoencoders (VAEs), seq2seq models based on recurrent neural networks, generative adversarial networks (GANs), and transformer networks (Fig. C). We are interested in interpreting this new promising class of models to understand what they are capable of learning. Ultimately, we intend to use these models to identify the deleteriousness of mutations in protein sequences, which can help to prioritize disease-associated genomic variants in coding regions. 
+	A multiple sequence alignment can inform statistical models of a protein's evolutionary contstraints (Fig. A), which include site-independent conservations and pairwise coevolutions. These models can then be repurposed to score mutations in protein sequences, predict protein contacts (Fig. B), search for homologs, and design proteins. There has been growing interest in replacing traditional models – Position Sensitive Scoring Matrix (PSSM), Markov Random Fields (MRFs) and Multivariate Gaussians (MGs) – with <b>deep generative models</b> <a href="https://arxiv.org/abs/1906.02598">[5]</a> – variational autoencoders (VAEs), seq2seq models based on recurrent neural networks, generative adversarial networks (GANs), and transformer networks (Fig. C). We are interested in interpreting this new promising class of models to understand what they are capable of learning. Ultimately, we intend to use these models to identify the deleteriousness of mutations in protein sequences, which can help to prioritize disease-associated genomic variants in coding regions. 
 </p>
 
   <img class='img-responsive center-block' src="/images/research/protein.png" width="70%" height="70%"/>
