@@ -4,12 +4,12 @@ permalink: /Openings/
 ---
 ## Postdoctoral positions
 
-We have two postdoc positions available (see descriptions below). Interested candidates should send a cover letter with a brief statement of research interests, CV, and contact information for three references to: koo@cshl.edu. 
+We have two postdoc positions available (see descriptions below). Interested candidates should send a cover letter with a brief statement of research interests, CV, and contact information for three references to koo@cshl.edu. 
 
 
 ### Machine learning postdoc 
 
-<b>Job description:</b> The successful candidate will develop deep learning systems to address cutting edge problems in regulatory genomics. Candidates with prior knowledge of computational biology or a machine learning background with strong interest in transitioning into biological data space are encouraged to apply.  
+<b>Job description:</b> The successful candidate will develop deep learning solutions to address cutting edge problems in regulatory genomics. Candidates with prior knowledge of computational biology or a machine learning background with strong interest in transitioning into biological data space are encouraged to apply.  
 
 
 <b>Qualifications:</b> PhD in Computer Science, Physics, (Applied) Math, Statistics, Engineering or other quantitative field. Machine learning experience is required, as is enthusiasm for biology or biomedicine. In-depth knowledge of one or more of the following: generative adversarial networks, variational autoencoders, transformer networks, normalizing flows, adversarial attacks/training, and interpretability techniques for black-box models. Ideal candidates will have strong communication skills and a desire to work in an interdisciplinary environment. Prior experience with biological sequence data is a plus, but not necessary.
