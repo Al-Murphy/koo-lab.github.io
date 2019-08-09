@@ -8,12 +8,12 @@ twitter: pkoo562
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 <br>
 
-- _2019-present, Assistant Professor at Cold Spring Harbor Laboratory_ <br>
-- _2015-2019, Postdoctoral Researcher at Harvard University_ <br>
-- _2010-2015, Ph.D. in Physics at Yale University_ <br>
-- _2009-2010, Master in Financial Engineering at the Hass School of Business at UC Berkeley_ <br>
-- _2006-2008, M.S. in Physics at Yale University_ <br>
-- _2006, B.A. in Physics at the University of California at Berkeley_ <br>
+- _2019-present, Assistant Professor, Cold Spring Harbor Laboratory_ <br>
+- _2015-2019, Postdoctoral Researcher, Harvard University_ <br>
+- _2010-2015, Ph.D. in Physics, Yale University_ <br>
+- _2009-2010, Master in Financial Engineering, Hass School of Business at UC Berkeley_ <br>
+- _2006-2008, M.S. in Physics, Yale University_ <br>
+- _2006, B.A. in Physics, University of California at Berkeley_ <br>
 <br>
 
 <a href="https://github.com/p-koo"><i class="fa fa-github"></i> @p-koo </a><br>
