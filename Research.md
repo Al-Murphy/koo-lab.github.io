@@ -9,7 +9,7 @@ permalink: /Research/
 </p>
 
 <p align="justify"> 
-	<b>Design principles</b> can help create an inductive bias that guides parameters to learn human-interpretable, biologically-meaningful representations (see Fig. below). For instance, we have previously shown that the downsampling intermediate representations in deep convolutional neural networks (CNNs), a popular AI model for regulatory genomics, directly affects the extent that biological features, such as sequence motifs, are learned in each layer <a href="https://www.biorxiv.org/content/10.1101/362756v3">[1]</a>. More recently, we demonstrated that highly divergent activation functions, such as an exponential, encourages CNNs to learn more interpretable representations <a href="https://www.biorxiv.org/content/10.1101/650804v1.abstract">[2]</a>.
+	<b>Design principles</b> can help create an inductive bias that guides parameters to learn human-interpretable, biologically-meaningful representations (see Fig. below). Towards this, we have previously shown that the downsampling intermediate representations in deep convolutional neural networks (CNNs), a popular AI model for regulatory genomics, directly affects the extent that biological features, such as sequence motifs, are learned in each layer <a href="https://www.biorxiv.org/content/10.1101/362756v3">[1]</a>. More recently, we demonstrated that highly divergent activation functions, such as an exponential, encourages CNNs to learn more interpretable representations <a href="https://www.biorxiv.org/content/10.1101/650804v1.abstract">[2]</a>.
 </p>
 
 
