@@ -9,7 +9,7 @@ permalink: /Contact/
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
  
-
+<center>
 #### <b>Principal Investigator</b><br>
 
 Peter Koo, Ph.D.<br>
@@ -25,6 +25,7 @@ Cold Spring Harbor Laboratory<br>
 1 Bungtown Road <br>
 Cold Spring Harbor, New York 11724<br>
 <br>
+</center>
 
 <img align="right" class='img-responsive center-block' src="/images/cshl_logo.png" width="20%" height="20%"/>
 
