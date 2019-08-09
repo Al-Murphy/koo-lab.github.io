@@ -9,13 +9,15 @@ permalink: /Contact/
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
 
+
 #### <b>Principal Investigator</b><br>
+<img align="righ" class='img-responsive center-block' src="/images/cshl_logo.png" width="30%" height="30%"/>
 Peter Koo, Ph.D.<br>
+<i class="fa fa-map-marker" aria-hidden="true"></i> (office)<br>
 <a href="mailto:koo@cshl.edu"><i class="fa fa-envelope-o"></i> koo@cshl.edu</a><br>
 <a href="https://twitter.com/pkoo562"><i class="fa fa-twitter"></i> @pkoo562</a><br>
 <a href="https://github.com/koo-lab"><i class="fa fa-github"></i> @Koo-Lab</a><br>
 <i class="fa fa-phone" aria-hidden="true"></i> 562-881-4083<br>
-<i class="fa fa-map-marker" aria-hidden="true"></i> (office)<br>
 <br>
 
 #### <b>Mailing address:</b><br>
