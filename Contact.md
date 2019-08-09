@@ -28,7 +28,7 @@ Cold Spring Harbor, New York 11724<br>
 
 <img align="right" class='img-responsive center-block' src="/images/cshl_logo.png" width="20%" height="20%"/>
 
-<p align="left"> 
+<p align="left" width="70%"> 
 CSHL is located on the north shore of Long Island and is readily accessible from New York City via the Long Island Rail Road. For additional information about CSHL, please visit: https://www.cshl.edu.
 </p>
 
