@@ -16,11 +16,10 @@ twitter: pkoo562
 - _2006, B.A. in Physics, University of California at Berkeley_ <br>
 <br>
 
-<a href="https://github.com/p-koo"><i class="fa fa-github"></i> @p-koo </a><br>
+<a href="mailto:koo@cshl.edu"><i class="fa fa-envelope-o"></i> koo@cshl.edu</a><br>
 <a href="https://twitter.com/pkoo562"><i class="fa fa-twitter"></i> @pkoo562 </a><br>
-<a href="https://www.linkedin.com/in/p-koo"><i class="fa fa-linkedin-square"></i> PeterKoo</a>  <br>
-<a href="mailto:koo@cshl.edu"><i class="fa fa-envelope-o"></i> koo@cshl.edu</a> 
-
+<a href="https://www.linkedin.com/in/p-koo"><i class="fa fa-linkedin-square"></i> PeterKoo</a><br>
+<a href="https://github.com/p-koo"><i class="fa fa-github"></i> @p-koo </a><br>
 
 <hr>
 
