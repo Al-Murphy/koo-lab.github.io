@@ -11,7 +11,7 @@ permalink: /Contact/
 
 
 #### <b>Principal Investigator</b><br>
-<img align="righ" class='img-responsive center-block' src="/images/cshl_logo.png" width="30%" height="30%"/>
+<img align="right" class='img-responsive center-block' src="/images/cshl_logo.png" width="30%" height="30%"/>
 Peter Koo, Ph.D.<br>
 <i class="fa fa-map-marker" aria-hidden="true"></i> (office)<br>
 <a href="mailto:koo@cshl.edu"><i class="fa fa-envelope-o"></i> koo@cshl.edu</a><br>
