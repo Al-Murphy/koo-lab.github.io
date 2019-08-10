@@ -34,7 +34,7 @@ permalink: /Research/
 </p>
 <br>
 
-### Scoring Mutations in Proteins with Deep Generative Models
+### Deep Generative Models for Protein Sequences
 
 <p align="justify"> 
 	Multiple sequence alignments inform statistical models of protein evolutionary contstraints (Fig. 3A), which include site-independent conservations and pairwise coevolutions. These models can then be repurposed to score mutations in protein sequences, predict protein contacts (Fig. 3B), search for homologs, and design proteins. There has been growing interest in replacing traditional models – Position Sensitive Scoring Matrix (PSSM), Markov Random Fields (MRFs) and Multivariate Gaussians (MGs) (see Fig. 3C) – with <b>deep generative models</b> <a href="https://arxiv.org/abs/1906.02598">[5]</a> – variational autoencoders (VAEs), seq2seq models with recurrent neural networks, and transformer networks (Fig. 3C). In collaboration with the <a href="http://site.solab.org">Ovchinnikov Lab</a> at Harvard, we are interested in interpreting this promising class of models to understand their capabilities. Ultimately, we intend to employ them to score the deleteriousness of mutations in protein sequences, which can help to prioritize disease-associated genomic variants in coding regions. 
