@@ -41,7 +41,7 @@ permalink: /Research/
 </p>
 
   <img class='img-responsive center-block' src="/images/research/protein.png" width="70%" height="70%"/>
-	<sub><b>Figure 3.</sub>b> (<b>A</b>) Multiple sequence alignment for homologous protein sequences. Positions with the same amino acid are conserved (green column). Positions that are in structural contact can exhibit covariation (coupled columns covarying blue and yellow). (<b>B</b>) Example contact map shows positions of protein from N to C terminus. Grey dots represent known contacts from x-ray crystallography, while the blue dots represent covariation predictions by an MRF. (<b>C</b>) Graphical representation of statistical models for sequence analysis. (Images courtesy of Sergey Ovchinnikov)
+	<sub><b>Figure 3.</b> (<b>A</b>) Multiple sequence alignment for homologous protein sequences. Positions with the same amino acid are conserved (green column). Positions that are in structural contact can exhibit covariation (coupled columns covarying blue and yellow). (<b>B</b>) Example contact map shows positions of protein from N to C terminus. Grey dots represent known contacts from x-ray crystallography, while the blue dots represent covariation predictions by an MRF. (<b>C</b>) Graphical representation of statistical models for sequence analysis. (Images courtesy of Sergey Ovchinnikov)
 	</sub>
 <br>
 <br>
