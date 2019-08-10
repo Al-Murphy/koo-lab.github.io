@@ -15,7 +15,7 @@ permalink: /Research/
 
  <img class='img-responsive center-block' src="/images/research/representations.png" width="80%" height="80%"/>
 <p align="justify"> 
-	<sub>Figure 1. Distributed representations recognize features, in this case a grandma and a cat, by integrating partial feature representations from many different neurons. On the other hand, local representations only employ a single neuron, a so-called grandma neuron, to recognize whole feature representations. In genomics, this corresponds to learning whole sequence motifs (local representations) or partial sequence motifs (distributed representations), which are difficult to interpret. 
+	<sub><b>Figure 1.</b> Distributed representations recognize features, in this case a grandma and a cat, by integrating partial feature representations from many different neurons. On the other hand, local representations only employ a single neuron, a so-called grandma neuron, to recognize whole feature representations. In genomics, this corresponds to learning whole sequence motifs (local representations) or partial sequence motifs (distributed representations), which are difficult to interpret. 
 	</sub>
 </p>
 
@@ -24,12 +24,12 @@ permalink: /Research/
 </p>
 
 <p align="justify"> 
-<b>Robust training methods</b> – adversarial training, Gaussian smoothing, and regularization – have been developed to improve the robustness of deep learning to adversarial examples, which are specially crafted perturbations added to data such that they are imperceptible to humans but can easily trick a state-of-the-art classifier (see Fig. 2). There is growing evidence that adversarial training also leads to more robust features. We have observed that deep learning models that learn robust features through design principles and robust training methods are generally more interpretable with attribution methods <a href="https://www.biorxiv.org/content/10.1101/657437v1.abstract">[4]</a>. We are interested in establishing robust training standards for genomics and, more broadly, understanding the properties that make deep learning more robust.
+<b>Robust training methods</b> – adversarial training, Gaussian smoothing, and regularization – have been developed to improve the robustness of deep learning to adversarial examples, which are specially crafted perturbations added to data such that they are imperceptible to humans but can easily trick a state-of-the-art classifier (Fig. 2). There is growing evidence that adversarial training also leads to more robust features. We have observed that deep learning models that learn robust features through design principles and robust training methods are generally more interpretable with attribution methods <a href="https://www.biorxiv.org/content/10.1101/657437v1.abstract">[4]</a>. We are interested in establishing robust training standards for genomics and, more broadly, understanding the properties that make deep learning more robust.
 </p>
 
   <img class='img-responsive center-block' src="/images/research/piggie.png" width="70%" height="70%"/>
 <p align="justify"> 
-	<sub>Figure 2. On the left, an image of a pig is correctly classified by a state-of-the-art CNN. After a small perturbation is added to every pixel of the image, the new image (on the right) is visually very similar to the original image, but now the CNN predicts that it is an airliner.
+	<sub><b>Figure 2.</b> On the left, an image of a pig is correctly classified by a state-of-the-art CNN. After a small perturbation is added to every pixel of the image, the new image (on the right) is visually very similar to the original image, but now the CNN predicts that it is an airliner.
 	</sub>
 </p>
 <br>
@@ -41,7 +41,7 @@ permalink: /Research/
 </p>
 
   <img class='img-responsive center-block' src="/images/research/protein.png" width="70%" height="70%"/>
-	<sub>(<b>A</b>)Figure 3. Multiple sequence alignment for homologous protein sequences. Positions with the same amino acid are conserved (green column). Positions that are in structural contact can exhibit covariation (coupled columns covarying blue and yellow). (<b>B</b>) Example contact map shows positions of protein from N to C terminus. Grey dots represent known contacts from x-ray crystallography, while the blue dots represent covariation predictions by an MRF. (<b>C</b>) Graphical representation of statistical models for sequence analysis. (Images courtesy of Sergey Ovchinnikov)
+	<sub><b>Figure 3.</sub>b> (<b>A</b>) Multiple sequence alignment for homologous protein sequences. Positions with the same amino acid are conserved (green column). Positions that are in structural contact can exhibit covariation (coupled columns covarying blue and yellow). (<b>B</b>) Example contact map shows positions of protein from N to C terminus. Grey dots represent known contacts from x-ray crystallography, while the blue dots represent covariation predictions by an MRF. (<b>C</b>) Graphical representation of statistical models for sequence analysis. (Images courtesy of Sergey Ovchinnikov)
 	</sub>
 <br>
 <br>
