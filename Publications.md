@@ -12,7 +12,7 @@ _Improving Convolutional Network Interpretability with Exponential Activations_<
 2019 ICML Workshop for Computational Biology ([Preprint](https://www.biorxiv.org/content/10.1101/650804v1.abstract), [Code](https://github.com/p-koo/cnn_exponential_activations))
 
 
-_Representation Learning of Genomic Sequence Motifs with Convolutional Neural Networks_<br>
+_Robust Neural Networks are More Interpretable for Genomics_<br>
 <b>PK Koo</b>, S Qian, G Kaplun, V Volf, D Kalimeris <br>
 2019 ICML Workshop for Computational Biology  ([Preprint](https://www.biorxiv.org/content/10.1101/657437v1.abstract), [Code](https://github.com/p-koo/uncovering_regulatory_codes))
 
