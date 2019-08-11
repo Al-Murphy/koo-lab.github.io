@@ -25,7 +25,7 @@ twitter: pkoo562
 
 ### Research Interests
 
-I am interested in exploring how representations of genomic sequences learned by deep neural networks can provide novel insights into biological processes. 
+I am interested in exploring how representations of biological sequences learned by deep neural networks can provide novel insights into biological processes. 
 <br>
 <br>
 <br>
