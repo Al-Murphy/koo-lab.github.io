@@ -18,7 +18,7 @@ We have two postdoc positions available (see descriptions below). Interested can
 ### Computational biology postdoc
 
 
-<b>Job description:</b> The successful candidate will apply deep learining solutions to address challenging regulatory genomics problems that fall within the lab’s broad interests in gene expression, alternative splicing, or RNA-protein interactions. Candidates with a strong background in biology and experience solving biological problems with computational methods are encouraged to apply. Prior experience with machine learning is a plus, but not necessary. 
+<b>Job description:</b> The successful candidate will apply deep learining methods to address challenging regulatory genomics problems that fall within the lab’s broad interests in gene expression, alternative splicing, or RNA-protein interactions. Candidates with a strong biology background and experience solving biological problems with computational methods are encouraged to apply. Prior experience with machine learning is a plus, but not necessary. 
 
 <b>Qualifications:</b> PhD in Biology, Bioinformatics, Biophysics, Computer Science or other related field. Ideal candidates will have strong communication skills and a desire to work in an interdisciplinary environment. Experience with python programming is required.
 <br>
