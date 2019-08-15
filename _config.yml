@@ -65,3 +65,6 @@ collections:
   people:
     output: true
     permalink: /people/:title/index.html
+
+plugins:
+  - jekyll-seo-tag
