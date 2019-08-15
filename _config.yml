@@ -10,6 +10,9 @@ description:        ""
 
 # URL
 url:                http://koo-lab.github.io
+plugins:
+   - jekyll-sitemap
+
 baseurl:
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
@@ -65,6 +68,5 @@ collections:
   people:
     output: true
     permalink: /people/:title/index.html
-
 plugins:
-  - jekyll-seo-tag
+   - jekyll-sitemap
