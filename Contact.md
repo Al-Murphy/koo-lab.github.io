@@ -20,6 +20,11 @@ Peter Koo, Ph.D.<br>
 <i class="fa fa-phone" aria-hidden="true"></i> 562-881-4083<br>
 <br>
 
+#### <b>Administrative Assistant</b>
+Irene Gill<br>
+<a href="mailto:gill@cshl.edu"><i class="fa fa-envelope-o"></i> gill@cshl.edu</a><br>
+<i class="fa fa-phone" aria-hidden="true"></i> 516-367-6834<br>
+
 #### <b>Mailing address:</b><br>
 Cold Spring Harbor Laboratory<br>
 1 Bungtown Road <br>
