@@ -13,11 +13,11 @@ permalink: /Contact/
 #### <b>Principal Investigator</b><br>
 
 Peter Koo, Ph.D.<br>
-<i class="fa fa-map-marker" aria-hidden="true"></i> (office)<br>
+<i class="fa fa-map-marker" aria-hidden="true"></i> (office) Koch Building, Rm 1120 <br>
 <a href="mailto:koo@cshl.edu"><i class="fa fa-envelope-o"></i> koo@cshl.edu</a><br>
 <a href="https://twitter.com/pkoo562"><i class="fa fa-twitter"></i> @pkoo562</a><br>
 <a href="https://github.com/koo-lab"><i class="fa fa-github"></i> @Koo-Lab</a><br>
-<i class="fa fa-phone" aria-hidden="true"></i> 562-881-4083<br>
+<i class="fa fa-phone" aria-hidden="true"></i> 516-367-5520<br>
 <br>
 
 #### <b>Administrative Assistant</b>
