@@ -89,7 +89,7 @@ Nature Communications 6, 7159 ([Article](https://www.nature.com/articles/ncomms8
 _Extracting Diffusive States of Rho GTPase in Live Cells: Towards In Vivo Biochemistry_<br>
 <b>PK Koo</b>\*, M Weitzman\*, CR Sabanaygam, KL van Golen, SGJ Mochrie <br>
 PLoS Comptuational Biology 11 (10), e1004297 ([Article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004297), [Code](https://github.com/p-koo/pEM))
-*Tabspace*<a href="https://f1000.com/prime/725888939"><img width="100" src="{{site.baseurl}}/images/F1000Prime.png"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://f1000.com/prime/725888939"><img width="100" src="{{site.baseurl}}/images/F1000Prime.png"></a>
 \* Shared co-first author
 <br>
 
