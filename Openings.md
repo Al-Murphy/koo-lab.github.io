@@ -28,7 +28,7 @@ We have two postdoc positions available (see descriptions below). Interested can
 
 ## Graduate student openings
 
-We have openings for graduate students interested in rotating or joining. Email koo@cshl.edu to discuss opportunities.
+We have openings for graduate students (at <b>CSHL</b> and <b>Stony Brook University</b>) interested in rotating or joining. Email koo@cshl.edu to discuss opportunities.
 
 <br>
 <br>

@@ -9,6 +9,7 @@ twitter: pkoo562
 <br>
 
 - _2019-present, Assistant Professor, Cold Spring Harbor Laboratory_ <br>
+	- _Adjunct Faculty, Laufer Center for Physical and Quantitative Biology at Stony Brook University_ <br>
 - _2015-2019, Postdoctoral Researcher, Harvard University_ <br>
 - _2010-2015, Ph.D. in Physics, Yale University_ <br>
 - _2009-2010, Master in Financial Engineering, Hass School of Business at UC Berkeley_ <br>
