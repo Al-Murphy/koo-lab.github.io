@@ -8,7 +8,7 @@ twitter: pkoo562
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 <br>
 
-- _2019-present, Assistant Professor, Cold Spring Harbor Laboratory_ <br>
+- _2019-present, Assistant Professor, Simons Center for Quantitative Biology at Cold Spring Harbor Laboratory_ <br>
 	- _Adjunct Faculty, Laufer Center for Physical and Quantitative Biology at Stony Brook University_ <br>
 - _2015-2019, Postdoctoral Researcher, Harvard University_ <br>
 - _2010-2015, Ph.D. in Physics, Yale University_ <br>
