@@ -6,24 +6,33 @@ permalink: /Publication/
 
 ## 2019
 
+_Improving Convolutional Network Interpretability with Divergent Activations_<br>
+<b>M Ploenzke\*, PK Koo</b>\*<br>
+2019 Machine Learning in Computational Biology Workshop ([Workshop abstract](https://www.biorxiv.org/content/10.1101/650804v1.abstract), [Code](https://github.com/p-koo/cnn_exponential_activations))
+
+_Interpreting Deep Neural Networks Beyond Local Attribution Methods: Quantifying Global Importance of Features_<br>
+<b>PK Koo</b>\*, M Ploenzke\* <br>
+2019 Machine Learning in Computational Biology Workshop ([Workshop abstract]())
+
+
 _Improving Convolutional Network Interpretability with Exponential Activations_<br>
 <b>PK Koo</b>\*, M Ploenzke\* <br>
-2019 ICML Workshop for Computational Biology ([Preprint](https://www.biorxiv.org/content/10.1101/650804v1.abstract), [Code](https://github.com/p-koo/cnn_exponential_activations))
+2019 ICML Workshop for Computational Biology ([Workshop abstract](https://www.biorxiv.org/content/10.1101/650804v1.abstract), [Code](https://github.com/p-koo/cnn_exponential_activations))
 
 
 _Robust Neural Networks are More Interpretable for Genomics_<br>
 <b>PK Koo</b>, S Qian, G Kaplun, V Volf, D Kalimeris <br>
-2019 ICML Workshop for Computational Biology  ([Preprint](https://www.biorxiv.org/content/10.1101/657437v1.abstract), [Code](https://github.com/p-koo/uncovering_regulatory_codes))
+2019 ICML Workshop for Computational Biology  ([Workshop abstract](https://www.biorxiv.org/content/10.1101/657437v1.abstract), [Code](https://github.com/p-koo/uncovering_regulatory_codes))
 
 
 _Unified framework for modeling multivariate distributions in biological sequences_<br>
 J Dauparas, H Wang, A Swartz, <b>PK Koo</b>, M Nitzan, S Ovchinnikov <br>
-2019 ICML Workshop for Computational Biology ([Preprint](https://arxiv.org/abs/1906.02598), [Code](https://github.com/sokrypton/seqmodels))
+2019 ICML Workshop for Computational Biology ([Workshop abstract](https://arxiv.org/abs/1906.02598), [Code](https://github.com/sokrypton/seqmodels))
 
 
 _Representation Learning of Genomic Sequence Motifs with Convolutional Neural Networks_<br>
 <b>PK Koo</b>, SR Eddy <br>
-PLoS Computational Biology, accepted ([Preprint](https://www.biorxiv.org/content/10.1101/362756v3), [Code](https://github.com/p-koo/learning_sequence_motifs))
+PLOS Computational Biology, accepted ([Preprint](https://www.biorxiv.org/content/10.1101/362756v3), [Code](https://github.com/p-koo/learning_sequence_motifs))
 
 
 _N-WASP Regulates the Mobility of the B Cell Receptor and Co-Receptors During Signaling Activation_<br>
@@ -88,7 +97,7 @@ Nature Communications 6, 7159 ([Article](https://www.nature.com/articles/ncomms8
 
 _Extracting Diffusive States of Rho GTPase in Live Cells: Towards In Vivo Biochemistry_<br>
 <b>PK Koo</b>\*, M Weitzman\*, CR Sabanaygam, KL van Golen, SGJ Mochrie <br>
-PLoS Comptuational Biology 11 (10), e1004297 ([Article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004297), [Code](https://github.com/p-koo/pEM))
+PLOS Comptuational Biology 11 (10), e1004297 ([Article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004297), [Code](https://github.com/p-koo/pEM))
 <a href="https://f1000.com/prime/725888939"><img width="100" src="{{site.baseurl}}/images/F1000Prime.png"></a>
 <br>
 \* Shared co-first author
