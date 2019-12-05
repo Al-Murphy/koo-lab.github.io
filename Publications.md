@@ -15,6 +15,14 @@ _Interpreting Deep Neural Networks Beyond Local Attribution Methods: Quantifying
 2019 Machine Learning in Computational Biology Workshop ([Workshop abstract]())
 
 
+_Representation Learning of Genomic Sequence Motifs with Convolutional Neural Networks_<br>
+<b>PK Koo</b>, SR Eddy <br>
+PLOS Computational Biology, accepted ([Preprint](https://www.biorxiv.org/content/10.1101/362756v3), [Code](https://github.com/p-koo/learning_sequence_motifs))
+
+_N-WASP Regulates the Mobility of the B Cell Receptor and Co-Receptors During Signaling Activation_<br>
+I Rey-Suarez, B Wheatley, <b>PK Koo</b>, Z Shu, S Mochrie, W Song, H Shroff, A Upadhyaya <br>
+Nature Communications, accepted ([Preprint](https://www.biorxiv.org/content/10.1101/619627v1.abstract))
+
 _Improving Convolutional Network Interpretability with Exponential Activations_<br>
 <b>PK Koo</b>\*, M Ploenzke\* <br>
 2019 ICML Workshop for Computational Biology ([Workshop abstract](https://www.biorxiv.org/content/10.1101/650804v1.abstract), [Code](https://github.com/p-koo/cnn_exponential_activations))
@@ -28,16 +36,6 @@ _Robust Neural Networks are More Interpretable for Genomics_<br>
 _Unified framework for modeling multivariate distributions in biological sequences_<br>
 J Dauparas, H Wang, A Swartz, <b>PK Koo</b>, M Nitzan, S Ovchinnikov <br>
 2019 ICML Workshop for Computational Biology ([Workshop abstract](https://arxiv.org/abs/1906.02598), [Code](https://github.com/sokrypton/seqmodels))
-
-
-_Representation Learning of Genomic Sequence Motifs with Convolutional Neural Networks_<br>
-<b>PK Koo</b>, SR Eddy <br>
-PLOS Computational Biology, accepted ([Preprint](https://www.biorxiv.org/content/10.1101/362756v3), [Code](https://github.com/p-koo/learning_sequence_motifs))
-
-
-_N-WASP Regulates the Mobility of the B Cell Receptor and Co-Receptors During Signaling Activation_<br>
-I Rey-Suarez, B Wheatley, <b>PK Koo</b>, Z Shu, S Mochrie, W Song, H Shroff, A Upadhyaya <br>
-Nature Communications, accepted ([Preprint](https://www.biorxiv.org/content/10.1101/619627v1.abstract))
 
 
 _A Demonstration of Unsupervised Machine Learning in Species Delimitation_<br>
