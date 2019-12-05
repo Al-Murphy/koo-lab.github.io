@@ -7,7 +7,7 @@ permalink: /Publication/
 ## 2019
 
 _Improving Convolutional Network Interpretability with Divergent Activations_<br>
-<b>M Ploenzke\*, PK Koo</b>\*<br>
+M Ploenzke\*, PK Koo</b>\*<br>
 2019 Machine Learning in Computational Biology Workshop ([Workshop abstract](https://www.biorxiv.org/content/10.1101/650804v1.abstract), [Code](https://github.com/p-koo/cnn_exponential_activations))
 
 _Interpreting Deep Neural Networks Beyond Local Attribution Methods: Quantifying Global Importance of Features_<br>
