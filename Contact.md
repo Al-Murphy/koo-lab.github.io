@@ -4,7 +4,7 @@ permalink: /Contact/
 ---
 
 <div class="col6 center">
-	<img class='img-responsive center-block' src="/images/contacts/cshl4_small.jpg" width="80%" height="80%"/>
+	<img class='img-responsive center-block' src="/images/contacts/cshl.jpg" width="80%" height="80%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
