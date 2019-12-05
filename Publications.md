@@ -4,7 +4,6 @@ permalink: /Publication/
 ---
 
 
-
 ## 2019
 
 _Improving Convolutional Network Interpretability with Exponential Activations_<br>
@@ -22,14 +21,20 @@ J Dauparas, H Wang, A Swartz, <b>PK Koo</b>, M Nitzan, S Ovchinnikov <br>
 2019 ICML Workshop for Computational Biology ([Preprint](https://arxiv.org/abs/1906.02598), [Code](https://github.com/sokrypton/seqmodels))
 
 
-_A Demonstration of Unsupervised Machine Learning in Species Delimitation_<br>
-S Derkarabetian, S Castillo, <b>PK Koo</b>, S Ovchinnikov, M Hedin <br>
-Molecular Phylogenetics and Evolution 139, 106562 ([Article](https://www.sciencedirect.com/science/article/pii/S1055790319301721))
+_Representation Learning of Genomic Sequence Motifs with Convolutional Neural Networks_<br>
+<b>PK Koo</b>, SR Eddy <br>
+PLoS Computational Biology, accepted ([Preprint](https://www.biorxiv.org/content/10.1101/362756v3), [Code](https://github.com/p-koo/learning_sequence_motifs))
 
 
 _N-WASP Regulates the Mobility of the B Cell Receptor and Co-Receptors During Signaling Activation_<br>
 I Rey-Suarez, B Wheatley, <b>PK Koo</b>, Z Shu, S Mochrie, W Song, H Shroff, A Upadhyaya <br>
-BioRxiv, 619627 ([Preprint](https://www.biorxiv.org/content/10.1101/619627v1.abstract))
+Nature Communications, accepted ([Preprint](https://www.biorxiv.org/content/10.1101/619627v1.abstract))
+
+
+_A Demonstration of Unsupervised Machine Learning in Species Delimitation_<br>
+S Derkarabetian, S Castillo, <b>PK Koo</b>, S Ovchinnikov, M Hedin <br>
+Molecular Phylogenetics and Evolution 139, 106562 ([Article](https://www.sciencedirect.com/science/article/pii/S1055790319301721))
+
 
 
 <hr>
@@ -39,11 +44,6 @@ BioRxiv, 619627 ([Preprint](https://www.biorxiv.org/content/10.1101/619627v1.abs
 _Inferring Sequence-Structure Preferences of RNA-Binding Proteins with Convolutional Residual Networks_<br>
 <b>PK Koo</b>, P Anand, SB Paul, SR Eddy <br>
 BioRxiv, 418459 ([Preprint](https://www.biorxiv.org/content/10.1101/418459v1.abstract))
-
-
-_Representation Learning of Genomic Sequence Motifs with Convolutional Neural Networks_<br>
-<b>PK Koo</b>, SR Eddy <br>
-BioRxiv, 362756 ([Preprint](https://www.biorxiv.org/content/10.1101/362756v3), [Code](https://github.com/p-koo/learning_sequence_motifs))
 
 
 _Applying Perturbation Expectation-Maximization to Protein Trajectories of Rho GTPases_<br>
