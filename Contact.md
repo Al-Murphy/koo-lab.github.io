@@ -8,7 +8,6 @@ permalink: /Contact/
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
-_Implementation of Gatys et al. A neural algorithm of artistic style, arXiv (2015)_
 
 
 #### <b>Principal Investigator</b><br>
