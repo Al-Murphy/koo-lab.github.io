@@ -5,7 +5,7 @@ permalink: /Research/
 ### Interpretable Deep Learning for Regulatory Genomics 
 
 <p align="justify"> 
-	Deep learning, a subfield of artificial intelligence, is being applied rapidly in many areas of genomics, demonstrating improved performance over previous methods on benchmark datasets. Despite the promise of deep learning systems, it remains unclear whether improved predictions will translate to new biological discoveries because of their low interpretability, which has earned them a reputation as a black box. Understanding the reasons underlying a deep learning model’s prediction may reveal new biological insights not captured by previous methods. Our research develops methods to interpret deep learning models through <b>design principles</b>, <b>interrogation methods</b>, and <b>robust training</b>.
+	Deep learning is being applied rapidly in many areas of genomics, demonstrating improved performance over previous methods on benchmark datasets. Despite the promise of deep learning systems, it remains unclear whether improved predictions will translate to new biological discoveries because of their low interpretability, which has earned them a reputation as a black box. Understanding the reasons underlying a deep learning model’s prediction may reveal new biological insights not captured by previous methods. Our research develops methods to interpret deep learning models through <b>design principles</b>, <b>interrogation methods</b>, and <b>robust training</b>.
 </p>
 
 <p align="justify"> 
