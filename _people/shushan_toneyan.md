@@ -1,6 +1,6 @@
 ---
 name: Shushan Toneyan
-position: rotation
+position: gradstudent
 avatar: shushantoneyan_profile.jpg
 ---
 
