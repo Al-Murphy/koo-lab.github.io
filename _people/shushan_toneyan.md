@@ -7,7 +7,7 @@ avatar: shushantoneyan_profile.jpg
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 <br>
 
-- _2019-present, Graduate Student, Watson School of Biological Sciences, CSHL <br>
+- _2019-present, Graduate Student, Watson School of Biological Sciences, CSHL_ <br>
 - _2017-2019, Master's degree in Bioinformatics and Computational Biology, University of Bern_ <br>
 - _2014-2017, Bachelor's degree in Biology, University of Oxford_ <br>
 <br>
