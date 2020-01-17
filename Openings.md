@@ -16,7 +16,7 @@ Interested applicants should submit a cover letter with a brief statement of res
 
 ## Graduate student openings
 
-We have openings for graduate students (at <b>CSHL</b> and <b>Stony Brook University</b>) interested in rotating or joining. Email koo@cshl.edu to discuss opportunities.
+We have openings for graduate students at <b>CSHL</b> and <b>Stony Brook University</b>. Email koo@cshl.edu to discuss opportunities to rotate or join.
 
 <br>
 <br>
