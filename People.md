@@ -17,9 +17,9 @@ permalink: /People/
 <h3>Postdoctoral Fellows</h3>
  {% elsif item == 'gradstudent' %}
 <h3>Graduate Students</h3>
-<!---  {% elsif item == 'rotation' %}
+ {% elsif item == 'rotation' %}
 <h3>Rotation Students</h3>
-{% elsif item == 'visiting' %}
+<!---   {% elsif item == 'visiting' %}
 <h3>Visiting Scholars</h3>
  {% elsif item == 'others' %}
 <h3>Honorary Members</h3>
