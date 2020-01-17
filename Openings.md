@@ -2,26 +2,14 @@
 title: Openings
 permalink: /Openings/
 ---
+
 ## Postdoctoral positions
 
-We have two postdoc positions available (see descriptions below). Interested candidates should send a cover letter with a brief statement of research interests, CV, and contact information for three references to koo@cshl.edu. 
+Postdoc positions are available! Potential projects include but are not limited to 1) developing deep learning solutions to address cutting edge problems in cancer genomics, working closely with wet lab experimentalist at the CSHL Cancer Center; 2) advancing design principles for deep neural networks to improve their interpretability and robustness for regulatory genomics; 3) developing deep generative models for protein and RNA sequences. Candidates with prior knowledge of computational biology or a machine learning background with a strong interest in transitioning into (cancer) genomics are encouraged to apply.
 
+<b>Qualifications:</b> A PhD in Computer Science, Physics, (Applied) Math, Statistics, Bioinformatics, Engineering or other quantitative field is required. Machine learning experience is required, as is enthusiasm for biology or biomedicine. Ideal candidates will be driven, have strong communication skills and a desire to work in an interdisciplinary environment. Prior experience with biological data is a plus, but not necessary.
 
-### Machine learning postdoc 
-
-<b>Job description:</b> The successful candidate will develop deep learning solutions to address cutting edge problems in regulatory genomics. Candidates with prior knowledge of computational biology or a machine learning background with a strong interest in transitioning into biological data space are encouraged to apply.  
-
-
-<b>Qualifications:</b> A PhD in Computer Science, Physics, (Applied) Math, Statistics, Bioinformatics, Engineering or other quantitative field is required. Machine learning experience is required, as is enthusiasm for biology or biomedicine. In-depth knowledge of one or more of the following is required: transformer networks, variational autoencoders, adversarial attacks/training, generative adversarial networks, and interpretability techniques for black-box models. Ideal candidates will be driven, have strong communication skills and a desire to work in an interdisciplinary environment. Prior experience with biological sequence data is a plus, but not necessary.
-
-
-### Computational biology postdoc
-
-
-<b>Job description:</b> The successful candidate will apply deep learning methods to address challenging biological problems that fall within the lab’s broad interests in gene expression, alternative splicing, or RNA-protein interactions. Candidates with a strong biology background and experience solving biological problems with computational methods are encouraged to apply. Prior experience with machine learning is a plus, but not necessary. 
-
-<b>Qualifications:</b> A PhD in Biology, Bioinformatics, Biophysics, Computer Science or other related field is required. The ideal candidate will be driven, have strong communication skills and a desire to work in an interdisciplinary environment. Experience with python programming is required.
-<br>
+Interested applicant should submit a cover letter with a brief statement of research interests, CV, and contact information for three references to koo@cshl.edu.
 
 <hr>
 
