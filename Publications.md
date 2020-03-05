@@ -20,7 +20,7 @@ PLOS Computational Biology ([Article](https://journals.plos.org/ploscompbiol/art
 
 _Interpreting Deep Neural Networks Beyond Local Attribution Methods: Quantifying Global Importance of Features_<br>
 <b>PK Koo</b>\*, M Ploenzke\* <br>
-2019 Machine Learning in Computational Biology Workshop ([Workshop abstract](https://www.biorxiv.org/content/10.1101/2020.02.19.956896v1.abstract))
+2019 Machine Learning in Computational Biology Meeting ([Extended abstract](https://www.biorxiv.org/content/10.1101/2020.02.19.956896v1.abstract))
 
 
 _Improving Convolutional Network Interpretability with Exponential Activations_<br>
