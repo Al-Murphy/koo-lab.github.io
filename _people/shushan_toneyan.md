@@ -14,6 +14,7 @@ avatar: shushantoneyan_profile.jpg
 
 <a href="mailto:toneyan@cshl.edu"><i class="fa fa-envelope-o"></i> toneyan@cshl.edu</a><br>
 <a href="https://www.linkedin.com/in/shushan-toneyan-5a59b668"><i class="fa fa-linkedin-square"></i> ShushanToneyan</a><br>
+<a href="https://github.com/Shushalsec"><i class="fa fa-github"></i> @Shushalsec </a><br>
 
 
 <hr>

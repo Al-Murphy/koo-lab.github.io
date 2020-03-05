@@ -3,25 +3,30 @@ title: Publication
 permalink: /Publication/
 ---
 
+## 2020
+
+_N-WASP Regulates the Mobility of the B Cell Receptor and Co-Receptors During Signaling Activation_<br>
+I Rey-Suarez, B Wheatley, <b>PK Koo</b>, Z Shu, S Mochrie, W Song, H Shroff, A Upadhyaya <br>
+Nature Communications ([Article](https://www.nature.com/articles/s41467-020-14335-8))
+
 
 ## 2019
 
 
 _Representation Learning of Genomic Sequence Motifs with Convolutional Neural Networks_<br>
 <b>PK Koo</b>, SR Eddy <br>
-PLOS Computational Biology ([Preprint](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007560), [Code](https://github.com/p-koo/learning_sequence_motifs))
+PLOS Computational Biology ([Article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007560), [Code](https://github.com/p-koo/learning_sequence_motifs))
 
-_N-WASP Regulates the Mobility of the B Cell Receptor and Co-Receptors During Signaling Activation_<br>
-I Rey-Suarez, B Wheatley, <b>PK Koo</b>, Z Shu, S Mochrie, W Song, H Shroff, A Upadhyaya <br>
-Nature Communications, accepted ([Preprint](https://www.biorxiv.org/content/10.1101/619627v1.abstract))
 
 _Interpreting Deep Neural Networks Beyond Local Attribution Methods: Quantifying Global Importance of Features_<br>
 <b>PK Koo</b>\*, M Ploenzke\* <br>
-2019 Machine Learning in Computational Biology Workshop ([Workshop abstract](https://sites.google.com/cs.washington.edu/mlcb/presentations/posters))
+2019 Machine Learning in Computational Biology Workshop ([Workshop abstract](https://www.biorxiv.org/content/10.1101/2020.02.19.956896v1.abstract))
+
 
 _Improving Convolutional Network Interpretability with Exponential Activations_<br>
 <b>PK Koo</b>\*, M Ploenzke\* <br>
 2019 ICML Workshop for Computational Biology ([Workshop abstract](https://www.biorxiv.org/content/10.1101/650804v1.abstract), [Code](https://github.com/p-koo/cnn_exponential_activations))
+
 
 _Robust Neural Networks are More Interpretable for Genomics_<br>
 <b>PK Koo</b>, S Qian, G Kaplun, V Volf, D Kalimeris <br>
@@ -51,7 +56,7 @@ BioRxiv, 362756 ([Preprint](https://www.biorxiv.org/content/10.1101/362756v4), [
 
 _Applying Perturbation Expectation-Maximization to Protein Trajectories of Rho GTPases_<br>
 <b>PK Koo</b>, SR Eddy <br>
-Rho GTPases, 57-70 ([Chapter](https://link.springer.com/protocol/10.1007/978-1-4939-8612-5_5))
+Rho GTPases, 57-70 ([Chapter](https://link.springer.com/protocol/10.1007/978-1-4939-8612-5_5), [Code](https://github.com/p-koo/pEMv2))
 
 
 <hr>
