@@ -13,8 +13,6 @@ avatar: ambertang_profile.jpg
 
 <a href="mailto:ztang@cshl.edu"><i class="fa fa-envelope-o"></i> ztang@cshl.edu</a><br>
 <a href="https://twitter.com/AmberZqt"><i class="fa fa-twitter"></i> @AmberZqt </a><br>
-#<a href="https://www.linkedin.com/in/p-koo"><i class="fa fa-linkedin-square"></i> PeterKoo</a><br>
-#<a href="https://github.com/p-koo"><i class="fa fa-github"></i> @p-koo </a><br>
 
 
 <hr>
