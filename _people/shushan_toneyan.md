@@ -1,7 +1,7 @@
 ---
 name: Shushan Toneyan
 position: gradstudent
-avatar: shushantoneyan_profile.jpg
+avatar: shush_profile.png
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
