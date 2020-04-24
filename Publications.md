@@ -5,6 +5,11 @@ permalink: /Publication/
 
 ## 2020
 
+_ZBED2 is an antagonist of interferon regulatory factor1 and modifies cell identity in pancreatic cancer_<br>
+TD Somerville, Y Xu, XS Wu, D Maia-Silva, SK Hur, LMN de Almeida, JB Preall, <b>PK Koo</b>, CR Vakoc <br>
+Proceedings of the National Academy of Sciences ([In press])
+
+
 _N-WASP Regulates the Mobility of the B Cell Receptor and Co-Receptors During Signaling Activation_<br>
 I Rey-Suarez, B Wheatley, <b>PK Koo</b>, Z Shu, S Mochrie, W Song, H Shroff, A Upadhyaya <br>
 Nature Communications ([Article](https://www.nature.com/articles/s41467-020-14335-8))
