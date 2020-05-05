@@ -1,6 +1,7 @@
 ---
 name: Antonio Majdandzic
 position: postdoc
+avatar: antonio_profile.jpeg
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
