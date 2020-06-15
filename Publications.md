@@ -5,9 +5,17 @@ permalink: /Publication/
 
 ## 2020
 
+_Improving Representations of Genomic Sequence Motifs in Convolutional Networks with Exponential Activations_<br>
+<b>PK Koo</b>, M Ploenzke <br>
+bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2020.06.14.150706v1))
+
+_Deep Learning for Inferring Transcription Factor Binding Sites_<br>
+<b>PK Koo</b>, M Ploenzke <br>
+Current Opinion in Systems Biology ([Review](https://www.sciencedirect.com/science/article/pii/S2452310020300032?via%3Dihub))
+
 _ZBED2 is an antagonist of interferon regulatory factor1 and modifies cell identity in pancreatic cancer_<br>
 TD Somerville, Y Xu, XS Wu, D Maia-Silva, SK Hur, LMN de Almeida, JB Preall, <b>PK Koo</b>, CR Vakoc <br>
-Proceedings of the National Academy of Sciences ([In press])
+Proceedings of the National Academy of Sciences ([Article](https://www.pnas.org/content/117/21/11471.short))
 
 
 _N-WASP Regulates the Mobility of the B Cell Receptor and Co-Receptors During Signaling Activation_<br>
@@ -25,21 +33,21 @@ PLOS Computational Biology ([Article](https://journals.plos.org/ploscompbiol/art
 
 _Interpreting Deep Neural Networks Beyond Local Attribution Methods: Quantifying Global Importance of Features_<br>
 <b>PK Koo</b>\*, M Ploenzke\* <br>
-2019 Machine Learning in Computational Biology Meeting ([Extended abstract](https://www.biorxiv.org/content/10.1101/2020.02.19.956896v1.abstract))
+Machine Learning in Computational Biology Meeting, 2019 ([Extended abstract](https://www.biorxiv.org/content/10.1101/2020.02.19.956896v1.abstract))
 
 
 _Improving Convolutional Network Interpretability with Exponential Activations_<br>
 <b>PK Koo</b>\*, M Ploenzke\* <br>
-2019 ICML Workshop for Computational Biology ([Workshop abstract](https://www.biorxiv.org/content/10.1101/650804v1.abstract), [Code](https://github.com/p-koo/cnn_exponential_activations))
+ICML 2019 Workshop for Computational Biology ([Workshop abstract](https://www.biorxiv.org/content/10.1101/650804v1.abstract), [Code](https://github.com/p-koo/cnn_exponential_activations))
 
 
 _Robust Neural Networks are More Interpretable for Genomics_<br>
 <b>PK Koo</b>, S Qian, G Kaplun, V Volf, D Kalimeris <br>
-2019 ICML Workshop for Computational Biology  ([Workshop abstract](https://www.biorxiv.org/content/10.1101/657437v1.abstract), [Code](https://github.com/p-koo/uncovering_regulatory_codes))
+ICML 2019 Workshop for Computational Biology  ([Workshop abstract](https://www.biorxiv.org/content/10.1101/657437v1.abstract), [Code](https://github.com/p-koo/uncovering_regulatory_codes))
 
 _Unified framework for modeling multivariate distributions in biological sequences_<br>
 J Dauparas, H Wang, A Swartz, <b>PK Koo</b>, M Nitzan, S Ovchinnikov <br>
-2019 ICML Workshop for Computational Biology ([Workshop abstract](https://arxiv.org/abs/1906.02598), [Code](https://github.com/sokrypton/seqmodels))
+ICML 2019 Workshop for Computational Biology ([Workshop abstract](https://arxiv.org/abs/1906.02598), [Code](https://github.com/sokrypton/seqmodels))
 
 _A Demonstration of Unsupervised Machine Learning in Species Delimitation_<br>
 S Derkarabetian, S Castillo, <b>PK Koo</b>, S Ovchinnikov, M Hedin <br>
@@ -53,11 +61,11 @@ Molecular Phylogenetics and Evolution 139, 106562 ([Article](https://www.science
 
 _Inferring Sequence-Structure Preferences of RNA-Binding Proteins with Convolutional Residual Networks_<br>
 <b>PK Koo</b>, P Anand, SB Paul, SR Eddy <br>
-BioRxiv, 418459 ([Preprint](https://www.biorxiv.org/content/10.1101/418459v1.abstract))
+bioRxiv, 418459 ([Preprint](https://www.biorxiv.org/content/10.1101/418459v1.abstract))
 
 _Representation Learning of Genomic Sequence Motifs with Convolutional Neural Networks_<br>
 <b>PK Koo</b>, SR Eddy <br>
-BioRxiv, 362756 ([Preprint](https://www.biorxiv.org/content/10.1101/362756v4), [Code](https://github.com/p-koo/learning_sequence_motifs))
+bioRxiv, 362756 ([Preprint](https://www.biorxiv.org/content/10.1101/362756v4), [Code](https://github.com/p-koo/learning_sequence_motifs))
 
 _Applying Perturbation Expectation-Maximization to Protein Trajectories of Rho GTPases_<br>
 <b>PK Koo</b>, SR Eddy <br>
@@ -71,7 +79,7 @@ Rho GTPases, 57-70 ([Chapter](https://link.springer.com/protocol/10.1007/978-1-4
 
 _Inferring Functional Neural Connectivity With Deep Residual Convolutional Networks_<br>
 TW Dunn, <b>PK Koo</b> <br>
-BioRxiv, 141010 ([Preprint](https://www.biorxiv.org/content/10.1101/141010v2.abstract), [Code](https://github.com/spoonsso/TFconnect))
+bioRxiv, 141010 ([Preprint](https://www.biorxiv.org/content/10.1101/141010v2.abstract), [Code](https://github.com/spoonsso/TFconnect))
 
 
 
