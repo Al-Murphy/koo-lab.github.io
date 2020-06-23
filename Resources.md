@@ -70,7 +70,7 @@ _Manolis Kellis' Machine Learning in Genomics Course at MIT_
 [Video](https://www.youtube.com/playlist?list=PLypiXJdtIca6U5uQOCHjP9Op3gpa177fK)) <br>
 
 _Shirley Liu's Introduction to Computational Biology and bioinformatics Course at Harvard_
-([Website for module 2 with links to Video](https://liulab-dfci.github.io/resources/html/STAT115_2020_Module2.html)) <br>
+([Website/Video](https://liulab-dfci.github.io/resources/html/STAT115_2020_Module2.html)) <br>
 
 _Eric Lander's Intro to Biology Course at MIT_
 ([Video](https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3)) <br>
@@ -112,3 +112,5 @@ _Machine Learning Summer School 2020 - MPI Tubengen (June - deadline Feb)_
 _Gaussian Process Summer Schools (Sep - Deadline June)_
 ([Website](http://gpss.cc), 
 [Video](http://gpss.cc/gpss18/program)) <br>
+
+
