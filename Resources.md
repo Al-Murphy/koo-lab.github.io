@@ -1,13 +1,13 @@
 _____________________________________________________________
-## Machine Learning courses
+### Machine Learning courses
 
-#### Recommended:
+Recommended:
 
 * _Andrew Ng's Intro to Machine Learning Course at Stanford_ 
 ([Website](http://cs229.stanford.edu/), 
 [Video](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)) 
 
-#### Additional resources:
+Additional resources:
 
 * _Yaser Abu-Mostafa's Learning from Data Course at Caltech_ 
 ([Website](http://work.caltech.edu/lectures.html), 
@@ -18,9 +18,9 @@ _____________________________________________________________
 [Book](http://www.inference.org.uk/mackay/itila/)) 
 
 _____________________________________________________________
-## Deep Learning courses
+### Deep Learning courses
 
-#### Recommended:
+Recommended:
 
 * _Convolutional Neural Networks for Visual Recognition Course at Stanford_ 
 ([Website](http://cs231n.github.io/), 
@@ -30,7 +30,7 @@ _____________________________________________________________
 ([Website](https://sites.google.com/view/berkeley-cs294-158-sp19/home), 
 [Video](https://www.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/videos)) 
 
-#### Additional resources:
+Additional resources:
 
 * _DeepMind x UCL | Deep Learning Lectures | Intro to Machine Learning & AI_
 ([Video](https://www.youtube.com/watch?v=7R52wiUgxZI&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)) 
@@ -61,9 +61,9 @@ book: http://d2l.ai/chapter_introductio (Statn/index.html
 [Video](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)) 
 
 _____________________________________________________________
-## Biology courses
+### Biology courses
 
-#### Recommended:
+Recommended:
 
 * _Manolis Kellis' Machine Learning in Genomics Course at MIT_
 ([Website](http://stellar.mit.edu/S/course/6/fa19/6.047/), 
@@ -75,7 +75,7 @@ _____________________________________________________________
 * _Eric Lander's Intro to Biology Course at MIT_
 ([Video](https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3)) 
 
-#### Additional resources:
+Additional resources:
 
 * _Foundations of Computational and Systems Biology Course at MIT_
 ([Website](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/), 
@@ -83,7 +83,7 @@ _____________________________________________________________
 
 
 _____________________________________________________________
-## Seminars
+### Seminars
 
 * _Deep Learning Summer School - MILA_
 ([Video](http://videolectures.net/DLRLsummerschool2018_toronto/)) 
@@ -92,7 +92,7 @@ _____________________________________________________________
 ([Video](https://www.youtube.com/playlist?list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS)) 
 
 ________________________________________________________________________________________
-## Short Courses
+### Short Courses
 
 
 * _Deep Learning Summer School (Jul - Deadline ?)_
@@ -114,7 +114,7 @@ ________________________________________________________________________________
 [Video](http://gpss.cc/gpss18/program)) 
 
 
-## Books
+### Books
 
 * _Interpretable Machine Learning by Christoph Molnar_ ([Link](https://christophm.github.io/interpretable-ml-book/))
 * _Deep Learning by Goodfellow, Bengio, and Courville_ ([Link](https://www.deeplearningbook.org/))
