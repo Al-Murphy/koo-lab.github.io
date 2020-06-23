@@ -12,6 +12,7 @@ ____________________________________________________________
 * _Deep learning at base-resolution reveals cis-regulatory motif syntax_ ([Link](https://www.biorxiv.org/content/10.1101/737981v2))
 * _An equivariant Bayesian convolutional network predicts recombination hotspots and accurately resolves binding motifs_ ([Link](https://academic.oup.com/bioinformatics/article/35/13/2177/5210873))
 
+
 _____________________________________________________________
 ### TF Binding
 
@@ -31,6 +32,7 @@ _____________________________________________________________
 * _Learning from mistakes: Accurate prediction of cell type-specific2transcription factor binding_ ([Link](https://www.biorxiv.org/content/biorxiv/early/2018/06/12/230011.full.pdf))
 * _Varying levels of complexity in transcription factor binding motifs_ ([Link](https://academic.oup.com/nar/article/43/18/e119/2414334))
 * _A General Pairwise Interaction Model Provides an Accurate Description of In Vivo Transcription Factor Binding Sites_ ([Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0099015))
+
 
 _____________________________________________________________
 ### Proteins
@@ -70,6 +72,7 @@ _____________________________________________________________
 * _PatchUp: A Regularization Technique for Convolutional Neural Networks_ ([Link](https://arxiv.org/abs/2006.07794))
 * _Domain Extrapolation via Regret Minimization_ ([Link](https://arxiv.org/abs/2006.03908))
 * _Denoising Diffusion Probabilistic Models_ ([Link](https://hojonathanho.github.io/diffusion/assets/denoising_diffusion20.pdf))
+* _Understanding deep learning requires rethinking generalization_ ([Link](https://arxiv.org/abs/1611.03530))
 
 
 _____________________________________________________________
