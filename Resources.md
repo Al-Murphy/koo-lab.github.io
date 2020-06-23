@@ -91,7 +91,7 @@ ________________________________________________________________________________
 * _Gaussian Process Summer Schools (Sep - Deadline June)_
 ([Website](http://gpss.cc), 
 [Video](http://gpss.cc/gpss18/program)) 
-
+* _Lectures on Causality: Jonas Peters_ ([Part 1](https://www.youtube.com/watch?v=zvrcyqcN9Wo&list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS), [Part 2](https://www.youtube.com/watch?v=bHOGP5o3Vu0&list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS), [Part 3](https://www.youtube.com/watch?v=Jp4UcgpVA2I&list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS), [Part 4](https://www.youtube.com/watch?v=ytnr_2dyyMU&list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS))
 
 ________________________________________________________________________________________
 ### Books
@@ -103,3 +103,13 @@ ________________________________________________________________________________
 * _Machine Learning: A Probabilistic Interpretation by Kevin Murphy_ ([Link](https://www.dropbox.com/s/ejg02cej400zb1f/ML%20Machine%20Learning-A%20Probabilistic%20Perspective.pdf?dl=0))
 * _Information Theory, Inference, and Learning Algorithms by Mackay_ ([Link](https://www.dropbox.com/s/fdt02bg7mqx4b2a/Information%20Theory%20Inference%20and%20Learning%20Algorithms%20by%20MacKay.pdf?dl=0))
 * _Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow_ ([Book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646), [Link](https://github.com/ageron/handson-ml2))
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>

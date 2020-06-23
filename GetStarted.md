@@ -1,13 +1,22 @@
 _____________________________________________________________
 ### Articles/Blogs
 
-* _The utility of Einsum_ ([Link](https://rockt.github.io/2018/04/30/einsum))
+* _Intro to NNs_ ([Link 1](http://neuralnetworksanddeeplearning.com/chap1.html), 
+	[Link 2](http://neuralnetworksanddeeplearning.com/chap2.html), 
+	[Link 3](http://neuralnetworksanddeeplearning.com/chap3.html))
+* _Intro to CNNs_ ([Link 1](https://towardsdatascience.com/covolutional-neural-network-cb0883dd6529), 
+	[Link 2](http://colah.github.io/posts/2014-07-Understanding-Convolutions/), 
+	[Link 3](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/))
+* _DL Optimization_ ([Link](https://towardsdatascience.com/neural-network-optimization-7ca72d4db3e0))
+* _Advance concepts for CNNs_ ([Link](https://towardsdatascience.com/advanced-topics-in-deep-convolutional-neural-networks-71ef1190522d))
 
 _____________________________________________________________
 ### Papers
 
+* _Deep learning: new computational modelling techniques for genomics_ ([Link](https://www.nature.com/articles/s41576-019-0122-6)) 
 * _Deep learning for inferring transcription factor binding sites_ 
 ([Link](https://www.sciencedirect.com/science/article/pii/S2452310020300032?via%3Dihub)) 
+
 
 _____________________________________________________________
 ### Example Code
@@ -18,12 +27,13 @@ _____________________________________________________________
 	* [Synthetic multi-task classifcation](https://colab.research.google.com/drive/1jeAjDwsEbLKMMsOvRdPMe26iqbLBoM6j?usp=sharing)
 	* [Process ChIP-seq dataset](https://colab.research.google.com/drive/1ZBeLOm9VXRe0shAieo6Wx2BM4nH3uqjc?usp=sharing)
 	* [Analyze ChIP-seq dataset](https://colab.research.google.com/drive/10c8ZTjKaQHHv8fcAgibluUHoEHrIjGAt?usp=sharing)
+* _Interpretability of Deep Learning Models with Tensorflow 2.0_ ([Link](https://www.sicara.ai/blog/2019-08-28-interpretability-deep-learning-tensorflow))
 * _Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow_
 ([Book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646), 
 ([Code](https://github.com/ageron/handson-ml2)) 
 
 _____________________________________________________________
-### ML/DL courses
+### ML/DL Courses
 
 * _Convolutional Neural Networks for Visual Recognition Course at Stanford_ 
 ([Website](http://cs231n.github.io/), 
@@ -33,7 +43,7 @@ _____________________________________________________________
 [Video](https://www.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/videos)) 
 
 _____________________________________________________________
-### Biology courses
+### Biology Courses
 
 * _Machine Learning in genomics (Kellis' course at MIT)_
 ([Website](http://stellar.mit.edu/S/course/6/fa19/6.047/), 
@@ -63,3 +73,12 @@ _____________________________________________________________
 	[Link](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf))
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
