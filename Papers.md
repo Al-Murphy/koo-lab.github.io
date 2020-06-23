@@ -2,12 +2,10 @@ ____________________________________________________________
 ### Deep Learning for Genomics
 
 * _Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning_ ([Link](https://www.nature.com/articles/nbt.3300))
-* _A_ ([Link]())
 * _Basset: Learning the regulatory code of the accessible genome with deep convolutional neural networks_ ([Link](https://genome.cshlp.org/content/early/2016/05/03/gr.200535.115.abstract))
 * _Predicting effects of noncoding variants with deep learning–based sequence model_ ([Link](https://www.nature.com/articles/nmeth.3547))
 * _Predicting Splicing from Primary Sequence with Deep Learning_ ([Link](https://www.cell.com/cell/pdf/S0092-8674(18)31629-5.pdf))
-* _
-A Deep Neural Network for Predicting and Engineering Alternative Polyadenylation_ ([Link](https://www.cell.com/cell/fulltext/S0092-8674(19)30498-2))
+* _A Deep Neural Network for Predicting and Engineering Alternative Polyadenylation_ ([Link](https://www.cell.com/cell/fulltext/S0092-8674(19)30498-2))
 * _Sequential regulatory activity prediction acrosschromosomes with convolutional neural networks_ ([Link](https://genome.cshlp.org/content/early/2018/04/09/gr.227819.117.full.pdf))
 * _Human 5′ UTR design and variant effect prediction from a massively parallel translation assay_ ([Link](https://www.nature.com/articles/s41587-019-0164-5))
 * _Deep learning of the regulatory grammar of yeast 5′ untranslated regions from 500,000 random sequences_ ([Link](https://genome.cshlp.org/content/early/2017/11/02/gr.224964.117.abstract))
