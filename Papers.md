@@ -1,14 +1,18 @@
+____________________________________________________________
+### Deep Learning for Genomics
 
-_____________________________________________________________
-### Deep Learning
-
-* _EfficientDet: Scalable and Efficient Object Detection_ ([Link](https://arxiv.org/pdf/1911.09070.pdf))
-* _Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One_ ([Link](https://arxiv.org/abs/1912.03263))
-* _Gradient Estimation with Stochastic Softmax Tricks_ ([Link](https://arxiv.org/abs/2006.08063))
-* _Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning_ ([Link](https://arxiv.org/abs/2006.07733))
-* _PatchUp: A Regularization Technique for Convolutional Neural Networks_ ([Link](https://arxiv.org/abs/2006.07794))
-* _Domain Extrapolation via Regret Minimization_ ([Link](https://arxiv.org/abs/2006.03908))
-* _Denoising Diffusion Probabilistic Models_ ([Link](https://hojonathanho.github.io/diffusion/assets/denoising_diffusion20.pdf))
+* _Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning_ ([Link](https://www.nature.com/articles/nbt.3300))
+* _A_ ([Link]())
+* _Basset: Learning the regulatory code of the accessible genome with deep convolutional neural networks_ ([Link](https://genome.cshlp.org/content/early/2016/05/03/gr.200535.115.abstract))
+* _Predicting effects of noncoding variants with deep learning–based sequence model_ ([Link](https://www.nature.com/articles/nmeth.3547))
+* _Predicting Splicing from Primary Sequence with Deep Learning_ ([Link](https://www.cell.com/cell/pdf/S0092-8674(18)31629-5.pdf))
+* _
+A Deep Neural Network for Predicting and Engineering Alternative Polyadenylation_ ([Link](https://www.cell.com/cell/fulltext/S0092-8674(19)30498-2))
+* _Sequential regulatory activity prediction acrosschromosomes with convolutional neural networks_ ([Link](https://genome.cshlp.org/content/early/2018/04/09/gr.227819.117.full.pdf))
+* _Human 5′ UTR design and variant effect prediction from a massively parallel translation assay_ ([Link](https://www.nature.com/articles/s41587-019-0164-5))
+* _Deep learning of the regulatory grammar of yeast 5′ untranslated regions from 500,000 random sequences_ ([Link](https://genome.cshlp.org/content/early/2017/11/02/gr.224964.117.abstract))
+* _Deep learning at base-resolution reveals cis-regulatory motif syntax_ ([Link](https://www.biorxiv.org/content/10.1101/737981v2))
+* _An equivariant Bayesian convolutional network predicts recombination hotspots and accurately resolves binding motifs_ ([Link](https://academic.oup.com/bioinformatics/article/35/13/2177/5210873))
 
 _____________________________________________________________
 ### TF Binding
@@ -19,7 +23,7 @@ _____________________________________________________________
 * _FactorNet: A deep learning framework for predicting cell type specific transcription factor binding from nucleotide-resolution sequential data_ ([Link](https://www.sciencedirect.com/science/article/pii/S1046202318303293?via%3Dihub))
 * _Completing the ENCODE3 compendium yields accurate imputations across a variety of assays and human biosamples_ ([Link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01978-5#Sec9))
 * _Multi-scale deep tensor factorization learns a latentrepresentation of the human epigenome_ ([Link](https://www.biorxiv.org/content/biorxiv/early/2019/04/11/364976.full.pdf))
-* _A_ ([Link]())
+
 
 _____________________________________________________________
 ### Higher-order interactions
@@ -32,15 +36,23 @@ _____________________________________________________________
 
 _____________________________________________________________
 ### Proteins
+
+* _Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences_ ([Link](https://www.biorxiv.org/content/10.1101/622803v2))
+* _Evaluating Protein Transfer Learning with TAPE_ ([Link](https://papers.nips.cc/paper/9163-evaluating-protein-transfer-learning-with-tape.pdf))
+* _Using Deep Learning to Annotate the Protein Universe_ ([Link](https://www.biorxiv.org/content/10.1101/626507v4))
 * _Improved protein structure prediction using predicted interresidue orientations_ ([Link](https://www.pnas.org/content/117/3/1496
 ))
-* _A_ ([Link]())
-* _A_ ([Link]())
-* _A_ ([Link]())
+* _Unified rational protein engineering with sequence-based deep representation learning_ ([Link](https://www.nature.com/articles/s41592-019-0598-1.pdf?proof=true))
+* _Deep generative models of genetic variation capture the effects of mutations_ ([Link](https://www.nature.com/articles/s41592-018-0138-4))
+* _Learning protein sequence embeddings using information from structure_ ([Link](https://arxiv.org/pdf/1902.08661.pdf))
+* _Transforming the language of life: Transformer netowrks for protein prediction tasks_ ([Link](https://www.biorxiv.org/content/10.1101/2020.06.15.153643v1.full.pdf))
+)
+* _The proteome landscape of the kingdoms of life_ ([Link](https://www.nature.com/articles/s41586-020-2402-x)
+
 
 
 _____________________________________________________________
-### Attention
+### Attention/Transformers
 
 * _The utility of Einsum_ ([Link](https://rockt.github.io/2018/04/30/einsum))
 * _The Transformer Family_ ([Link](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html))
@@ -48,48 +60,61 @@ _____________________________________________________________
 * _SYNTHESIZER: Rethinking Self-Attention in Transformer Models_ ([Link](https://arxiv.org/pdf/2005.00743.pdf))
 * _Linformer: Self-Attention with Linear Complexity_ ([Link](https://arxiv.org/abs/2006.04768))
 * _Masked Language Modeling for Proteins via Linearly Scalable Long-Context Transformers_ ([Link](https://arxiv.org/abs/2006.03555))
-* _Transforming the language of life: Transformer netowrks for protein prediction tasks_ ([Link](https://www.biorxiv.org/content/10.1101/2020.06.15.153643v1.full.pdf))
-* _The proteome landscape of the kingdoms of life_ ([Link](https://www.nature.com/articles/s41586-020-2402-x))
+
+
+_____________________________________________________________
+### Deep Learning
+
+* _EfficientDet: Scalable and Efficient Object Detection_ ([Link](https://arxiv.org/pdf/1911.09070.pdf))
+* _Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One_ ([Link](https://arxiv.org/abs/1912.03263))
+* _Gradient Estimation with Stochastic Softmax Tricks_ ([Link](https://arxiv.org/abs/2006.08063))
+* _Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning_ ([Link](https://arxiv.org/abs/2006.07733))
+* _PatchUp: A Regularization Technique for Convolutional Neural Networks_ ([Link](https://arxiv.org/abs/2006.07794))
+* _Domain Extrapolation via Regret Minimization_ ([Link](https://arxiv.org/abs/2006.03908))
+* _Denoising Diffusion Probabilistic Models_ ([Link](https://hojonathanho.github.io/diffusion/assets/denoising_diffusion20.pdf))
 
 
 _____________________________________________________________
 ### Interpretability
 
+* _Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps_ ([Link](https://arxiv.org/abs/1312.6034))
+* _SmoothGrad: removing noise by adding noise_ ([Link](https://arxiv.org/abs/1706.03825))
+* _“Why Should I Trust You?”Explaining the Predictions of Any Classifier_ ([Link](https://arxiv.org/pdf/1602.04938v1.pdf))
 * _Explaining Models by Propagating Shapley Values_ ([Link](https://arxiv.org/pdf/1911.11888.pdf))
-* _A_ ([Link]())
-* _A_ ([Link]())
-* _A_ ([Link]())
-* _A_ ([Link]())
-* _A_ ([Link]())
+* _A Unified Approach to Interpreting Model Predictions_ ([Link](https://arxiv.org/abs/1705.07874))
+* _Learning Important Features Through Propagating Activation Differences_ ([Link](https://arxiv.org/abs/1704.02685))
+* _Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)_ ([Link](https://arxiv.org/abs/1711.11279))
 
 _____________________________________________________________
 ### Robustness 
 
 * _Gradient Science Blog -- Madry Lab at MIT_ ([Link](https://gradientscience.org/))
 * _Adversarial Training Tutorial_ ([Link](https://adversarial-ml-tutorial.org/))
+* _Intriguing properties of neural networks_ ([Link](https://arxiv.org/abs/1312.6199))
+* _On the Robustness of Interpretability Methods_ ([Link](https://arxiv.org/pdf/1806.08049.pdf))
+* _Robustness May Be at Odds with Accuracy_ ([Link](https://arxiv.org/abs/1805.12152))
+* _Adversarial Examples are not Bugs, they are Features_ ([Link](https://papers.nips.cc/paper/8307-adversarial-examples-are-not-bugs-they-are-features.pdf))
 * _Towards Deep Learning Models Resistant to Adversarial Attacks_ ([Link](https://openreview.net/pdf?id=rJzIBfZAb))
 * _Certified Adversarial Robustness via Randomized Smoothing_ ([Link](https://arxiv.org/pdf/1902.02918.pdf))
 * _Black-box Smoothing: A Provable Defense for Pretrained Classifiers_ ([Link](https://arxiv.org/pdf/2003.01908.pdf))
 * _Adversarial Robustness Through Local Lipschitzness_ ([Link](https://arxiv.org/abs/2003.02460))
-* _On the Robustness of Interpretability Methods_ ([Link](https://arxiv.org/pdf/1806.08049.pdf))
-* _A_ ([Link]())
-* _A_ ([Link]())
-* _A_ ([Link]())
-* _A_ ([Link]())
 
 
 _____________________________________________________________
 ### Normalizing Flows
+
 * _Variational Inference: A Review for Statisticians - Blei et al._ ([Link](https://arxiv.org/pdf/1601.00670.pdf))
+* _Auto-Encoding Variational Bayes_ ([Link](https://arxiv.org/abs/1312.6114))
+* _Stochastic Backpropagation and Approximate Inference in Deep Generative Models_ ([Link](https://arxiv.org/abs/1401.4082))
 * _Variational Inference with Normalizing Flows_ ([Link](https://arxiv.org/pdf/1505.05770.pdf))
+* _Normalizing Flows: An Introduction and Review of Current Methods_ ([Link](https://arxiv.org/pdf/1908.09257.pdf))
 * _Why Normalizing Flows Fail to Detect Out-of-Distribution Data_ ([Link](https://arxiv.org/abs/2006.08545))
-* _A_ ([Link]())
-* _A_ ([Link]())
-* _A_ ([Link]())
+
 
 
 _____________________________________________________________
 ### Dimensionality Reduction
+
 * _How to Use t-SNE Effectively_ ([Link](https://distill.pub/2016/misread-tsne/))
 * _How Exactly UMAP Works_ ([Link](https://towardsdatascience.com/how-exactly-umap-works-13e3040e1668))
 * _Principal Component Analysis Breakdown_ ([Link](https://towardsdatascience.com/principal-component-analysis-breakdown-f3fb1fb48efc))
@@ -97,6 +122,7 @@ _____________________________________________________________
 
 _____________________________________________________________
 ### Other
+
 * _Reproducing kernel Hilbert spaces in Machine Learning - Lecture notes_ ([Link](http://www.gatsby.ucl.ac.uk/~gretton/coursefiles/rkhscourse.html))
 
 
