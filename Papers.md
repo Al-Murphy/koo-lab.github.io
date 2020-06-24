@@ -8,10 +8,13 @@ ____________________________________________________________
 * _A Deep Neural Network for Predicting and Engineering Alternative Polyadenylation_ ([Link](https://www.cell.com/cell/fulltext/S0092-8674(19)30498-2))
 * _Sequential regulatory activity prediction acrosschromosomes with convolutional neural networks_ ([Link](https://genome.cshlp.org/content/early/2018/04/09/gr.227819.117.full.pdf))
 * _Human 5′ UTR design and variant effect prediction from a massively parallel translation assay_ ([Link](https://www.nature.com/articles/s41587-019-0164-5))
-* _Deep learning of the regulatory grammar of yeast 5′ untranslated regions from 500,000 random sequences_ ([Link](https://genome.cshlp.org/content/early/2017/11/02/gr.224964.117.abstract))
 * _Deep learning at base-resolution reveals cis-regulatory motif syntax_ ([Link](https://www.biorxiv.org/content/10.1101/737981v2))
-* _An equivariant Bayesian convolutional network predicts recombination hotspots and accurately resolves binding motifs_ ([Link](https://academic.oup.com/bioinformatics/article/35/13/2177/5210873))
+* _Enhanced Integrated Gradients: improving interpretability of deep learning models using splicing codes as a case study_ ([Link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02055-7))
 
+
+* _An equivariant Bayesian convolutional network predicts recombination hotspots and accurately resolves binding motifs_ ([Link](https://academic.oup.com/bioinformatics/article/35/13/2177/5210873))
+* _Predicting Gene Expression from DNA Sequenceusing Residual Neural Network_ ([Link](https://www.biorxiv.org/content/10.1101/2020.06.21.163956v1.full.pdf))
+* _Deep learning of the regulatory grammar of yeast 5′ untranslated regions from 500,000 random sequences_ ([Link](https://genome.cshlp.org/content/early/2017/11/02/gr.224964.117.abstract))
 
 _____________________________________________________________
 ### TF Binding
@@ -22,6 +25,13 @@ _____________________________________________________________
 * _FactorNet: A deep learning framework for predicting cell type specific transcription factor binding from nucleotide-resolution sequential data_ ([Link](https://www.sciencedirect.com/science/article/pii/S1046202318303293?via%3Dihub))
 * _Completing the ENCODE3 compendium yields accurate imputations across a variety of assays and human biosamples_ ([Link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01978-5#Sec9))
 * _Multi-scale deep tensor factorization learns a latentrepresentation of the human epigenome_ ([Link](https://www.biorxiv.org/content/biorxiv/early/2019/04/11/364976.full.pdf))
+
+
+
+_____________________________________________________________
+### RBP Binding
+
+* _Predicting dynamic cellular protein-RNA interactions using deep learning and in vivo RNA structure_ ([Link](https://www.biorxiv.org/content/biorxiv/early/2020/05/07/2020.05.05.078774.full.pdf))
 
 
 _____________________________________________________________
@@ -48,6 +58,7 @@ _____________________________________________________________
 * _Transforming the language of life: Transformer netowrks for protein prediction tasks_ ([Link](https://www.biorxiv.org/content/10.1101/2020.06.15.153643v1.full.pdf))
 )
 * _The proteome landscape of the kingdoms of life_ ([Link](https://www.nature.com/articles/s41586-020-2402-x)
+* _Energy-based models for atomic resolution protein conformations_ ([Link](https://openreview.net/pdf?id=S1e_9xrFvS#page5))
 
 
 
@@ -79,12 +90,14 @@ _____________________________________________________________
 ### Interpretability
 
 * _Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps_ ([Link](https://arxiv.org/abs/1312.6034))
+* _Axiomatic Attribution for Deep Networks_ ([Link](https://arxiv.org/pdf/1703.01365.pdf))
 * _SmoothGrad: removing noise by adding noise_ ([Link](https://arxiv.org/abs/1706.03825))
 * _“Why Should I Trust You?”Explaining the Predictions of Any Classifier_ ([Link](https://arxiv.org/pdf/1602.04938v1.pdf))
 * _Explaining Models by Propagating Shapley Values_ ([Link](https://arxiv.org/pdf/1911.11888.pdf))
 * _A Unified Approach to Interpreting Model Predictions_ ([Link](https://arxiv.org/abs/1705.07874))
 * _Learning Important Features Through Propagating Activation Differences_ ([Link](https://arxiv.org/abs/1704.02685))
 * _Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)_ ([Link](https://arxiv.org/abs/1711.11279))
+* _Learning Explainable Models Using Attribution Priors_ ([Link](https://arxiv.org/abs/1906.10670))
 
 _____________________________________________________________
 ### Robustness 
