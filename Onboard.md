@@ -1,4 +1,4 @@
-# Onboarding Checklist
+# Onboarding
 <br>
 
 #### Slack
