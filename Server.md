@@ -16,12 +16,15 @@ $ ssh <username>@<server-ip>
 #### Jupyter notebook
 
 _Terminal on remote machine_
+
 $ jupyter notebook --no-browser --port=8080
 
 _Terminal on local machine_
+
 $ ssh -N -L 8080:localhost:8080 <username>@<server-ip>
 
 _Browser on local machine (need token from jupyter notebook on remote machine)_
+
 $ localhost:8080 
 <br>
 <br>
@@ -29,12 +32,15 @@ $ localhost:8080
 #### GPU management
 
 _Check processes on gpu_
+
 $ nvidia-smi
 
 _kill process on gpu_
+
 $ sudo kill -9 <PID>
 
 _Run a job on a specific GPU_
+
 $ CUDA_VISIBLE_DEVICES=<gpu> python3 <script.py>
 <br>
 <br>
