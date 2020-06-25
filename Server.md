@@ -1,14 +1,15 @@
 
 # Server Management
 <br>
-<br>
 
 #### VPN using Ubuntu 
 $ sudo openfortivpn vpn.cshl.edu:443 -u <username> --trusted-cert <token>
 <br>
+<br>
 
 #### ssh to server
 $ ssh <username>@<server-ip>
+<br>
 <br>
 
 
@@ -23,7 +24,7 @@ $ ssh -N -L 8080:localhost:8080 <username>@<server-ip>
 _Browser on local machine (need token from jupyter notebook on remote machine)_
 $ localhost:8080 
 <br>
-
+<br>
 
 #### GPU management
 
@@ -35,6 +36,7 @@ $ sudo kill -9 <PID>
 
 _Run a job on a specific GPU_
 $ CUDA_VISIBLE_DEVICES=<gpu> python3 <script.py>
+<br>
 <br>
 
 #### Setup Python environment for Tensorflow-gpu with cuda and cudnn
