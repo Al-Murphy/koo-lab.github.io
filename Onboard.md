@@ -61,7 +61,7 @@ _Bio-related_
 * [CSHL Biology of Genomes](https://meetings.cshl.edu/meetingshome.aspx) (Due: February, Conference: May)
 * [CSHL From Neuroscience to Artificially Intelligent Systems](https://meetings.cshl.edu/meetingshome.aspx) (Due: August, Conference: November) 
 * CHSL Biological Data Science (Due: August, Conference: November)
-* RECOMB-ISCB Regulatory and Systems Genomics in NYC (Due: October, Conference: November)
+* [RECOMB-ISCB Regulatory and Systems Genomics in NYC](https://www.iscb.org/recomb-regsysgen2019) (Due: October, Conference: November)
 
 _ML-related_ 
 * [International Conference on Machine Learning](https://icml.cc/) (Due: January, Conference: July)
