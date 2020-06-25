@@ -2,12 +2,12 @@
 <br>
 
 #### VPN using Ubuntu 
-$ sudo openfortivpn vpn.cshl.edu:443 -u <username> --trusted-cert <token>
+$ sudo openfortivpn vpn.cshl.edu:443 -u \[username\] --trusted-cert \[token\]
 <br>
 <br>
 
 #### ssh to server
-$ ssh <username>@<server-ip>
+$ ssh \[username\]@\[server-ip\]
 <br>
 <br>
 
@@ -20,7 +20,7 @@ $ jupyter notebook --no-browser --port=8080
 
 _Terminal on local machine_
 
-$ ssh -N -L 8080:localhost:8080 <username>@<server-ip>
+$ ssh -N -L 8080:localhost:8080 \[username\]@\[server-ip\]
 
 _Browser on local machine (need token from jupyter notebook on remote machine)_
 
@@ -36,11 +36,11 @@ $ nvidia-smi
 
 _kill process on gpu_
 
-$ sudo kill -9 <PID>
+$ sudo kill -9 \[PID\]
 
 _Run a job on a specific GPU_
 
-$ CUDA_VISIBLE_DEVICES=<gpu> python3 <script.py>
+$ CUDA_VISIBLE_DEVICES=\[gpu\] python3 \[script.py\]
 <br>
 <br>
 
