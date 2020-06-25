@@ -22,7 +22,7 @@ _____________________________________________________________
 ### Example Code
 
 * _Francis Chollet's tensorflow 2 + keras tutorial_ 
-([Code](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO)) 
+([Code](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO?usp=sharing)) 
 * _Deep Learning for Genomics_
 	* [Synthetic multi-task classifcation](https://colab.research.google.com/drive/1jeAjDwsEbLKMMsOvRdPMe26iqbLBoM6j?usp=sharing)
 	* [Process ChIP-seq dataset](https://colab.research.google.com/drive/1ZBeLOm9VXRe0shAieo6Wx2BM4nH3uqjc?usp=sharing)
