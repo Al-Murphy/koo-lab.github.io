@@ -1,12 +1,15 @@
 
 # Server Management
+<br>
+<br>
 
 #### VPN using Ubuntu 
 $ sudo openfortivpn vpn.cshl.edu:443 -u <username> --trusted-cert <token>
-
+<br>
 
 #### ssh to server
 $ ssh <username>@<server-ip>
+<br>
 
 
 #### Jupyter notebook
@@ -19,6 +22,7 @@ $ ssh -N -L 8080:localhost:8080 <username>@<server-ip>
 
 _Browser on local machine (need token from jupyter notebook on remote machine)_
 $ localhost:8080 
+<br>
 
 
 #### GPU management
@@ -31,6 +35,7 @@ $ sudo kill -9 <PID>
 
 _Run a job on a specific GPU_
 $ CUDA_VISIBLE_DEVICES=<gpu> python3 <script.py>
+<br>
 
 #### Setup Python environment for Tensorflow-gpu with cuda and cudnn
 
@@ -40,3 +45,7 @@ https://towardsdatascience.com/installing-nvidia-drivers-cuda-10-cudnn-for-tenso
 For anaconda version:
 https://towardsdatascience.com/tensorflow-gpu-installation-made-easy-ubuntu-version-4260a52dd7b0
 
+<br>
+<br>
+<br>
+<br>
