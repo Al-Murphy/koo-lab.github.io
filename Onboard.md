@@ -1,6 +1,7 @@
 # Onboarding
 <br>
 
+
 #### Slack
 * [Koo lab channel](https://koolab.slack.com)
 * [QB slack channel](https://scqb.slack.com)
