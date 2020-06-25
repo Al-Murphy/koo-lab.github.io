@@ -1,13 +1,24 @@
 # Lab Resources
 
+<br>
+<br>
+<br>
 
-#### [Getting Started](koolab.cshl.edu/GetStarted/)
+#### [Getting Started](/GetStarted)
+<br>
+<br>
+<br>
 
 
-#### [Papers](koolab.cshl.edu/Papers/)
+#### [Papers](/Papers)
+<br>
+<br>
+<br>
 
 
-#### [Resources](koolab.cshl.edu/Resources/)
+#### [Resources](/Resources)
+<br>
+<br>
 
 
 

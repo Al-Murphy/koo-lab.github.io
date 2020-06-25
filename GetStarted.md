@@ -30,7 +30,7 @@ _____________________________________________________________
 * _Interpretability of Deep Learning Models with Tensorflow 2.0_ ([Link](https://www.sicara.ai/blog/2019-08-28-interpretability-deep-learning-tensorflow))
 * _Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow_
 ([Book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646), 
-([Code](https://github.com/ageron/handson-ml2)) 
+[Code](https://github.com/ageron/handson-ml2)) 
 
 _____________________________________________________________
 ### ML/DL Courses

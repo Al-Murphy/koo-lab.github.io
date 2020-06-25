@@ -31,16 +31,16 @@ Additional resources:
 * _Advanced deep learning for computer vision -- TU Munich_ 
 ([Video](https://www.youtube.com/playlist?list=PLog3nOPCjKBnjhuHMIXu4ISE4Z4f2jm39)) 
 * _Yann LeCunn's deep learning course at NYU:_
-(([Website](https://atcold.github.io/pytorch-Deep-Learning/), 
+([Website](https://atcold.github.io/pytorch-Deep-Learning/), 
 [Video](http://bit.ly/pDL-YouTube)) 
 * _Intro to Deep Learning Course at Berkeley_
-book: http://d2l.ai/chapter_introductio (Statn/index.html
-([Website](https://courses.d2l.ai/berkeley-stat-157/index.html), 
+([Book](http://d2l.ai/chapter_introduction/index.html), 
+[Website](https://courses.d2l.ai/berkeley-stat-157/index.html), 
 [Code](https://github.com/dsgiitr/d2l-pytorch), 
 [Video](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)) 
 * _Natural Language Processing with Deep Learning Course at Stanford_
 ([Website](http://web.stanford.edu/class/cs224n/), 
-[Video](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) 
+[Video](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)) 
 * _Introduction to Deep Learning Course at MIT_
 ([Website](http://introtodeeplearning.com/), 
 [Video](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)) 
