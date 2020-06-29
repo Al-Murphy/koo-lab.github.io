@@ -44,7 +44,7 @@ $ CUDA_VISIBLE_DEVICES=\[gpu\] python3 \[script.py\]
 <br>
 <br>
 
-#### Setup Python environment for Tensorflow-gpu with cuda and cudnn
+#### Setup environment for Tensorflow-gpu with cuda and cudnn
 
 Using [pip](https://towardsdatascience.com/installing-nvidia-drivers-cuda-10-cudnn-for-tensorflow-2-1-on-ubuntu-18-04-lts-f1db8bff9ea)
 or [anaconda](https://towardsdatascience.com/tensorflow-gpu-installation-made-easy-ubuntu-version-4260a52dd7b0)

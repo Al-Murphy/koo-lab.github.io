@@ -22,7 +22,7 @@ ____________________________________________________________
 _____________________________________________________________
 ### TF Binding
 
-* _Deciphering eukaryotic gene-regulatory logic with 100 million random promoters_ ([Link](https://www.nature.com/articles/s41587-019-0315-8))
+* _Deciphering eukaryotic gene-regulatory logic with 100 million random promotesr_ ([Link](https://www.nature.com/articles/s41587-019-0315-8))
 * _Intrinsically Disordered Regions Direct Transcription Factor In Vivo Binding Specificity_ ([Link](https://www.cell.com/molecular-cell/fulltext/S1097-2765(20)30352-X?rss=yes))
 * _Virtual ChIP-seq: predicting transcription factor binding by learning from the transcriptome_ ([Link](https://www.biorxiv.org/content/10.1101/168419v4.full.pdf))
 * _FactorNet: A deep learning framework for predicting cell type specific transcription factor binding from nucleotide-resolution sequential data_ ([Link](https://www.sciencedirect.com/science/article/pii/S1046202318303293?via%3Dihub))
@@ -63,8 +63,8 @@ _____________________________________________________________
 * _The proteome landscape of the kingdoms of life_ ([Link](https://www.nature.com/articles/s41586-020-2402-x)
 * _Energy-based models for atomic resolution protein conformations_ ([Link](https://openreview.net/pdf?id=S1e_9xrFvS#page5))
 
-
-
+* _BERTology Meets Biology: Interpreting Attentionin Protein Language Models_ ([Link](https://www.biorxiv.org/content/10.1101/2020.06.26.174417v1.full.pdf))
+* _A Generative Neural Network for Maximizing Fitness and Diversity of Synthetic DNA and Protein Sequences_ ([Link](https://www.cell.com/cell-systems/fulltext/S2405-4712(20)30192-7))
 _____________________________________________________________
 ### Attention/Transformers
 
@@ -140,6 +140,8 @@ _____________________________________________________________
 _____________________________________________________________
 ### Other
 
+* _Amortized Causal Discovery: Learning to Infer Causal Graphs from Time-Series Data_ ([Link](https://arxiv.org/abs/2006.10833))
+* _Discovering Symbolic Models from Deep Learningwith Inductive Biases_ ([Link](https://arxiv.org/pdf/2006.11287.pdf))
 * _Reproducing kernel Hilbert spaces in Machine Learning - Lecture notes_ ([Link](http://www.gatsby.ucl.ac.uk/~gretton/coursefiles/rkhscourse.html))
 
 
