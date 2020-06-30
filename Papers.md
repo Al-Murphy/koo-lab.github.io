@@ -28,7 +28,7 @@ _____________________________________________________________
 * _FactorNet: A deep learning framework for predicting cell type specific transcription factor binding from nucleotide-resolution sequential data_ ([Link](https://www.sciencedirect.com/science/article/pii/S1046202318303293?via%3Dihub))
 * _Completing the ENCODE3 compendium yields accurate imputations across a variety of assays and human biosamples_ ([Link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01978-5#Sec9))
 * _Multi-scale deep tensor factorization learns a latentrepresentation of the human epigenome_ ([Link](https://www.biorxiv.org/content/biorxiv/early/2019/04/11/364976.full.pdf))
-
+* _Single molecule occupancy patterns of transcription factors reveal determinants of cooperative binding in vivo_ ([Link](https://www.biorxiv.org/content/10.1101/2020.06.29.167155v1))
 
 
 _____________________________________________________________
@@ -65,6 +65,7 @@ _____________________________________________________________
 
 * _BERTology Meets Biology: Interpreting Attentionin Protein Language Models_ ([Link](https://www.biorxiv.org/content/10.1101/2020.06.26.174417v1.full.pdf))
 * _A Generative Neural Network for Maximizing Fitness and Diversity of Synthetic DNA and Protein Sequences_ ([Link](https://www.cell.com/cell-systems/fulltext/S2405-4712(20)30192-7))
+
 _____________________________________________________________
 ### Attention/Transformers
 
@@ -115,7 +116,7 @@ _____________________________________________________________
 * _Certified Adversarial Robustness via Randomized Smoothing_ ([Link](https://arxiv.org/pdf/1902.02918.pdf))
 * _Black-box Smoothing: A Provable Defense for Pretrained Classifiers_ ([Link](https://arxiv.org/pdf/2003.01908.pdf))
 * _Adversarial Robustness Through Local Lipschitzness_ ([Link](https://arxiv.org/abs/2003.02460))
-
+* _Smooth Adversarial Training_ ([Link](https://arxiv.org/abs/2006.14536))
 
 _____________________________________________________________
 ### Normalizing Flows

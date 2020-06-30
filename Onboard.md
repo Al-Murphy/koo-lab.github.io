@@ -31,6 +31,12 @@
 <br>
 
 
+#### Writing papers
+* [Overleaf](https://www.overleaf.com/)
+* Google docs using [bibtex](https://github.com/select/google-docs-bibtex-cite)
+<br>
+<br>
+
 #### Subscriptions
 * Evernote (upgrade) 
 	* Lab notebook: to do list, daily progress, experiments (purpose, what you did, results (embed plots/tables),project ideas
