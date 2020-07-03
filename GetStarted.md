@@ -12,7 +12,7 @@ _____________________________________________________________
 	[Link 3](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/))
 * _DL Optimization_ ([Link](https://towardsdatascience.com/neural-network-optimization-7ca72d4db3e0))
 * _Advance concepts for CNNs_ ([Link](https://towardsdatascience.com/advanced-topics-in-deep-convolutional-neural-networks-71ef1190522d))
-
+* _10 tips for writing CS papers_ ([Link1](http://www.nowozin.net/sebastian/blog/ten-tips-for-writing-cs-papers-part-1.html), [Link2](http://www.nowozin.net/sebastian/blog/ten-tips-for-writing-cs-papers-part-2.html))
 _____________________________________________________________
 ### Papers
 

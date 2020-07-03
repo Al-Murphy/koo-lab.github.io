@@ -96,6 +96,11 @@ ________________________________________________________________________________
 [Video](http://gpss.cc/gpss18/program)) 
 * _Lectures on Causality: Jonas Peters_ ([Part 1](https://www.youtube.com/watch?v=zvrcyqcN9Wo&list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS), [Part 2](https://www.youtube.com/watch?v=bHOGP5o3Vu0&list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS), [Part 3](https://www.youtube.com/watch?v=Jp4UcgpVA2I&list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS), [Part 4](https://www.youtube.com/watch?v=ytnr_2dyyMU&list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS))
 
+### Journal club
+
+* _RNA-COSI Journal Club_ ([Link](https://irnacosi.org/journal-club/))
+
+
 ________________________________________________________________________________________
 ### Books
 

@@ -29,7 +29,7 @@ _____________________________________________________________
 * _Completing the ENCODE3 compendium yields accurate imputations across a variety of assays and human biosamples_ ([Link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01978-5#Sec9))
 * _Multi-scale deep tensor factorization learns a latentrepresentation of the human epigenome_ ([Link](https://www.biorxiv.org/content/biorxiv/early/2019/04/11/364976.full.pdf))
 * _Single molecule occupancy patterns of transcription factors reveal determinants of cooperative binding in vivo_ ([Link](https://www.biorxiv.org/content/10.1101/2020.06.29.167155v1))
-
+* _Single molecule occupancy patterns oftranscription factors reveal determinants ofcooperative binding in vivo_ ([Link](https://www.biorxiv.org/content/10.1101/2020.06.29.167155v1.full.pdf))
 
 _____________________________________________________________
 ### RBP Binding
@@ -75,7 +75,8 @@ _____________________________________________________________
 * _SYNTHESIZER: Rethinking Self-Attention in Transformer Models_ ([Link](https://arxiv.org/pdf/2005.00743.pdf))
 * _Linformer: Self-Attention with Linear Complexity_ ([Link](https://arxiv.org/abs/2006.04768))
 * _Masked Language Modeling for Proteins via Linearly Scalable Long-Context Transformers_ ([Link](https://arxiv.org/abs/2006.03555))
-
+* _Rethinking positional encoding in language pre-training_ ([Link](https://arxiv.org/pdf/2006.15595.pdf))
+* _Self-Attention with Relative Position Representations_ ([Link](https://arxiv.org/pdf/1803.02155.pdf))
 
 _____________________________________________________________
 ### Deep Learning
@@ -102,12 +103,16 @@ _____________________________________________________________
 * _Learning Important Features Through Propagating Activation Differences_ ([Link](https://arxiv.org/abs/1704.02685))
 * _Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)_ ([Link](https://arxiv.org/abs/1711.11279))
 * _Learning Explainable Models Using Attribution Priors_ ([Link](https://arxiv.org/abs/1906.10670))
+* _How does this interaction affect me? Interpretable attribution for feature interactions_ ([Link](https://arxiv.org/pdf/2006.10965.pdf))
+* _Explaining Explanations: Axiomatic Feature Interactions for Deep Networks_ ([Link](https://arxiv.org/abs/2002.04138))
+
 
 _____________________________________________________________
 ### Robustness 
 
 * _Gradient Science Blog -- Madry Lab at MIT_ ([Link](https://gradientscience.org/))
 * _Adversarial Training Tutorial_ ([Link](https://adversarial-ml-tutorial.org/))
+* _Feature Purification:How Adversarial Training Performs Robust Deep Learning_ ([Link](https://www.microsoft.com/en-us/research/uploads/prod/2020/05/2005.10190_Feature-Purification_How-Adversarial-Training-Performs-Robust-Deep-Learning.pdf))
 * _Intriguing properties of neural networks_ ([Link](https://arxiv.org/abs/1312.6199))
 * _On the Robustness of Interpretability Methods_ ([Link](https://arxiv.org/pdf/1806.08049.pdf))
 * _Robustness May Be at Odds with Accuracy_ ([Link](https://arxiv.org/abs/1805.12152))
