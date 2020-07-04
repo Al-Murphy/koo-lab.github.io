@@ -30,12 +30,12 @@ _____________________________________________________________
 * _Multi-scale deep tensor factorization learns a latentrepresentation of the human epigenome_ ([Link](https://www.biorxiv.org/content/biorxiv/early/2019/04/11/364976.full.pdf))
 * _Single molecule occupancy patterns of transcription factors reveal determinants of cooperative binding in vivo_ ([Link](https://www.biorxiv.org/content/10.1101/2020.06.29.167155v1))
 * _Single molecule occupancy patterns oftranscription factors reveal determinants ofcooperative binding in vivo_ ([Link](https://www.biorxiv.org/content/10.1101/2020.06.29.167155v1.full.pdf))
-
+* _An interpretable bimodal neural network characterizes the sequence and preexisting chromatin predictors of induced TF binding_ ([Link](https://www.biorxiv.org/content/10.1101/672790v2))
 _____________________________________________________________
 ### RBP Binding
 
 * _Predicting dynamic cellular protein-RNA interactions using deep learning and in vivo RNA structure_ ([Link](https://www.biorxiv.org/content/biorxiv/early/2020/05/07/2020.05.05.078774.full.pdf))
-
+* _Epigenome-based splicing prediction using a recurrent neural network_ ([Link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008006))
 
 _____________________________________________________________
 ### Higher-order interactions
