@@ -112,7 +112,8 @@ _____________________________________________________________
 
 * _Gradient Science Blog -- Madry Lab at MIT_ ([Link](https://gradientscience.org/))
 * _Adversarial Training Tutorial_ ([Link](https://adversarial-ml-tutorial.org/))
-* _Feature Purification:How Adversarial Training Performs Robust Deep Learning_ ([Link](https://www.microsoft.com/en-us/research/uploads/prod/2020/05/2005.10190_Feature-Purification_How-Adversarial-Training-Performs-Robust-Deep-Learning.pdf))
+* _Feature Purification: How Adversarial Training Performs Robust Deep Learning_ ([Link](https://www.microsoft.com/en-us/research/uploads/prod/2020/05/2005.10190_Feature-Purification_How-Adversarial-Training-Performs-Robust-Deep-Learning.pdf))
+* _How benign is benign overfitting?_ ([Link](https://arxiv.org/abs/2007.04028))
 * _Intriguing properties of neural networks_ ([Link](https://arxiv.org/abs/1312.6199))
 * _On the Robustness of Interpretability Methods_ ([Link](https://arxiv.org/pdf/1806.08049.pdf))
 * _Robustness May Be at Odds with Accuracy_ ([Link](https://arxiv.org/abs/1805.12152))
@@ -122,10 +123,12 @@ _____________________________________________________________
 * _Black-box Smoothing: A Provable Defense for Pretrained Classifiers_ ([Link](https://arxiv.org/pdf/2003.01908.pdf))
 * _Adversarial Robustness Through Local Lipschitzness_ ([Link](https://arxiv.org/abs/2003.02460))
 * _Smooth Adversarial Training_ ([Link](https://arxiv.org/abs/2006.14536))
+* _Second-Order Provable Defenses against Adversarial Attacks_ ([Link](https://arxiv.org/abs/2006.00731))
 
 _____________________________________________________________
-### Normalizing Flows
+### Variational Inference/Normalizing Flows
 
+* _NVAE: A Deep Hierarchical Variational Autoencoder_ ([Link](https://arxiv.org/abs/2007.03898))
 * _Variational Inference: A Review for Statisticians - Blei et al._ ([Link](https://arxiv.org/pdf/1601.00670.pdf))
 * _Auto-Encoding Variational Bayes_ ([Link](https://arxiv.org/abs/1312.6114))
 * _Stochastic Backpropagation and Approximate Inference in Deep Generative Models_ ([Link](https://arxiv.org/abs/1401.4082))
@@ -149,6 +152,7 @@ _____________________________________________________________
 * _Amortized Causal Discovery: Learning to Infer Causal Graphs from Time-Series Data_ ([Link](https://arxiv.org/abs/2006.10833))
 * _Discovering Symbolic Models from Deep Learningwith Inductive Biases_ ([Link](https://arxiv.org/pdf/2006.11287.pdf))
 * _Reproducing kernel Hilbert spaces in Machine Learning - Lecture notes_ ([Link](http://www.gatsby.ucl.ac.uk/~gretton/coursefiles/rkhscourse.html))
+* _From development to deployment: dataset shift, causality, and shift-stable models in health AI_ ([Link](https://academic.oup.com/biostatistics/article/21/2/345/5631850))
 
 
 
