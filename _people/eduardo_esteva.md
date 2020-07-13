@@ -11,7 +11,6 @@ avatar: eduardoesteva_profile.jpg
 <br>
 
 <a href="mailto:ee699@nyu.edu"><i class="fa fa-envelope-o"></i> ee699@nyu.edu</a><br>
- EduardoEsteva</a><br>
 <a href="https://github.com/e-esteva"><i class="fa fa-github"></i> @e-esteva </a><br>
 
 <hr>

@@ -18,7 +18,7 @@ permalink: /People/
  {% elsif item == 'rotation' %}
 <h3>Rotation Students</h3>
 {% elsif item == 'visiting' %}
-<h3>Visiting Scholars</h3>
+<h3>Masters Students</h3>
  {% elsif item == 'others' %}
 <h3>Alumni</h3>--->
 {% endif %}
