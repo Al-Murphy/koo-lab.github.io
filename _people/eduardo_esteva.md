@@ -1,8 +1,7 @@
 ---
 name: Eduardo Esteva
-position: masters
+position: visiting
 avatar: eduardoesteva_profile.jpg
-
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
