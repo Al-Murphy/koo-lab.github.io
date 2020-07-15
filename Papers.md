@@ -31,6 +31,7 @@ _____________________________________________________________
 * _Single molecule occupancy patterns of transcription factors reveal determinants of cooperative binding in vivo_ ([Link](https://www.biorxiv.org/content/10.1101/2020.06.29.167155v1))
 * _Single molecule occupancy patterns oftranscription factors reveal determinants ofcooperative binding in vivo_ ([Link](https://www.biorxiv.org/content/10.1101/2020.06.29.167155v1.full.pdf))
 * _An interpretable bimodal neural network characterizes the sequence and preexisting chromatin predictors of induced TF binding_ ([Link](https://www.biorxiv.org/content/10.1101/672790v2))
+
 _____________________________________________________________
 ### RBP Binding
 
@@ -153,6 +154,8 @@ _____________________________________________________________
 * _Discovering Symbolic Models from Deep Learningwith Inductive Biases_ ([Link](https://arxiv.org/pdf/2006.11287.pdf))
 * _Reproducing kernel Hilbert spaces in Machine Learning - Lecture notes_ ([Link](http://www.gatsby.ucl.ac.uk/~gretton/coursefiles/rkhscourse.html))
 * _From development to deployment: dataset shift, causality, and shift-stable models in health AI_ ([Link](https://academic.oup.com/biostatistics/article/21/2/345/5631850))
+* _Fair Generative Modeling via Weak Supervision_ ([Link](https://arxiv.org/abs/1910.12008))
+* _Learning compositional functions via multiplicative weight updates_ ([Link](https://arxiv.org/abs/2006.14560))
 
 
 
