@@ -1,6 +1,6 @@
 ---
 name: Amber Tang
-position: rotation
+position: gradstudent
 avatar: ambertang_profile.jpg
 ---
 
