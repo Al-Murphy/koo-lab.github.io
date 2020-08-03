@@ -19,6 +19,7 @@ _____________________________________________________________
 * _Deep learning: new computational modelling techniques for genomics_ ([Link](https://www.nature.com/articles/s41576-019-0122-6)) 
 * _Deep learning for inferring transcription factor binding sites_ 
 ([Link](https://www.sciencedirect.com/science/article/pii/S2452310020300032?via%3Dihub)) 
+* _Statistical Significance_ ([Link](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-031219-041051?journalCode=statistics))
 
 
 _____________________________________________________________
@@ -42,6 +43,8 @@ _____________________________________________________________
 * _Convolutional Neural Networks for Visual Recognition Course at Stanford_ 
 ([Website](http://cs231n.github.io/), 
 [Video](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)) 
+* _DeepMind x UCL | Deep Learning Lectures | Intro to Machine Learning & AI_
+([Video](https://www.youtube.com/watch?v=7R52wiUgxZI&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)) 
 * _Deep Unsupervised learning (Pieter Abeel's Berkeley CS294-158 course)_ 
 ([Website](https://sites.google.com/view/berkeley-cs294-158-sp19/home), 
 [Video](https://www.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/videos)) 
