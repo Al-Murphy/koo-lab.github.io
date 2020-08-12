@@ -1,7 +1,7 @@
 ---
 name: Eduardo Esteva
 position: visiting
-avatar: eduardoesteva_profile.jpg
+avatar: eduardoesteva_profile.png
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
