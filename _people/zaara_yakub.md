@@ -1,7 +1,7 @@
 ---
 name: Zaara Yakub
 position: visiting
-avatar: zaarayakub_profile.png
+avatar: zaarayakub_profile.jpg
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
