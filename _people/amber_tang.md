@@ -8,7 +8,7 @@ avatar: ambertang_profile.jpg
 <br>
 
 - _2019-present, Graduate Student, Watson School of Biological Sciences, CSHL_ <br>
-- _2015-2019, Bachelor's degree in Biology and Computer Science, University of North Carolina at Chapel Hill_ <br>
+- _2015-2019, BS in Biology and Computer Science, University of North Carolina at Chapel Hill_ <br>
 <br>
 
 <a href="mailto:ztang@cshl.edu"><i class="fa fa-envelope-o"></i> ztang@cshl.edu</a><br>
