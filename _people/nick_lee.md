@@ -1,7 +1,7 @@
 ---
 name: Nicholas Lee
 position: staff
-avatar: nicklee_profile.png
+avatar: nicklee_profile.jpg
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
