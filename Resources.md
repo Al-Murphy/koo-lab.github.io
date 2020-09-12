@@ -113,6 +113,11 @@ ________________________________________________________________________________
 * _Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow_ ([Book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646), [Link](https://github.com/ageron/handson-ml2))
 
 
+_____________________________________________________________
+### Articles/Blogs
+
+* _10 tips for writing CS papers_ ([Link1](http://www.nowozin.net/sebastian/blog/ten-tips-for-writing-cs-papers-part-1.html), [Link2](http://www.nowozin.net/sebastian/blog/ten-tips-for-writing-cs-papers-part-2.html))
+* _Statistical Significance_ ([Link](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-031219-041051?journalCode=statistics))
 
 
 <br>
