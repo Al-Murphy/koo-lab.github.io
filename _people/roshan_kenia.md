@@ -7,7 +7,7 @@ avatar: roshankenia_profile.jpg
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 <br>
 
-- _22019-present, B.S. in Computer Science and Applied Math and Statistics, Stony Brook University_ <br>
+- _2019-present, B.S. in Computer Science and Applied Math and Statistics, Stony Brook University_ <br>
 <br>
 
 <a href="mailto:keniaroshan@gmail.com"><i class="fa fa-envelope-o"></i> keniaroshan@gmail.com</a><br>
