@@ -1,7 +1,7 @@
 ---
-name: Peter Koo
+name: Roshan Kenia
 position: visiting
-avatar: roshankenia_profile.png
+avatar: roshankenia_profile.jpg
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
