@@ -3,6 +3,13 @@ title: Publication
 permalink: /Publication/
 ---
 
+## 2021
+
+_Single Layers of Attention Suffice to Predict Protein Contacts_<br>
+N Bhattacharya, N Thomas, R Rao, J Dauparas, <b>PK Koo</b>, D Baker, YS Song, S Ovchinnikov <br>
+bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2020.12.21.423882v2))
+
+
 ## 2020
 
 _Global Importance Analysis: A Method to Quantify Importance of Genomic Features in Deep Neural Networks_<br>
@@ -11,7 +18,7 @@ bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2020.09.08.288068v1)
 
 _Improving Representations of Genomic Sequence Motifs in Convolutional Networks with Exponential Activations_<br>
 <b>PK Koo</b>, M Ploenzke <br>
-bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2020.06.14.150706v1))
+bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2020.06.14.150706v2))
 
 _Deep Learning for Inferring Transcription Factor Binding Sites_<br>
 <b>PK Koo</b>, M Ploenzke <br>

@@ -19,7 +19,7 @@ avatar: rohanghotra_profile.jpg
 
 ### Research Interests
 
-I have previously conducted studies on diagnosing diseases with convolutional neural networks. I am interested applications of deep learning to genomics.
+I have previously conducted studies on predicting disease outcomes from medical images with convolutional neural networks. I am currently interested applications of deep learning to genomics.
 <br>
 <br>
 <br>
