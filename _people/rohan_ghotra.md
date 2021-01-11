@@ -1,7 +1,7 @@
 ---
 name: Rohan Ghotra
 position: visiting
-avatar: rohanghotra_profile.png
+avatar: rohanghotra_profile.jpg
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
