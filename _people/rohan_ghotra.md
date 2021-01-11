@@ -1,5 +1,5 @@
 ---
-name: Peter Koo
+name: Rohan Ghotra
 position: visiting
 avatar: rohanghotra_profile.png
 ---
