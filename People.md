@@ -11,12 +11,12 @@ permalink: /People/
 <div class="pos_header">
 {% if item == 'pi' %}
 <h3>Principal Investigator</h3>
+ {% elsif item == 'staff' %}
+<h3>Staff</h3>
  {% elsif item == 'postdoc' %}
 <h3>Postdoctoral Fellows</h3>
  {% elsif item == 'gradstudent' %}
 <h3>Graduate Students</h3>
- {% elsif item == 'staff' %}
-<h3>Staff</h3>
  {% elsif item == 'rotation' %}
 <h3>Rotation Students</h3>
 {% elsif item == 'visiting' %}
