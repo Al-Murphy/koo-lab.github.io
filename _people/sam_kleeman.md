@@ -8,7 +8,7 @@ avatar: samkleeman_profile.jpg
 <br>
 
 - _2020-, Graduate Student at Cold Spring Harbor Laboratory, NY, USA_ <br>
-- _2019-2020 - Honorary Research Fellow, Barts Cancer Institute, London, UK_ <br>_ <br>
+- _2019-2020 - Honorary Research Fellow, Barts Cancer Institute, London, UK_ <br>
 - _2018-2020, Academic Foundation Doctor at National Health Service (NHS), London, UK_ <br>
 - _2015-2018, BM BCh (MD) from New College, University of Oxford, UK_ <br>
 - _2012-2015, BA in Pre-clinical medicine from Gonville and Caius College, University of Cambridge, UK_ <br>
