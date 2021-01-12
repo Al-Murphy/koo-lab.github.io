@@ -17,6 +17,8 @@ permalink: /People/
 <h3>Graduate Students</h3>
  {% elsif item == 'staff' %}
 <h3>Staff</h3>
+ {% elsif item == 'rotation' %}
+<h3>Rotation Students</h3>
 {% elsif item == 'visiting' %}
 <h3>Visiting Students</h3>
  {% elsif item == 'alumni' %}
