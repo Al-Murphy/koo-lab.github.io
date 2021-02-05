@@ -34,10 +34,10 @@ permalink: /Research/
 </p>
 <br>
 
-### Deep Generative Models for Protein Sequences
+### Language Models for Biological Sequences
 
 <p align="justify"> 
-	Multiple sequence alignments of proteins inform statistical models of evolutionary constraints linked to function (Fig. 3A), which include site-independent conservations and pairwise coevolutions. These models can then be repurposed to: score mutations in protein sequences, predict protein contacts (Fig. 3B), search for homologs, and design proteins. There has been growing interest in replacing traditional models – Position Specific Scoring Matrices (PSSMs), Markov Random Fields (MRFs), and Multivariate Gaussians (MGs) (see Fig. 3C) – with alignment-free <b>deep generative models</b> <a href="https://arxiv.org/abs/1906.02598">[5]</a> – variational autoencoders (VAEs), seq2seq models with recurrent neural networks, and transformer networks (Fig. 3C). In collaboration with the <a href="http://site.solab.org">Ovchinnikov Lab</a> at Harvard, we are interested in interpreting this promising class of models to understand their capabilities. Ultimately, we intend to employ these models to score the deleteriousness of mutations in protein sequences, which can help to prioritize disease-associated genomic variants in coding regions. 
+	Multiple sequence alignments of proteins inform statistical models of evolutionary constraints linked to function (Fig. 3A), which include site-independent conservations and pairwise coevolutions. These models can then be repurposed to: score mutations in protein sequences, predict protein contacts (Fig. 3B), search for homologs, and design proteins. There has been growing interest in replacing traditional models – Position Specific Scoring Matrices (PSSMs), Markov Random Fields (MRFs), and Multivariate Gaussians (MGs) (see Fig. 3C) – with alignment-free <b>deep generative models</b> <a href="https://arxiv.org/abs/1906.02598">[5]</a> – variational autoencoders (VAEs) - and language models, such as transformers. We are interested in interpreting these promising class of models to understand how they build representations and how to harness them to push the boundaries of basic science and cancer biology.  
 </p>
 
   <img class='img-responsive center-block' src="/images/research/protein.png" width="70%" height="70%"/>
