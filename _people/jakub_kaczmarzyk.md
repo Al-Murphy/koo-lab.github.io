@@ -13,7 +13,7 @@ twitter: JakubKaczmarzyk
 - _2012-2016, BS in Neuroscience, Union College_ <br>
 <br>
 
-<!-- <a href="mailto:username@cshl.edu"><i class="fa fa-envelope-o"></i> username@cshl.edu</a><br> -->
+<a href="mailto:kaczmar@cshl.edu"><i class="fa fa-envelope-o"></i> kaczmar@cshl.edu</a><br>
 <a href="https://twitter.com/jakubkaczmarzyk"><i class="fa fa-twitter"></i> @JakubKaczmarzyk </a><br>
 <a href="https://www.linkedin.com/in/kaczmarj"><i class="fa fa-linkedin-square"></i> kaczmarj </a><br>
 <a href="https://github.com/kaczmarj"><i class="fa fa-github"></i> @kaczmarj </a><br>
