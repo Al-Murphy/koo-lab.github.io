@@ -7,7 +7,7 @@ permalink: /Publication/
 
 _Improving Representations of Genomic Sequence Motifs in Convolutional Networks with Exponential Activations_<br>
 <b>PK Koo</b>, M Ploenzke <br>
-Nature Machine Intelligence ([Preprint](https://www.biorxiv.org/content/10.1101/2020.06.14.150706v2))
+Nature Machine Intelligence ([Article](https://www.nature.com/articles/s42256-020-00291-x))
 
 _Single Layers of Attention Suffice to Predict Protein Contacts_<br>
 N Bhattacharya, N Thomas, R Rao, J Dauparas, <b>PK Koo</b>, D Baker, YS Song, S Ovchinnikov <br>
