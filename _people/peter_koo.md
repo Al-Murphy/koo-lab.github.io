@@ -9,10 +9,10 @@ twitter: pkoo562
 <br>
 
 - _2019-present, Assistant Professor, Simons Center for Quantitative Biology at Cold Spring Harbor Laboratory_ <br>
-	- Affiliations: <br>
+	- **Affiliations:** <br>
 		- _2020-present, CSHL Cancer Center_ <br>
 		- _2020-present, Applied Mathematics & Statistics at Stony Brook University_ <br>
-		- _2019-present, Laufer Center for Physical and Quantitative Biology <br>
+		- _2019-present, Laufer Center for Physical and Quantitative Biology_ <br>
 - _2015-2019, Postdoctoral Researcher, Harvard University_ <br>
 - _2010-2015, Ph.D. in Physics, Yale University_ <br>
 - _2009-2010, Master in Financial Engineering, Hass School of Business at UC Berkeley_ <br>
