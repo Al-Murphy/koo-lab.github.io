@@ -2,74 +2,41 @@
 <br>
 
 _____________________________________________________________
-### Articles/Blogs
-
-* _10 tips for writing CS papers_ ([Link1](http://www.nowozin.net/sebastian/blog/ten-tips-for-writing-cs-papers-part-1.html), [Link2](http://www.nowozin.net/sebastian/blog/ten-tips-for-writing-cs-papers-part-2.html))
+## Reviews
 _____________________________________________________________
-### Papers
 
+#### Deep learning in genomics
 * _Deep learning: new computational modelling techniques for genomics_ ([Link](https://www.nature.com/articles/s41576-019-0122-6)) 
 * _Deep learning for inferring transcription factor binding sites_ 
 ([Link](https://www.sciencedirect.com/science/article/pii/S2452310020300032?via%3Dihub)) 
-* _Statistical Significance_ ([Link](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-031219-041051?journalCode=statistics))
+
+#### TF binding
 
 
-_____________________________________________________________
-### Example Code
+#### Classic DL in genomics
 
-* _Keras Developer's Guide_ ([Link](https://keras.io/guides/))
-* _Francis Chollet's tensorflow 2 + keras tutorial_ 
-([Code](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO?usp=sharing)) 
-* _Deep Learning for Genomics_
-	* [Synthetic multi-task classifcation](https://colab.research.google.com/drive/1jeAjDwsEbLKMMsOvRdPMe26iqbLBoM6j?usp=sharing)
-	* [Process ChIP-seq dataset](https://colab.research.google.com/drive/1ZBeLOm9VXRe0shAieo6Wx2BM4nH3uqjc?usp=sharing)
-	* [Analyze ChIP-seq dataset](https://colab.research.google.com/drive/10c8ZTjKaQHHv8fcAgibluUHoEHrIjGAt?usp=sharing)
-* _Interpretability of Deep Learning Models with Tensorflow 2.0_ ([Link](https://www.sicara.ai/blog/2019-08-28-interpretability-deep-learning-tensorflow))
-* _Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow_
-([Book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646), 
-[Code](https://github.com/ageron/handson-ml2)) 
 
-_____________________________________________________________
-### ML/DL Courses
+#### Attention-based models in genomics
 
-* _Convolutional Neural Networks for Visual Recognition Course at Stanford_ 
-([Website](http://cs231n.github.io/), 
-[Video](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)) 
-* _DeepMind x UCL | Deep Learning Lectures | Intro to Machine Learning & AI_
-([Video](https://www.youtube.com/watch?v=7R52wiUgxZI&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)) 
-* _Deep Unsupervised learning (Pieter Abeel's Berkeley CS294-158 course)_ 
-([Website](https://sites.google.com/view/berkeley-cs294-158-sp19/home), 
-[Video](https://www.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/videos)) 
+https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa159/5890498?login=true
 
-_____________________________________________________________
-### Biology Courses
 
-* _Machine Learning in genomics (Kellis' course at MIT)_
-([Website](http://stellar.mit.edu/S/course/6/fa19/6.047/), 
-[Video](https://www.youtube.com/playlist?list=PLypiXJdtIca6U5uQOCHjP9Op3gpa177fK)) 
-* _Introduction to Computational Biology and bioinformatics (Shirley Liu's Stat115 course at Harvard)_
-([Website/Video](https://liulab-dfci.github.io/resources/html/STAT115_2020_Module2.html)) 
-* _Intro to Biology (MIT Eric Lander's course)_
-([Video](https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3)) 
 
-_____________________________________________________________
-### Seminars
-
-* _Deep Learning Summer School - MILA_
-([Video](http://videolectures.net/DLRLsummerschool2018_toronto/)) 
-* _Machines, Inference and Algorithms series -- Broad Institute_
-([Video](https://www.youtube.com/playlist?list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS)) 
+#### Interpretability/Explainability
 
 _____________________________________________________________
 
-### Other Resourses
+## Advanced Topics
+_____________________________________________________________
 
-* _Markdown_ ([Link](https://guides.github.com/features/mastering-markdown/), 
-     [Link](https://help.github.com/en/articles/basic-writing-and-formatting-syntax), 
-	[Link](https://help.github.com/en/articles/working-with-advanced-formatting))
-* _Github_ ([Link](https://education.github.com/git-cheat-sheet-education.pdf), 
-	[Link](http://try.github.io/), 
-	[Link](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf))
+
+#### Adversarial training
+Adversarial training tutorial
+https://adversarial-ml-tutorial.org/
+
+#### Protein modeling
+
+
 
 
 <br>
