@@ -11,21 +11,35 @@ _____________________________________________________________
 ## Reviews
 _____________________________________________________________
 
-#### Deep learning in genomics
+# Deep learning in genomics
+
+### Reviews
 * _Deep learning: new computational modelling techniques for genomics_ ([Link](https://www.nature.com/articles/s41576-019-0122-6)) 
 * _Deep learning for inferring transcription factor binding sites_ 
 ([Link](https://www.sciencedirect.com/science/article/pii/S2452310020300032?via%3Dihub)) 
 
-#### TF binding
+### Classic DL in genomics
+* _Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning_ ([Link](https://www.nature.com/articles/nbt.3300))
+* _Predicting effects of noncoding variants with deep learning–based sequence model_ ([Link](https://www.nature.com/articles/nmeth.3547))
+* _Basset: Learning the regulatory code of the accessible genome with deep convolutional neural networks_ ([Link](https://genome.cshlp.org/content/early/2016/05/03/gr.200535.115.abstract))
+
+### TF binding
+* _Sequential regulatory activity prediction acrosschromosomes with convolutional neural networks_ ([Link](https://genome.cshlp.org/content/early/2018/04/09/gr.227819.117.full.pdf))
+* _Deep learning at base-resolution reveals cis-regulatory motif syntax_ ([Link](https://www.biorxiv.org/content/10.1101/737981v2))
 
 
-#### Classic DL in genomics
+### RNA modeling
+
+* _Predicting Splicing from Primary Sequence with Deep Learning_ ([Link](https://www.cell.com/cell/pdf/S0092-8674(18)31629-5.pdf))
+* _A Deep Neural Network for Predicting and Engineering Alternative Polyadenylation_ ([Link](https://www.cell.com/cell/fulltext/S0092-8674(19)30498-2))
+* _Human 5′ UTR design and variant effect prediction from a massively parallel translation assay_ ([Link](https://www.nature.com/articles/s41587-019-0164-5))
+
+
 
 
 #### Attention-based models in genomics
 
 https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa159/5890498?login=true
-
 
 
 #### Interpretability/Explainability
@@ -47,14 +61,6 @@ https://adversarial-ml-tutorial.org/
 ____________________________________________________________
 ### Deep Learning for Genomics
 
-* _Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning_ ([Link](https://www.nature.com/articles/nbt.3300))
-* _Basset: Learning the regulatory code of the accessible genome with deep convolutional neural networks_ ([Link](https://genome.cshlp.org/content/early/2016/05/03/gr.200535.115.abstract))
-* _Predicting effects of noncoding variants with deep learning–based sequence model_ ([Link](https://www.nature.com/articles/nmeth.3547))
-* _Predicting Splicing from Primary Sequence with Deep Learning_ ([Link](https://www.cell.com/cell/pdf/S0092-8674(18)31629-5.pdf))
-* _A Deep Neural Network for Predicting and Engineering Alternative Polyadenylation_ ([Link](https://www.cell.com/cell/fulltext/S0092-8674(19)30498-2))
-* _Sequential regulatory activity prediction acrosschromosomes with convolutional neural networks_ ([Link](https://genome.cshlp.org/content/early/2018/04/09/gr.227819.117.full.pdf))
-* _Human 5′ UTR design and variant effect prediction from a massively parallel translation assay_ ([Link](https://www.nature.com/articles/s41587-019-0164-5))
-* _Deep learning at base-resolution reveals cis-regulatory motif syntax_ ([Link](https://www.biorxiv.org/content/10.1101/737981v2))
 * _Enhanced Integrated Gradients: improving interpretability of deep learning models using splicing codes as a case study_ ([Link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02055-7))
 
 

@@ -98,6 +98,8 @@ ________________________________________________________________________________
 ([Website](https://dlrlsummerschool.ca/))
 * _Machine Learning Summer Schools (August - Deadline: April)_
 ([Website](http://mlss.cc/)) 
+* _Deep Learning Theory Summer School at Princeton (July - Deadline: March)_
+([Website](https://deep-learning-summer-school.princeton.edu/#Apply)) 
 * _Deep Learning for Natural Language Processing (2 sessions: summer and winter)_
 ([Website](http://ixa2.si.ehu.eus/deep_learning_seminar/)) 
 * _NYU AI School (Jan 4-8 - Deadline: ?)_
