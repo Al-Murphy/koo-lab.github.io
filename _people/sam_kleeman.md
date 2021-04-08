@@ -1,5 +1,5 @@
 ---
-name: Sam Kleeman
+name: Sam Kleeman (Rotation Student, 2020)
 position: alumni
 avatar: samkleeman_profile.jpg
 ---
