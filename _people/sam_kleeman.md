@@ -1,6 +1,6 @@
 ---
 name: Sam Kleeman
-position: rotation
+position: alumni
 avatar: samkleeman_profile.jpg
 ---
 
