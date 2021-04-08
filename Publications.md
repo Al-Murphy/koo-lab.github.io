@@ -19,7 +19,7 @@ Nature Machine Intelligence ([Article](https://www.nature.com/articles/s42256-02
 
 _Single Layers of Attention Suffice to Predict Protein Contacts_<br>
 N Bhattacharya, N Thomas, R Rao, J Dauparas, <b>PK Koo</b>, D Baker, YS Song, S Ovchinnikov <br>
-ICLR 2021 Workshop on Energy Based Models: Current Perspectives, Challenges, and Opportunities ([Preprint](https://www.biorxiv.org/content/10.1101/2020.12.21.423882v2))
+ICLR 2021 Workshop on Energy Based Models ([Preprint](https://www.biorxiv.org/content/10.1101/2020.12.21.423882v2))
 
 
 ## 2020
