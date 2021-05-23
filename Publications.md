@@ -136,7 +136,7 @@ PLOS Comptuational Biology 11 (10), e1004297 ([Article](https://journals.plos.or
 \* Shared co-first author
 <br>
 
-For a full list, click <a href="https://scholar.google.com/citations?user=7c3geoIAAAAJ&hl=en&oi=ao">here</a>.
+For a full list, click <a href="https://scholar.google.com/citations?user=zoAsQGwAAAAJ&hl=en">here</a>.
 <br>
 <br>
 <br>
