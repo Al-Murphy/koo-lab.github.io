@@ -1,5 +1,5 @@
 ---
-name: Chandana Rajesh
+name: Chandana Rajesh<br>Stony Brook<br>Applied Math<br>Grad Student<br>Since 2021
 position: rotation
 avatar: chandanarajesh_profile.JPG
 ---

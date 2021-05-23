@@ -1,5 +1,5 @@
 ---
-name: Nicholas Lee
+name: Nicholas Lee<br>Comp Sci Developer II<br>Since 2020
 position: staff
 avatar: nicklee_profile.jpg
 ---

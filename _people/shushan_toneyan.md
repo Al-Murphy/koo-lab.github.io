@@ -1,5 +1,5 @@
 ---
-name: Shushan Toneyan
+name: Shushan Toneyan<br>CSHL<br>Grad Student<br>Since 2020
 position: gradstudent
 avatar: shush_profile.png
 ---

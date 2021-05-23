@@ -1,5 +1,5 @@
 ---
-name: Amber Tang
+name: Amber Tang<br>CSHL<br> Grad Student<br>Since 2020
 position: gradstudent
 avatar: ambertang_profile.jpg
 ---

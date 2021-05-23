@@ -7,19 +7,19 @@ permalink: /Publication/
 
 _Exploiting marker genes for robust classification and characterization of single-cell chromatin accessibility_<br>
 RK Kawaguchi, <b>Z Tang</b>, S Fischer, <b>R Tripathy</b>, <b>PK Koo</b>, J Gillis <br>
-bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2021.04.01.438068v1))
+bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2021.04.01.438068v1), [Code](https://github.com/carushi/Catactor))
 
 _Global Importance Analysis: A Method to Quantify Importance of Genomic Features in Deep Neural Networks_<br>
 <b>PK Koo</b>, <b>A Majdandzic</b>, M Ploenzke, P Anand, S Paul <br>
-PLOS Computational Biology, in press ([Preprint](https://www.biorxiv.org/content/10.1101/2020.09.08.288068v1))
+PLOS Computational Biology ([Article](https://www.biorxiv.org/content/10.1101/2020.09.08.288068v1), [Code](https://github.com/p-koo/residualbind))
 
 _Improving Representations of Genomic Sequence Motifs in Convolutional Networks with Exponential Activations_<br>
 <b>PK Koo</b>, M Ploenzke <br>
-Nature Machine Intelligence ([Article](https://www.nature.com/articles/s42256-020-00291-x))
+Nature Machine Intelligence ([Article](https://www.nature.com/articles/s42256-020-00291-x), [Code](https://github.com/p-koo/exponential_activations))
 
 _Single Layers of Attention Suffice to Predict Protein Contacts_<br>
 N Bhattacharya, N Thomas, R Rao, J Dauparas, <b>PK Koo</b>, D Baker, YS Song, S Ovchinnikov <br>
-ICLR 2021 Workshop on Energy Based Models ([Preprint](https://www.biorxiv.org/content/10.1101/2020.12.21.423882v2))
+ICLR 2021 Workshop on Energy Based Models ([Workshop paper](https://www.biorxiv.org/content/10.1101/2020.12.21.423882v2), [Code](https://github.com/nickbhat/mogwai.git))
 
 
 ## 2020
@@ -38,6 +38,12 @@ I Rey-Suarez, B Wheatley, <b>PK Koo</b>, Z Shu, S Mochrie, W Song, H Shroff, A U
 Nature Communications ([Article](https://www.nature.com/articles/s41467-020-14335-8))
 
 
+_The Structure-Fitness Landscape of Pairwise Relations in Generative Sequence Models_<br>
+D Marshall, H Wang, M Stiffler, J Dauparas, <b>PK Koo</b>, S Ovchinnikov <br>
+NeurIPS 2020 Workshop on Machine Learning for Structural Biology ([Workshop paper](https://www.biorxiv.org/content/10.1101/2020.11.29.402875v1), [Code](https://github.com/sokrypton/seqsal_v2))
+
+
+
 ## 2019
 
 
@@ -53,16 +59,16 @@ Machine Learning in Computational Biology Meeting, 2019 ([Extended abstract](htt
 
 _Improving Convolutional Network Interpretability with Exponential Activations_<br>
 <b>PK Koo</b>\*, M Ploenzke\* <br>
-ICML 2019 Workshop for Computational Biology ([Workshop abstract](https://www.biorxiv.org/content/10.1101/650804v1.abstract), [Code](https://github.com/p-koo/cnn_exponential_activations))
+ICML 2019 Workshop for Computational Biology ([Workshop paper](https://www.biorxiv.org/content/10.1101/650804v1.abstract), [Code](https://github.com/p-koo/cnn_exponential_activations))
 
 
 _Robust Neural Networks are More Interpretable for Genomics_<br>
 <b>PK Koo</b>, S Qian, G Kaplun, V Volf, D Kalimeris <br>
-ICML 2019 Workshop for Computational Biology  ([Workshop abstract](https://www.biorxiv.org/content/10.1101/657437v1.abstract), [Code](https://github.com/p-koo/uncovering_regulatory_codes))
+ICML 2019 Workshop for Computational Biology  ([Workshop paper](https://www.biorxiv.org/content/10.1101/657437v1.abstract), [Code](https://github.com/p-koo/uncovering_regulatory_codes))
 
 _Unified framework for modeling multivariate distributions in biological sequences_<br>
 J Dauparas, H Wang, A Swartz, <b>PK Koo</b>, M Nitzan, S Ovchinnikov <br>
-ICML 2019 Workshop for Computational Biology ([Workshop abstract](https://arxiv.org/abs/1906.02598), [Code](https://github.com/sokrypton/seqmodels))
+ICML 2019 Workshop for Computational Biology ([Workshop paper](https://arxiv.org/abs/1906.02598), [Code](https://github.com/sokrypton/seqmodels))
 
 _A Demonstration of Unsupervised Machine Learning in Species Delimitation_<br>
 S Derkarabetian, S Castillo, <b>PK Koo</b>, S Ovchinnikov, M Hedin <br>

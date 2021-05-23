@@ -39,7 +39,8 @@ _____________________________________________________________
 
 #### Attention-based models in genomics
 
-https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa159/5890498?login=true
+https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbaa159/5890498?redirectedFrom=fulltext
+
 
 
 #### Interpretability/Explainability

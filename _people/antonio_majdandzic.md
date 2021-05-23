@@ -1,5 +1,5 @@
 ---
-name: Antonio Majdandzic
+name: Antonio Majdandzic<br>Postdoc<br>Since 2020
 position: postdoc
 avatar: antonio_profile.jpeg
 ---
