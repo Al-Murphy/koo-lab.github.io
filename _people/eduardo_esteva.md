@@ -1,5 +1,5 @@
 ---
-name: Eduardo Esteva<br>NYU Bioinformatics<br>Masters Student<br>2020-2021
+name: Eduardo Esteva<br>NYU Bioinformatics<br>Masters Student<br>2020-2021<br>
 position: alumni
 avatar: eduardoesteva_profile.png
 ---

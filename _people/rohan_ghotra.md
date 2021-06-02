@@ -1,5 +1,5 @@
 ---
-name: Rohan Ghotra<br>Syosset High<br>Since 2021
+name: Rohan Ghotra<br>Syosset High<br>Since 2021<br>
 position: visiting
 avatar: rohanghotra_profile.jpg
 ---

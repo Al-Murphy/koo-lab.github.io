@@ -1,5 +1,5 @@
 ---
-name: Zaara Yakub<br>Partners for the Future<br>Bethpage High<br>2020-2021
+name: Zaara Yakub<br>Partners for the Future<br>Bethpage High<br>2020-2021<br>
 position: alumni
 avatar: zaarayakub_profile.jpg
 ---
