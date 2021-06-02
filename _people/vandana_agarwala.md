@@ -1,5 +1,5 @@
 ---
-name: Vandana Agarwala<br>Penn State<br>Undergrad Student<br>Since 2021
+name: Vandana Agarwala<br>Penn State<br>Undergrad Researcher<br>Since 2021
 position: visiting
 avatar: vandanaagarwala_profile2.png
 twitter: 

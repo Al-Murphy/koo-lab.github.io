@@ -1,5 +1,5 @@
 ---
-name: Roshan Kenia<br>Stony Brook<br>Computer Science<br>Undergrad<br>2020-2021
+name: Roshan Kenia<br>Stony Brook<br>Computer Science<br>Undergrad Researcher<br>2020-2021
 position: alumni
 avatar: roshankenia_profile.jpg
 ---
