@@ -8,7 +8,7 @@ twitter:
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 <br>
 
-- _2021-present, Summer URP, Cold Spring Harbor Laboratory_ <br>
+- _2021-present, Summer URP, Koo Lab, Cold Spring Harbor Laboratory_ <br>
 - _2020-2021, Undergraduate Researcher, Mahony Lab, Dept. of Biochemistry and Molecular Biology, Penn State University_ <br>
 - _2018-present, Undergrad in Computer Science, M.S. in Statistics, Penn State University_ <br>
 <br>

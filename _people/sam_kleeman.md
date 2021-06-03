@@ -1,5 +1,5 @@
 ---
-name: Sam Kleeman<br>CSHL<br>Rotation Student<br>2020<br>Currently: ?<br>
+name: Sam Kleeman<br>CSHL<br>Rotation Student<br>2020<br>
 position: alumni
 avatar: samkleeman_profile.jpg
 ---
@@ -7,6 +7,7 @@ avatar: samkleeman_profile.jpg
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 <br>
 
+- _Currently: TBD_ <br>
 - _2020-, Graduate Student at Cold Spring Harbor Laboratory, NY, USA_ <br>
 - _2019-2020 - Honorary Research Fellow, Barts Cancer Institute, London, UK_ <br>
 - _2018-2020, Academic Foundation Doctor at National Health Service (NHS), London, UK_ <br>

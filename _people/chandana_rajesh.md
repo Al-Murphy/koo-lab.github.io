@@ -1,5 +1,5 @@
 ---
-name: Chandana Rajesh<br>Stony Brook<br>Applied Math<br>Grad Student<br>Since 2021
+name: Chandana Rajesh<br>Stony Brook Applied Math<br>Masters Student<br>Since 2021
 position: rotation
 avatar: chandanarajesh_profile.JPG
 ---
@@ -7,6 +7,7 @@ avatar: chandanarajesh_profile.JPG
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 <br>
 
+- _2020-present, Masters Student Researcher, Koo Lab at CSHL_ <br>
 - _2020-present, MS in Applied Mathematics, Stony Brook University_ <br>
 - _2016-2020, BS in Biology, Stony Brook University_ <br>
 <br>

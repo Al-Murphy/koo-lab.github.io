@@ -7,6 +7,7 @@ avatar: rohanghotra_profile.jpg
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 <br>
 
+- _2021-present, High School Student Researcher, Koo Lab, CSHL_ <br>
 - _Class of 2022, Syosset High School_ <br>
 
 <br>

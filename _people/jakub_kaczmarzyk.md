@@ -1,5 +1,5 @@
 ---
-name: Jakub Kaczmarzyk<br>Stony Brook Medicine<br>MD/PhD<br>Grad Student<br>Since 2021
+name: Jakub Kaczmarzyk<br>Stony Brook Medicine - MD/PhD<br>Grad Student<br>Since 2021
 position: rotation
 avatar: jakubkaczmarzyk_profile.png
 twitter: JakubKaczmarzyk
@@ -8,6 +8,7 @@ twitter: JakubKaczmarzyk
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 <br>
 
+- _2021-present, Grad Student Researcher, jointly mentored by Joe Saltz at Stony Brook Biomedical Informatics and Peter Koo at CSHL_ <br>
 - _2019-present, MD-PhD candidate, Medical Scientist Training Program, Stony Brook University_ <br>
 - _2016-2019, Technical Associate, Gabrieli Lab, Dept. of Brain and Cognitive Sciences, MIT_ <br>
 - _2012-2016, BS in Neuroscience, Union College_ <br>

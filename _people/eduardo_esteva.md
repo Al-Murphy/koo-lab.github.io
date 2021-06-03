@@ -1,5 +1,5 @@
 ---
-name: Eduardo Esteva<br>NYU Bioinformatics<br>Masters Student<br>2020-2021<br>Currently: Bioinformatician, Reizis Lab at NYU<br>
+name: Eduardo Esteva<br>NYU Bioinformatics<br>Masters Student<br>2020-2021<br>
 position: alumni
 avatar: eduardoesteva_profile.png
 ---
@@ -7,7 +7,9 @@ avatar: eduardoesteva_profile.png
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 <br>
 
-- _2020 - present, NYU Tandon School of Engineering: Master of Science; Bioinformatics_ <br>
+- _Currently: Bioinformatician, Reizis Lab at NYU_ <br>
+- _2020-2021, Masters Student Researcher, Koo Lab at CSHL_ <br>
+- _2020-2021, NYU Tandon School of Engineering: Master of Science; Bioinformatics_ <br>
 - _2013-2017, NYU Stern School of Business: Bachelor of Science; Finance, Statistics_ <br>
 <br>
 

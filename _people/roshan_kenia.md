@@ -1,5 +1,5 @@
 ---
-name: Roshan Kenia<br>Stony Brook<br>Computer Science<br>Undergrad Researcher<br>2020-2021<br>Currently: intern at SupplyHouse.com<br>
+name: Roshan Kenia<br>Stony Brook CS<br>Undergrad Researcher<br>2020-2021<br>
 position: alumni
 avatar: roshankenia_profile.jpg
 ---
@@ -7,6 +7,8 @@ avatar: roshankenia_profile.jpg
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 <br>
 
+- _Currently: IT intern at SupplyHouse.com_ <br>
+- _2020-2021, Undergrad Researcher, Koo Lab at CSHL_ <br>
 - _2019-present, B.S. in Computer Science and Applied Math and Statistics, Stony Brook University_ <br>
 <br>
 
