@@ -1,5 +1,5 @@
 ---
-name: Eduardo Esteva<br>NYU Bioinformatics<br>Masters Student<br>2020-2021<br>Currently: Bioinformatician, Reizis Lab at NYU
+name: Eduardo Esteva<br>NYU Bioinformatics<br>Masters Student<br>2020-2021<br>Currently: Bioinformatician, Reizis Lab at NYU<br>
 position: alumni
 avatar: eduardoesteva_profile.png
 ---
