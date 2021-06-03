@@ -1,5 +1,5 @@
 ---
-name: Rohan Ghotra<br>Syosset High<br>Since 2021<br>
+name: Rohan Ghotra<br>Syosset High<br>Volunteer Researcher<br>Since 2021<br>
 position: visiting
 avatar: rohanghotra_profile.jpg
 ---
@@ -7,7 +7,7 @@ avatar: rohanghotra_profile.jpg
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 <br>
 
-- _2021-present, High School Student Researcher, Koo Lab, CSHL_ <br>
+- _2021-present, High School Student Researcher, Koo Lab at CSHL_ <br>
 - _Class of 2022, Syosset High School_ <br>
 
 <br>
