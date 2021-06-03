@@ -1,5 +1,5 @@
 ---
-name: Roshan Kenia<br>Stony Brook<br>Computer Science<br>Undergrad Researcher<br>2020-2021
+name: Roshan Kenia<br>Stony Brook<br>Computer Science<br>Undergrad Researcher<br>2020-2021<br>Currently: intern at SupplyHouse.com
 position: alumni
 avatar: roshankenia_profile.jpg
 ---

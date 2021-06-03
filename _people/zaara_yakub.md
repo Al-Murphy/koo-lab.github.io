@@ -1,5 +1,5 @@
 ---
-name: Zaara Yakub<br>Partners for the Future<br>Bethpage High<br>2020-2021<br>
+name: Zaara Yakub<br>Partners for the Future<br>Bethpage High<br>2020-2021<br>Currently: to-be undergrad at Lehigh 
 position: alumni
 avatar: zaarayakub_profile.jpg
 ---
