@@ -5,10 +5,6 @@ permalink: /Publication/
 
 ## 2021
 
-_Exploiting marker genes for robust classification and characterization of single-cell chromatin accessibility_<br>
-RK Kawaguchi, <b>Z Tang</b>, S Fischer, <b>R Tripathy</b>, <b>PK Koo</b>, J Gillis <br>
-bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2021.04.01.438068v1), [Code](https://github.com/carushi/Catactor))
-
 _Global Importance Analysis: A Method to Quantify Importance of Genomic Features in Deep Neural Networks_<br>
 <b>PK Koo</b>, <b>A Majdandzic</b>, M Ploenzke, P Anand, S Paul <br>
 PLOS Computational Biology ([Article](https://www.biorxiv.org/content/10.1101/2020.09.08.288068v1), [Code](https://github.com/p-koo/residualbind))
@@ -16,6 +12,10 @@ PLOS Computational Biology ([Article](https://www.biorxiv.org/content/10.1101/20
 _Improving Representations of Genomic Sequence Motifs in Convolutional Networks with Exponential Activations_<br>
 <b>PK Koo</b>, M Ploenzke <br>
 Nature Machine Intelligence ([Article](https://www.nature.com/articles/s42256-020-00291-x), [Code](https://github.com/p-koo/exponential_activations))
+
+_Exploiting marker genes for robust classification and characterization of single-cell chromatin accessibility_<br>
+RK Kawaguchi, <b>Z Tang</b>, S Fischer, <b>R Tripathy</b>, <b>PK Koo</b>, J Gillis <br>
+bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2021.04.01.438068v1), [Code](https://github.com/carushi/Catactor))
 
 _Single Layers of Attention Suffice to Predict Protein Contacts_<br>
 N Bhattacharya, N Thomas, R Rao, J Dauparas, <b>PK Koo</b>, D Baker, YS Song, S Ovchinnikov <br>
