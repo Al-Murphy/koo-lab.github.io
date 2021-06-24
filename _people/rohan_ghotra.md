@@ -1,5 +1,5 @@
 ---
-name: Rohan Ghotra<br>Syosset High<br>Volunteer Researcher<br>Since 2021<br>
+name: Rohan Ghotra<br>Partners for the Future<br>Syosset High<br>Since 2021<br>
 position: visiting
 avatar: rohanghotra_profile.jpg
 ---

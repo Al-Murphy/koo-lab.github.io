@@ -1,5 +1,5 @@
 ---
-name: Ethan Labelson<br>Friends Academy<br>Volunteer Researcher<br>Since 2021<br>
+name: Ethan Labelson<br>Partners for the Future<br>Friends Academy<br>Since 2021<br>
 position: visiting
 avatar: ethanlabelson_profile.jpg
 ---
