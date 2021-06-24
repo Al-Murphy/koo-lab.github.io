@@ -1,5 +1,5 @@
 ---
-name: Sam Kleeman<br>CSHL<br>Rotation Student<br>2020<br>
+name: Sam Kleeman<br>CSHL<br>Rotation Student<br>Spring 2020<br>
 position: alumni
 avatar: samkleeman_profile.jpg
 ---
