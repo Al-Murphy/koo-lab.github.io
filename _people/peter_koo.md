@@ -10,7 +10,7 @@ twitter: pkoo562
 
 - _2019-present, Assistant Professor, Simons Center for Quantitative Biology at Cold Spring Harbor Laboratory_ <br>
 	- **Affiliations:** <br>
-		- _2020-present, CSHL Cancer Center_ <br>
+		- _2020-present, CSHL Cancer Center Member_ <br>
 		- _2020-present, Applied Mathematics & Statistics at Stony Brook University_ <br>
 		- _2019-present, Laufer Center for Physical and Quantitative Biology at Stony Brook University_ <br>
 - _2015-2019, Postdoctoral Researcher, Harvard University_ <br>
