@@ -6,17 +6,17 @@ permalink: /Publication/
 ## 2021
 
 _Statistical correction of input gradients for black box models trained with categorical input features_<br>
-<b>A Majdandzic</b> and <b>PK Koo</b>
-ICML 2021 Workshop in Computational Biology ([Workshop paper](https://icml-compbio.github.io/2021/papers/WCBICML2021_paper_56.pdf), [Code](https://github.com/p-koo/gradient_correction)) 
+<b>A Majdandzic</b> and <b>PK Koo</b> <br>
+ICML 2021 Workshop in Computational Biology ([Workshop paper](https://icml-compbio.github.io/2021/papers/WCBICML2021_paper_56.pdf), [Code](https://github.com/p-koo/gradient_correction))  
 _Selected for spotlight talk_
 
 _Designing Interpretable Convolution-Based Hybrid Networks for Genomics_<br>
-<b>R Ghotra<b>, <b>NK Lee<b>, <b>R Tripathy<b> and <b>PK Koo</b>
+<b>R Ghotra</b>, <b>NK Lee</b>, <b>R Tripathy</b> and <b>PK Koo</b> <br>
 ICML 2021 Workshop in Computational Biology ([Workshop paper](https://icml-compbio.github.io/2021/papers/WCBICML2021_paper_28.pdf), [Code](https://github.com/p-koo/hybrid_genomics)) 
 
 _Representation learning of genomic sequence motifs via information maximization_<br>
-<b>NK Lee<b> and <b>PK Koo</b>
-ICML 2021 Workshop in Computational Biology ([Workshop paper](https://icml-compbio.github.io/2021/papers/WCBICML2021_paper_58.pdf),) 
+<b>NK Lee</b> and <b>PK Koo</b> <br>
+ICML 2021 Workshop in Computational Biology ([Workshop paper](https://icml-compbio.github.io/2021/papers/WCBICML2021_paper_58.pdf)) 
 
 _Global Importance Analysis: A Method to Quantify Importance of Genomic Features in Deep Neural Networks_<br>
 <b>PK Koo</b>, <b>A Majdandzic</b>, M Ploenzke, P Anand, S Paul <br>
