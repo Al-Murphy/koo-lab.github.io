@@ -1,6 +1,6 @@
 ---
 name: Jakub Kaczmarzyk<br>Stony Brook Medicine<br>MD/PhD Student<br>Since 2021
-position: rotation
+position: gradstudent
 avatar: jakubkaczmarzyk_profile.png
 twitter: JakubKaczmarzyk
 ---

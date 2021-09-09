@@ -7,7 +7,7 @@ avatar: eduardoesteva_profile.png
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 <br>
 
-- _Currently: Bioinformatician, Reizis Lab at NYU_ <br>
+- _Currently: Bioinformatician, NYU Grossman School of Medicine _ <br>
 - _2020-2021, Masters Student Researcher, Koo Lab at CSHL_ <br>
 - _2020-2021, NYU Tandon School of Engineering: Master of Science; Bioinformatics_ <br>
 - _2013-2017, NYU Stern School of Business: Bachelor of Science; Finance, Statistics_ <br>
