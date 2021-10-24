@@ -4,11 +4,27 @@ permalink: /Publication/
 ---
 
 ## 2021
+_Uncovering motif interactions from convolutional-attention networks for genomics_<br>
+<b>R Ghotra</b>, <b>N Lee</b>, <b>PK Koo</b> <br>
+NeurIPS 2021 Workshop AI for Science ([Workshop paper](), [Code]()  
+_Selected for oral presentation_
+
+
+_Towards trustworthy explanations with gradient-based attribution methods_<br>
+<b>EL Labelson</b>, <b>R Tripathy</b>, <b>PK Koo</b> <br>
+NeurIPS 2021 Workshop AI for Science ([Workshop paper](), [Code]()  
+
+
+_Towards trustworthy explanations with gradient-based attribution methods_<br>
+S Petty, N Bhattacharya, R Rao, J Dauparas, N Thomas, J Zhou, AM Rush, <b>PK Koo</b>, S Ovchinnikov <br>
+NeurIPS 2021 Machine Learning for Structural Biology Workshop ([Workshop paper](), [Code]()  
+_Selected for oral presentation_
+
 
 _Statistical correction of input gradients for black box models trained with categorical input features_<br>
 <b>A Majdandzic</b>, <b>PK Koo</b> <br>
 ICML 2021 Workshop in Computational Biology ([Workshop paper](https://icml-compbio.github.io/2021/papers/WCBICML2021_paper_56.pdf), [Code](https://github.com/p-koo/gradient_correction))  
-_Selected for spotlight talk_
+_Selected for spotlight presentation_
 
 _Designing Interpretable Convolution-Based Hybrid Networks for Genomics_<br>
 <b>R Ghotra</b>, <b>NK Lee</b>, <b>R Tripathy</b>, <b>PK Koo</b> <br>
