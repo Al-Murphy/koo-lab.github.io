@@ -15,7 +15,7 @@ _Towards trustworthy explanations with gradient-based attribution methods_<br>
 NeurIPS 2021 Workshop AI for Science ([Workshop paper](), [Code]()  
 
 
-_Towards trustworthy explanations with gradient-based attribution methods_<br>
+_End-to-end learning of multiple sequence alignmentswith differentiable Smith-Waterman_<br>
 S Petty, N Bhattacharya, R Rao, J Dauparas, N Thomas, J Zhou, AM Rush, <b>PK Koo</b>, S Ovchinnikov <br>
 NeurIPS 2021 Machine Learning for Structural Biology Workshop ([Workshop paper](), [Code]()  
 _Selected for oral presentation_
