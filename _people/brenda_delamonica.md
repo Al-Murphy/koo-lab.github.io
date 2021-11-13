@@ -1,7 +1,7 @@
 ---
 name: Brenda Delamonica<br>Stony Brook Applied Math<br>Masters Student<br>Since 2021
 position: rotation
-avatar: brenda_anime.png
+avatar: brendadelamonica_profile.jpg
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
