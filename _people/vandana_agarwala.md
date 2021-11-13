@@ -1,7 +1,7 @@
 ---
 name: Vandana Agarwala<br>Penn State<br>Undergrad Researcher<br>Summer 2021<br>
 position: visiting
-avatar: vandanaagarwala_profile2.png
+avatar: vandana_anime.png
 twitter: 
 ---
 

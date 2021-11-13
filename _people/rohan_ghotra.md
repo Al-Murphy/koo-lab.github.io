@@ -1,7 +1,7 @@
 ---
 name: Rohan Ghotra<br>Partners for the Future<br>Syosset High<br>Since 2021<br>
 position: visiting
-avatar: rohanghotra_profile.jpg
+avatar: rohan_anime.png
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
