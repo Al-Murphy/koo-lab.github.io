@@ -4,7 +4,7 @@ position: rotation
 avatar: brenda_anime.png
 ---
 
-<img width="300" src="{{site.baseurl}}/anime/{{page.avatar}}" data-action="zoom">
+<img width="300" src="{{site.baseurl}}/images/anime/{{page.avatar}}" data-action="zoom">
 <br>
 
 - _2021-present MS in Computational Biology in the Applied Mathematics and Statistic Department, Stony Brook University_ <br>

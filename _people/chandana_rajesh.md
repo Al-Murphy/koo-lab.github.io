@@ -4,7 +4,7 @@ position: visiting
 avatar: chandana_anime.png
 ---
 
-<img width="300" src="{{site.baseurl}}/anime/{{page.avatar}}" data-action="zoom">
+<img width="300" src="{{site.baseurl}}/images/anime/{{page.avatar}}" data-action="zoom">
 <br>
 
 - _2020-present, Masters Student Researcher, Koo Lab at CSHL_ <br>

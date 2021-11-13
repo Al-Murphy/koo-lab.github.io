@@ -5,7 +5,7 @@ avatar: vandana_anime.png
 twitter: 
 ---
 
-<img width="300" src="{{site.baseurl}}/anime/{{page.avatar}}" data-action="zoom">
+<img width="300" src="{{site.baseurl}}/images/anime/{{page.avatar}}" data-action="zoom">
 <br>
 
 - _2021-present, Summer URP, Koo Lab, Cold Spring Harbor Laboratory_ <br>

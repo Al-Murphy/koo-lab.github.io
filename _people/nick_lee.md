@@ -4,7 +4,7 @@ position: staff
 avatar: nick_anime.png
 ---
 
-<img width="300" src="{{site.baseurl}}/anime/{{page.avatar}}" data-action="zoom">
+<img width="300" src="{{site.baseurl}}/images/anime/{{page.avatar}}" data-action="zoom">
 <br>
 
 - _2020-present: Computational Science Developer II, Koo Laboratory, Simons Center for Quantitative Biology at Cold Spring Harbor Laboratory_ <br>
