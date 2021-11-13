@@ -1,11 +1,11 @@
 ---
 name: Peter Koo
 position: pi
-avatar: peterkoo_profile.png
+avatar: peter_anime.png
 twitter: pkoo562
 ---
 
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+<img width="300" src="{{site.baseurl}}/anime/{{page.avatar}}" data-action="zoom">
 <br>
 
 - _2019-present, Assistant Professor, Simons Center for Quantitative Biology at Cold Spring Harbor Laboratory_ <br>

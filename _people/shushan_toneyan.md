@@ -1,10 +1,10 @@
 ---
 name: Shushan Toneyan<br>CSHL<br>Grad Student<br>Since 2020
 position: gradstudent
-avatar: shush_profile.png
+avatar: shush_anime.png
 ---
 
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+<img width="300" src="{{site.baseurl}}/anime/{{page.avatar}}" data-action="zoom">
 <br>
 
 - _2019-present, Graduate Student, Watson School of Biological Sciences, CSHL_ <br>

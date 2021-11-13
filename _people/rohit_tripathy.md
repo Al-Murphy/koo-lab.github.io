@@ -1,10 +1,10 @@
 ---
 name: Rohit Tripathy<br>Postdoc<br>Since 2020
 position: postdoc
-avatar: rohit_profile.jpeg
+avatar: rohit_anime.png
 ---
 
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+<img width="300" src="{{site.baseurl}}/anime/{{page.avatar}}" data-action="zoom">
 <br>
 
 - _2020-present, Postdoctoral Researcher, Koo Lab at Cold Spring Harbor Laboratory_ <br>

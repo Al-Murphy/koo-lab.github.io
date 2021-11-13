@@ -1,10 +1,10 @@
 ---
 name: Nicholas Lee<br>Comp Sci Developer II<br>Since 2020
 position: staff
-avatar: nicklee_profile.jpg
+avatar: nick_anime.png
 ---
 
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+<img width="300" src="{{site.baseurl}}/anime/{{page.avatar}}" data-action="zoom">
 <br>
 
 - _2020-present: Computational Science Developer II, Koo Laboratory, Simons Center for Quantitative Biology at Cold Spring Harbor Laboratory_ <br>

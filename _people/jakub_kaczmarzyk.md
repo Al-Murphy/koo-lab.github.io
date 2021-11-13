@@ -1,11 +1,11 @@
 ---
 name: Jakub Kaczmarzyk<br>Stony Brook Medicine<br>MD/PhD Student<br>Since 2021
 position: gradstudent
-avatar: jakubkaczmarzyk_profile.png
+avatar: jakub_anime.png
 twitter: JakubKaczmarzyk
 ---
 
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+<img width="300" src="{{site.baseurl}}/anime/{{page.avatar}}" data-action="zoom">
 <br>
 
 - _2021-present, Grad Student Researcher, jointly mentored by Joe Saltz at Stony Brook Biomedical Informatics and Peter Koo at CSHL_ <br>
