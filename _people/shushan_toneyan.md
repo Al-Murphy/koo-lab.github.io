@@ -4,7 +4,7 @@ position: gradstudent
 avatar: shush_anime.png
 ---
 
-<img width="300" src="{{site.baseurl}}/images/anime/{{page.avatar}}" data-action="zoom">
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 <br>
 
 - _2019-present, Graduate Student, Watson School of Biological Sciences, CSHL_ <br>

@@ -5,7 +5,7 @@ avatar: jakub_anime.png
 twitter: JakubKaczmarzyk
 ---
 
-<img width="300" src="{{site.baseurl}}/images/anime/{{page.avatar}}" data-action="zoom">
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 <br>
 
 - _2021-present, Grad Student Researcher, jointly mentored by Joe Saltz at Stony Brook Biomedical Informatics and Peter Koo at CSHL_ <br>
