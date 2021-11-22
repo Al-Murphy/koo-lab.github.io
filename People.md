@@ -40,10 +40,15 @@ permalink: /People/
 {% endfor %}
 
 
-<br>
-<br>
-<h3>[Alumni](http://koolab.cshl.edu/Alumni/)</h3>
-<br>
+<h3>Alumni</h3>
+
+| :------------- |:-------------| :-----------| :-----------| :-----------|
+Sam Kleeman | Rotation Student | CSHL graduate student | Spring 2020 | Currently in Janowitz and Furukawa Labs |
+Roshan Kenia | Undergrad Researcher | Stony Brook Computer Science | 2020-2021 | Intern at SupplyHouse.com |
+Eduardo Esteva | Masters Student | NYU Bioinformatics | 2020-2021 | Currently in Bioinformatics Analyst at NYU Grossman School of Medicine, Office of Science & Research|
+Zaara Yakub | High School Researcher | Partners for the Future Program, Bethpage High School | 2020-2021 | Undergrad at Lehigh University |
+
+
 <br>
 <br>
 <br>
