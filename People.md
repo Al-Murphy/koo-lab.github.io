@@ -38,3 +38,14 @@ permalink: /People/
 </div>
 <hr>
 {% endfor %}
+
+
+<br>
+<br>
+<h3>[Alumni](http://koolab.cshl.edu/Alumni/)</h3>
+<br>
+<br>
+<br>
+<br>
+
+
