@@ -4,8 +4,6 @@ permalink: /Openings/
 ---
 
 
-<hr>
-
 ### 1. Postdoc in deep learning, biophysics, and genomics 
 
 We are looking to jointly hire a postdoc to spearhead a newly formed collaboration with the Kinney Lab, the goal of which is to bridge the divide between “black-box” deep neural network models in genomics and mechanistically interpretable biophysical models of gene regulation.
