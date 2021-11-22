@@ -6,7 +6,7 @@ permalink: /Openings/
 
 <hr>
 
-### Postdoctoral research in deep learning, biophysics, and genomics 
+### Postdoc in deep learning, biophysics, and genomics 
 
 We are looking to jointly hire a postdoc to spearhead a newly formed collaboration with the Kinney Lab, the goal of which is to bridge the divide between “black-box” deep neural network models in genomics and mechanistically interpretable biophysical models of gene regulation.
 
@@ -18,7 +18,7 @@ We are looking to jointly hire a postdoc to spearhead a newly formed collaborati
 <hr>
 
 
-### Postdoctoral research in deep learning for cancer genomics
+### Postdoc in deep learning for cancer genomics
 
 Potential projects include but are not limited to (1) developing deep learning solutions to address cutting edge problems in cancer genomics, working closely with wet lab experimentalist at the CSHL Cancer Center and (2) developing and interpreting transformer-based language models for protein and RNA sequences. 
 
