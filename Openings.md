@@ -4,7 +4,9 @@ permalink: /Openings/
 ---
 
 
-## Postdoctoral research in deep learning, biophysics, and genomics 
+<hr>
+
+### Postdoctoral research in deep learning, biophysics, and genomics 
 
 We are looking to jointly hire a postdoc to spearhead a newly formed collaboration with the Kinney Lab, the goal of which is to bridge the divide between “black-box” deep neural network models in genomics and mechanistically interpretable biophysical models of gene regulation.
 
@@ -13,8 +15,10 @@ We are looking to jointly hire a postdoc to spearhead a newly formed collaborati
 <b>Apply:</b> Interested candidates should email Dr. Kinney (jkinney@cshl.edu) and Dr. Koo (koo@cshl.edu) to briefly explain why they are interested in this position. Promising candidates will then be encouraged to formally apply via the CSHL careers website and to provide a cover letter, CV, and contact information for two individuals who can supply letters of reference. Please do not hesitate to reach out to Dr. Kinney or Dr. Koo if you have any questions. Potential applicants should inquire about this position by 15 January 2022.
 
 
+<hr>
 
-## Postdoctoral research in deep learning for cancer genomics
+
+### Postdoctoral research in deep learning for cancer genomics
 
 Potential projects include but are not limited to (1) developing deep learning solutions to address cutting edge problems in cancer genomics, working closely with wet lab experimentalist at the CSHL Cancer Center and (2) developing and interpreting transformer-based language models for protein and RNA sequences. 
 
@@ -25,7 +29,7 @@ Potential projects include but are not limited to (1) developing deep learning s
 <hr>
 
 
-## Graduate student openings
+### Graduate student openings
 
 We have openings for graduate students at <b>CSHL</b> and <b>Stony Brook University</b>. Email koo@cshl.edu to discuss rotatation opportunities.
 
