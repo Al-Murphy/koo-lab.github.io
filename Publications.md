@@ -6,7 +6,7 @@ permalink: /Publication/
 ## 2021
 _Uncovering motif interactions from convolutional-attention networks for genomics_<br>
 <b>R Ghotra</b>, <b>N Lee</b>, <b>PK Koo</b> <br>
-NeurIPS 2021 AI for Science Workshop ([Workshop paper](https://openreview.net/forum?id=ITOQhccyRsk&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2021%2FWorkshop%2FAI4Science%2FAuthors%23your-submissions)), [Code]())  
+NeurIPS 2021 AI for Science Workshop ([Workshop paper](https://openreview.net/forum?id=ITOQhccyRsk&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2021%2FWorkshop%2FAI4Science%2FAuthors%23your-submissions)), [Code]())   <br>
 _Selected for oral presentation_
 
 
@@ -17,13 +17,13 @@ NeurIPS 2021 AI for Science Workshop ([Workshop paper](https://openreview.net/fo
 
 _End-to-end learning of multiple sequence alignmentswith differentiable Smith-Waterman_<br>
 S Petty, N Bhattacharya, R Rao, J Dauparas, N Thomas, J Zhou, AM Rush, <b>PK Koo</b>, S Ovchinnikov <br>
-NeurIPS 2021 Machine Learning for Structural Biology Workshop ([Workshop paper](https://www.biorxiv.org/content/10.1101/2021.10.23.465204v1), [Code](https://github.com/spetti/SMURF)) 
+NeurIPS 2021 Machine Learning for Structural Biology Workshop ([Workshop paper](https://www.biorxiv.org/content/10.1101/2021.10.23.465204v1), [Code](https://github.com/spetti/SMURF))  <br>
 _Selected for oral presentation_
 
 
 _Statistical correction of input gradients for black box models trained with categorical input features_<br>
 <b>A Majdandzic</b>, <b>PK Koo</b> <br>
-ICML 2021 Workshop on Computational Biology ([Workshop paper](https://icml-compbio.github.io/2021/papers/WCBICML2021_paper_56.pdf), [Code](https://github.com/p-koo/gradient_correction))  
+ICML 2021 Workshop on Computational Biology ([Workshop paper](https://icml-compbio.github.io/2021/papers/WCBICML2021_paper_56.pdf), [Code](https://github.com/p-koo/gradient_correction))   <br>
 _Selected for spotlight presentation_
 
 
