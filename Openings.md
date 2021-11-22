@@ -6,7 +6,7 @@ permalink: /Openings/
 
 <hr>
 
-### Postdoc in deep learning, biophysics, and genomics 
+### 1. Postdoc in deep learning, biophysics, and genomics 
 
 We are looking to jointly hire a postdoc to spearhead a newly formed collaboration with the Kinney Lab, the goal of which is to bridge the divide between “black-box” deep neural network models in genomics and mechanistically interpretable biophysical models of gene regulation.
 
@@ -18,7 +18,7 @@ We are looking to jointly hire a postdoc to spearhead a newly formed collaborati
 <hr>
 
 
-### Postdoc in deep learning for cancer genomics
+### 2. Postdoc in deep learning for cancer genomics
 
 Potential projects include but are not limited to (1) developing deep learning solutions to address cutting edge problems in cancer genomics, working closely with wet lab experimentalist at the CSHL Cancer Center and (2) developing and interpreting transformer-based language models for protein and RNA sequences. 
 
@@ -29,7 +29,7 @@ Potential projects include but are not limited to (1) developing deep learning s
 <hr>
 
 
-### Graduate student openings
+### 3. Graduate student openings
 
 We have openings for graduate students at <b>CSHL</b> and <b>Stony Brook University</b>. Email koo@cshl.edu to discuss rotatation opportunities.
 
