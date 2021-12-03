@@ -1,7 +1,7 @@
 ---
 name: Ethan Labelson<br>Partners for the Future<br>Friends Academy<br>Since 2021<br>
 position: visiting
-avatar: ethan_anime.png
+avatar: ethanlabelson_profile.jpg
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

@@ -1,7 +1,7 @@
 ---
 name: Rohit Tripathy<br>Postdoc<br>Since 2020
 position: postdoc
-avatar: rohit_anime.png
+avatar: rohit_profile.jpeg
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
