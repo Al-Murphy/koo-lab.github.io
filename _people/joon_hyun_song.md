@@ -13,7 +13,7 @@ avatar: Joon_Hyun_Song.jpg
 
 
 
-<a href="mailto:brenda.delamonica@stonybrook.edu"><i class="fa fa-envelope-o"></i> joon-hyun.song@stonybrook.edu</a><br>
+<a href="mailto:joon-hyun.song@stonybrook.edu"><i class="fa fa-envelope-o"></i> joon-hyun.song@stonybrook.edu</a><br>
 
 <hr>
 
