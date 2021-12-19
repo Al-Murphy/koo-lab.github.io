@@ -48,7 +48,7 @@ Sam Kleeman | Rotation Student | CSHL graduate student | Spring 2020 | Grad stud
 Roshan Kenia | Undergrad Researcher | Stony Brook Computer Science | 2020-2021 | Intern at SupplyHouse.com |
 Eduardo Esteva | Masters Student | NYU Bioinformatics | 2020-2021 | Bioinformatics Analyst at NYU Grossman School of Medicine, Office of Science & Research|
 Zaara Yakub | High School Researcher | Partners for the Future Program, Bethpage High School | 2020-2021 | Undergrad at Lehigh University |
-
+Brenda Delamonica | Rotation Student | Stony Brook Applied Math Masters student | Fall 2021 | |
 
 <br>
 <br>

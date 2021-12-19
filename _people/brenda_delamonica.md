@@ -1,6 +1,6 @@
 ---
 name: Brenda Delamonica<br>Stony Brook Applied Math<br>Masters Student<br>Since 2021
-position: rotation
+position: alumni
 avatar: brendadelamonica_profile.jpg
 ---
 
