@@ -7,7 +7,7 @@ permalink: /Publication/
 _Uncovering motif interactions from convolutional-attention networks for genomics_<br>
 <b>R Ghotra</b>, <b>N Lee</b>, <b>PK Koo</b> <br>
 NeurIPS 2021 AI for Science Workshop ([Workshop paper](https://openreview.net/forum?id=ITOQhccyRsk&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2021%2FWorkshop%2FAI4Science%2FAuthors%23your-submissions)), [Code]())   <br>
-_Selected for oral presentation -- Best Paper Award!_
+_Selected for oral presentation_ -- *Best Paper Award*
 
 
 _Towards trustworthy explanations with gradient-based attribution methods_<br>

@@ -8,7 +8,7 @@ twitter: JakubKaczmarzyk
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 <br>
 
-- _2021-present, Grad Student Researcher, jointly mentored by Joe Saltz at Stony Brook Biomedical Informatics and Peter Koo at CSHL_ <br>
+- _2021-present, Grad Student Researcher, jointly mentored with Joel Saltz at Stony Brook Biomedical Informatics and Peter Koo at CSHL_ <br>
 - _2019-present, MD-PhD candidate, Medical Scientist Training Program, Stony Brook University_ <br>
 - _2016-2019, Technical Associate, Gabrieli Lab, Dept. of Brain and Cognitive Sciences, MIT_ <br>
 - _2012-2016, BS in Neuroscience, Union College_ <br>
