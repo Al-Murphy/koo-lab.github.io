@@ -44,6 +44,7 @@ permalink: /People/
 
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
+Vandana Agarwala | Summer Undergrad Research Program | Penn State Computer Science | Summer 2021 | |
 Sam Kleeman | Rotation Student | CSHL graduate student | Spring 2020 | Grad student in Janowitz and Furukawa Labs |
 Roshan Kenia | Undergrad Researcher | Stony Brook Computer Science | 2020-2021 | Intern at SupplyHouse.com |
 Eduardo Esteva | Masters Student | NYU Bioinformatics | 2020-2021 | Bioinformatics Analyst at NYU Grossman School of Medicine, Office of Science & Research|
