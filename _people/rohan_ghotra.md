@@ -13,7 +13,7 @@ avatar: rohanghotra_profile.jpg
 <br>
 
 <a href="mailto:ghotra@cshl.edu"><i class="fa fa-envelope-o"></i> ghotra@cshl.edu</a><br>
-<a href="https://https://www.linkedin.com/in/rohan-ghotra-937618203/"><i class="fa fa-linkedin-square"></i> RohanGhotra</a><br>
+<a href="https://www.linkedin.com/in/rohan-ghotra-937618203/"><i class="fa fa-linkedin-square"></i> RohanGhotra</a><br>
 <a href="https://github.com/Rohan75"><i class="fa fa-github"></i> @Rohan75 </a><br>
 
 <hr>
