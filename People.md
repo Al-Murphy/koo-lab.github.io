@@ -20,7 +20,7 @@ permalink: /People/
  {% elsif item == 'rotation' %}
 <h3>Rotation Students</h3>
 {% elsif item == 'visiting' %}
-<h3>Visiting Researchers</h3>
+<h3>Research Interns</h3>
 {% endif %}
 </div>
 
