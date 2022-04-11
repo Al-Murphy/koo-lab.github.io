@@ -1,6 +1,6 @@
 ---
 name: Joon-Hyun Song<br>Stony Brook Applied Math<br>PhD Student<br>Since 2021
-position: rotation
+position: alumni
 avatar: Joon_Hyun_Song.jpg
 ---
 

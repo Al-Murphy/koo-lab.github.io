@@ -1,6 +1,6 @@
 ---
 name: Scott Feltman<br>Stony Brook Applied Math<br>PhD Student<br>Since 2021
-position: rotation
+position: alumni
 avatar: scott_feltman_profile.JPG
 ---
 
