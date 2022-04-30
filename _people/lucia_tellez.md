@@ -7,7 +7,7 @@ avatar: lucia_tellez.jpg
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 <br>
 
-- _2021-present PhD student at Cold Spring Harbor Laboratory
+- _2021-present PhD student at Cold Spring Harbor Laboratory_
 - _2020-2021, MSc in Bioinformatics, The University of Edinburgh (Scotland)_ <br>
 - _2016-2020, BSc in Biochemistry, Universidad Autonoma de Madrid (Spain)_ <br>
 
