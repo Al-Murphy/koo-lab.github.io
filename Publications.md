@@ -3,6 +3,22 @@ title: Publication
 permalink: /Publication/
 ---
 
+## 2022
+
+_Evaluating deep learning for predicting epigenomic profiles_<br>
+<b>S Toneyan</b>, <b>Z Tang</b>, <b>PK Koo</b><br>
+bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2022.04.29.490059v1), [Code](https://github.com/shtoneyan/gopher))
+
+
+_Statistical correction of input gradients for black box models trained with categorical input features_<br>
+<b>A Majdandzic</b>, <b>PK Koo</b><br>
+bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2022.04.29.490102v1), [Code](https://github.com/Antonio-Ionaton/GradientCorrection))
+
+_Interpreting Potts and Transformer Protein Models Through the Lens of Simplified Attention_<br>
+N Bhattacharya, N Thomas, R Rao, J Dauparas, <b>PK Koo</b>, D Baker, YS Song, S Ovchinnikov <br>
+Pacific Symposium on Biocomputing ([Article](https://www.worldscientific.com/doi/abs/10.1142/9789811250477_0004), [Code](https://github.com/nickbhat/mogwai.git))
+
+
 ## 2021
 _Uncovering motif interactions from convolutional-attention networks for genomics_<br>
 <b>R Ghotra</b>, <b>N Lee</b>, <b>PK Koo</b> <br>

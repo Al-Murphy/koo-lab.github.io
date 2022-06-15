@@ -1,6 +1,6 @@
 ---
 name: Lucia Tellez Pérez<br>CSHL<br> Grad Student<br>Since 2022
-position: rotation
+position: alumni
 avatar: lucia_tellez.jpg
 ---
 

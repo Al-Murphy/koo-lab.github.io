@@ -44,6 +44,8 @@ permalink: /People/
 
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
+Lucia Tellez Perez | Rotation Student | CSHL SBS | Spring 2022 |  |
+Thomas Huffstutler | Rotation Student | Stony Brook Applied Math Masters student | Spring 2022 | |
 Vandana Agarwala | Summer Undergrad Research Program | Penn State, Computer Science | Summer 2021 | |
 Brenda Delamonica | Rotation Student | Stony Brook Applied Math Masters student | Fall 2021 | |
 Sam Kleeman | Rotation Student | CSHL SBS | Spring 2021 | Grad student in Janowitz and Furukawa Labs |
