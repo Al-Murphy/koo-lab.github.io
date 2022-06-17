@@ -11,8 +11,6 @@ permalink: /People/
 <div class="pos_header">
 {% if item == 'pi' %}
 <h3>Principal Investigator</h3>
- {% elsif item == 'staff' %}
-<h3>Staff</h3>
  {% elsif item == 'postdoc' %}
 <h3>Postdoctoral Fellows</h3>
  {% elsif item == 'gradstudent' %}
@@ -21,6 +19,8 @@ permalink: /People/
 <h3>Rotation Students</h3>
 {% elsif item == 'visiting' %}
 <h3>Research Interns</h3>
+ {% elsif item == 'honarary' %}
+<h3>Honarary members</h3>
 {% endif %}
 </div>
 
