@@ -1,5 +1,5 @@
 ---
-name: Steven Yu<br>Syosset High<br>Since 2022<br>
+name: Steven Yu<br>Syosset High<br>Since 2022<br> <br>
 position: visiting
 avatar: stevenyu_profile.png
 ---
