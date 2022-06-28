@@ -17,10 +17,10 @@ permalink: /People/
 <h3>Graduate Students</h3>
  {% elsif item == 'rotation' %}
 <h3>Rotation Students</h3>
+{% elsif item == 'undergrad' %}
+<h3>Undergrad Researchers</h3>
 {% elsif item == 'visiting' %}
-<h3>Research Interns</h3>
- {% elsif item == 'honarary' %}
-<h3>Honarary members</h3>
+<h3>High School Researchers</h3>
 {% endif %}
 </div>
 
