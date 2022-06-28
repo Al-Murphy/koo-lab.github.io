@@ -5,6 +5,11 @@ permalink: /Publication/
 
 ## 2022
 
+
+_Evaluating histopathology transfer learning with ChampKit_<br>
+<b>JR Kaczmarzyk</b>, TM Kurc, S Abousamra, R Gupta, JH Saltz, <b>PK Koo</b><br>
+arXiv ([Preprint](https://arxiv.org/abs/2206.06862), [Code](https://github.com/kaczmarj/champkit)
+
 _Evaluating deep learning for predicting epigenomic profiles_<br>
 <b>S Toneyan</b>, <b>Z Tang</b>, <b>PK Koo</b><br>
 bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2022.04.29.490059v1), [Code](https://github.com/shtoneyan/gopher))
