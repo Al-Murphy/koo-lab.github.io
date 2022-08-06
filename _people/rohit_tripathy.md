@@ -1,6 +1,6 @@
 ---
 name: Rohit Tripathy<br>Postdoc<br>Since 2020
-position: postdoc
+position: alumni
 avatar: rohit.jpg
 ---
 

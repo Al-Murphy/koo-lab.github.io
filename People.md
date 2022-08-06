@@ -46,6 +46,8 @@ permalink: /People/
 
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
+Phillip Zhou | Summer Undergrad Research Program  | Amherst College | Summer 2022 | |
+Rohit Tripathy | Postdoc | CSHL | 2020-2022 | Staff Scientist in Jackson Laboratory |
 Lucia Tellez Perez | Rotation Student | CSHL SBS | Spring 2022 |  |
 Thomas Huffstutler | Rotation Student | Stony Brook Applied Math Masters student | Spring 2022 | |
 Vandana Agarwala | Summer Undergrad Research Program | Penn State, Computer Science | Summer 2021 | |

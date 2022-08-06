@@ -1,6 +1,6 @@
 ---
 name: Phillip Zhou<br>Amherst College<br>Undergrad<br>Summer 2022
-position: undergrad
+position: alumni
 avatar: phillipzhou_profile.jpg
 ---
 

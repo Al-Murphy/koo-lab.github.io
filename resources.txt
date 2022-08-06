@@ -1,0 +1,131 @@
+___________________________________________________________________________
+Python 
+___________________________________________________________________________
+
+Course: Intro to python by Udacity
+	website: https://www.udacity.com/course/introduction-to-python--ud1110
+
+
+Tutorial: 
+	website: https://github.com/sib-swiss/first-steps-with-python-training/
+
+
+___________________________________________________________________________
+Bioinformatics
+___________________________________________________________________________
+
+
+Tutorial: 
+
+Bioinformatics training materials
+	website: https://github.com/sib-swiss/training-collection
+
+
+Course: 
+
+Introduction to Computational Biology and bioinformatics (Shirley Liu's Stat115 course at Harvard)
+	website: https://liulab-dfci.github.io/bioinfo-combio/
+	video: https://www.youtube.com/playlist?list=PLeB-Dlq-v6taAXK6ZCGfqImrNWJzFt3p3
+
+
+___________________________________________________________________________
+Beginner ML courses
+___________________________________________________________________________
+
+
+Machine Learning Crash Course (Google)
+	website: https://developers.google.com/machine-learning/crash-course
+
+Machine Learning (Coursera -- Andrew Ng)
+	website: https://www.coursera.org/learn/machine-learning
+
+
+___________________________________________________________________________
+Deep learning courses
+___________________________________________________________________________
+
+Convolutional Neural Networks for Visual Recognition Course at Stanford 
+	website: http://cs231n.github.io/
+	videos: https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv    
+
+
+Designing, Visualizing and Understanding Deep Neural Networks at UC Berkeley by Sergey Levine
+	website: https://bcourses.berkeley.edu/courses/1453965
+	videos: https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A
+	discussion problems: https://cs182sp21.github.io/
+
+
+Additional resources:
+
+Deep Unsupervised learning by Pieter Abbeel (UC Berkeley)
+	website: https://sites.google.com/view/berkeley-cs294-158-sp20/home
+	video: https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP
+
+Yann LeCunn's deep learning course at NYU:
+	website: https://atcold.github.io/pytorch-Deep-Learning/
+	video: http://bit.ly/pDL-YouTube
+
+Berkeley's Intro to Deep Learning (Stat 157)
+	website: https://courses.d2l.ai/berkeley-stat-157/index.html
+	video: https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW
+
+Natural Language Processing with Deep Learning (Stanford's CS224N course)
+	website: http://web.stanford.edu/class/cs224n/
+	video: https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
+
+Deep Multi-Task and Meta Learning (Stanford's CS 330 course)
+	website: https://cs330.stanford.edu/
+	video: https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5
+
+Introduction to Deep Learning (MIT's 6.S191 course)
+	website: http://introtodeeplearning.com/
+	video: https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
+
+
+
+___________________________________________________________________________
+Seminars on ML in Biology
+___________________________________________________________________________
+
+Machines, Inference and Algorithms series -- Broad Institute
+	video: https://www.youtube.com/playlist?list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS
+
+
+___________________________________________________________________________
+Example Code
+___________________________________________________________________________
+
+Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow
+	book: https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646
+	code: https://github.com/ageron/handson-ml2
+
+Francis Chollet's tensorflow 2 + keras tutorial
+	code: https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO
+
+Supplements:
+
+Coursera TensorFlow 2 for Deep Learning Specialization by Imperial College London  
+	video: https://www.coursera.org/specializations/tensorflow2-deeplearning#courses)
+
+Interpretability of Deep Learning Models with Tensorflow 2.0 
+	link: https://www.sicara.ai/blog/2019-08-28-interpretability-deep-learning-tensorflow
+
+
+
+Reviews:  
+https://www.nature.com/articles/s41576-019-0122-6  
+https://www.sciencedirect.com/science/article/pii/S2452310020300032   
+
+lecture
+https://colab.research.google.com/drive/11PnxcuTl5B_1LgIlrKmtOmhNk2eKbNPV?usp=sharing
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007560  
+https://colab.research.google.com/drive/1jeAjDwsEbLKMMsOvRdPMe26iqbLBoM6j?usp=sharing
+
+https://www.nature.com/articles/s42256-020-00291-x  
+https://colab.research.google.com/drive/1zq3K9n_HiicD1DjMmJIsAYtVHLFy6Qw-?usp=sharing
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008925    
+
+
+https://dennybritz.com/blog/deep-learning-most-important-ideas/
