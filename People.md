@@ -46,6 +46,7 @@ permalink: /People/
 
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
+Ethan Labelson | High School Researcher  | Friends Academy | 2021-2022 | Undergrad at Caltech |
 Phillip Zhou | Summer Undergrad Research Program  | Amherst College | Summer 2022 | |
 Rohit Tripathy | Postdoc | CSHL | 2020-2022 | Staff Scientist in Jackson Laboratory |
 Lucia Tellez Perez | Rotation Student | CSHL SBS | Spring 2022 |  |

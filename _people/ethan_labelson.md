@@ -7,7 +7,8 @@ avatar: ethan.jpg
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 <br>
 
-- _2021-present, Partners For The Future Student, Koo Lab at CSHL_ <br>
+- _2022-present, Undergrad at Caltech_ <br>
+- _2021-2022, Partners For The Future Student, Koo Lab at CSHL_ <br>
 - _Class of 2022, Friends Academy_ <br>
 
 <br>

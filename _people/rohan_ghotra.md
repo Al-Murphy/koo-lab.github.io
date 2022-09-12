@@ -1,5 +1,5 @@
 ---
-name: Rohan Ghotra<br>Partners for the Future<br>Syosset High<br>Since 2021<br>
+name: Rohan Ghotra<br>Columbia University<br>Since 2021<br>
 position: undergrad
 avatar: rohanghotra_profile.jpg
 ---
@@ -7,7 +7,8 @@ avatar: rohanghotra_profile.jpg
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 <br>
 
-- _2021-present, High School Student Researcher, Koo Lab at CSHL_ <br>
+- _2021-present, Undergrad at Columbia College_ <br>
+- _2021-2022, High School Student Researcher, Koo Lab at CSHL_ <br>
 - _Class of 2022, Syosset High School_ <br>
 
 <br>
