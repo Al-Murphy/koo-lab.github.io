@@ -1,5 +1,5 @@
 ---
-name: Steven Yu<br>Stony Brook<br> <br>
+name: Steven Yu<br>Stony Brook<br>Since 2022<br>
 position: undergrad
 avatar: stevenyu_profile.png
 ---

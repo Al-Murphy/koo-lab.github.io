@@ -1,6 +1,6 @@
 ---
 name: Ethan Labelson<br>Partners for the Future<br>Friends Academy<br>Since 2021<br>
-position: visiting
+position: alumni
 avatar: ethan.jpg
 ---
 
