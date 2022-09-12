@@ -1,6 +1,6 @@
 ---
 name: Rohan Ghotra<br>Partners for the Future<br>Syosset High<br>Since 2021<br>
-position: visiting
+position: undergrad
 avatar: rohanghotra_profile.jpg
 ---
 
