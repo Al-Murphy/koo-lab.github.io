@@ -12,7 +12,7 @@ arXiv ([Preprint](https://arxiv.org/abs/2206.06862), [Code](https://github.com/k
 
 _Evaluating deep learning for predicting epigenomic profiles_<br>
 <b>S Toneyan</b>, <b>Z Tang</b>, <b>PK Koo</b><br>
-bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2022.04.29.490059v1), [Code](https://github.com/shtoneyan/gopher))
+bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2022.04.29.490059v1), [Code](https://github.com/shtoneyan/gopher))<br>
 _Accepted in Nature Machine Intelligence_
 
 
