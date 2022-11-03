@@ -7,12 +7,10 @@ permalink: /Publication/
 
 _Selecting deep neural networks that yield consistent attribution-based interpretations for genomics_<br>
 <b>A Majdandzic</b>, <b>C Rajesh</b>, <b>Z Tang</b>, <b>S Toneyan</b>, <b>E Labelson</b>, <b>R Tripathy</b>, <b>PK Koo</b><br>
-TBD<br>
 _Accepted in Machine Learning in Computational Biology_
 
-_	ETV6 dependency in Ewing sarcoma by antagonism of EWS-FLI1-mediated enhancer activation_<br>
+_ETV6 dependency in Ewing sarcoma by antagonism of EWS-FLI1-mediated enhancer activation_<br>
 Y Gao, XY He, ..., <b>S Toneyan</b>, ..., <b>PK Koo</b>, ..., C Vakoc<br>
-TBD<br>
 _Accepted in Nature Cell Biology_
 
 _Evaluating deep learning for predicting epigenomic profiles_<br>
