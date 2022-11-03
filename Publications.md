@@ -5,20 +5,28 @@ permalink: /Publication/
 
 ## 2022
 
+_Selecting deep neural networks that yield consistent attribution-based interpretations for genomics_<br>
+<b>A Majdandzic</b>, <b>C Rajesh</b>, <b>Z Tang</b>, <b>S Toneyan</b>, <b>E Labelson</b>, <b>R Tripathy</b>, <b>PK Koo</b><br>
+TBD<br>
+_Accepted in Machine Learning in Computational Biology_
 
-_Evaluating histopathology transfer learning with ChampKit_<br>
-<b>JR Kaczmarzyk</b>, TM Kurc, S Abousamra, R Gupta, JH Saltz, <b>PK Koo</b><br>
-arXiv ([Preprint](https://arxiv.org/abs/2206.06862), [Code](https://github.com/kaczmarj/champkit))
+_	ETV6 dependency in Ewing sarcoma by antagonism of EWS-FLI1-mediated enhancer activation_<br>
+Y Gao, XY He, ..., <b>S Toneyan</b>, ..., <b>PK Koo</b>, ..., C Vakoc<br>
+TBD<br>
+_Accepted in Nature Cell Biology_
 
 _Evaluating deep learning for predicting epigenomic profiles_<br>
 <b>S Toneyan</b>, <b>Z Tang</b>, <b>PK Koo</b><br>
 bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2022.04.29.490059v1), [Code](https://github.com/shtoneyan/gopher))<br>
 _Accepted in Nature Machine Intelligence_
 
+_Evaluating histopathology transfer learning with ChampKit_<br>
+<b>JR Kaczmarzyk</b>, TM Kurc, S Abousamra, R Gupta, JH Saltz, <b>PK Koo</b><br>
+arXiv ([Preprint](https://arxiv.org/abs/2206.06862), [Code](https://github.com/kaczmarj/champkit))
 
 _Statistical correction of input gradients for black box models trained with categorical input features_<br>
-<b>A Majdandzic</b>, <b>PK Koo</b><br>
-bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2022.04.29.490102v1), [Code](https://github.com/Antonio-Ionaton/GradientCorrection))
+<b>A Majdandzic</b>, <b>C Rajesh</b>, <b>PK Koo</b><br>
+bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2022.04.29.490102v2), [Code](https://github.com/Antonio-Ionaton/GradientCorrection))
 
 _Interpreting Potts and Transformer Protein Models Through the Lens of Simplified Attention_<br>
 N Bhattacharya, N Thomas, R Rao, J Dauparas, <b>PK Koo</b>, D Baker, YS Song, S Ovchinnikov <br>
