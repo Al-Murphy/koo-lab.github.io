@@ -18,7 +18,7 @@ _Evaluating deep learning for predicting epigenomic profiles_<br>
 bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2022.04.29.490059v1), [Code](https://github.com/shtoneyan/gopher))<br>
 _Accepted in Nature Machine Intelligence_
 
-_Learning single-cell chromatin accessibilityprofiles using meta-analytic marker genes_<br>
+_Learning single-cell chromatin accessibility profiles using meta-analytic marker genes_<br>
 RK Kawaguchi, <b>Z Tang</b>, S Fischer, <b>Chandana Rajesh</b>, <b>R Tripathy</b>, <b>PK Koo</b>, J Gillis <br>
 _Accepted in Briefings in Bioinformatics_
 
