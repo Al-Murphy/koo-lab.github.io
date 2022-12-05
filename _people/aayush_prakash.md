@@ -1,5 +1,5 @@
 ---
-name: Aayush Prakash<br>Half Hallow Hills<br>Since 2022<br>
+name: Aayush Prakash<br>Half Hallow Hills<br>Since 2022<br><br>
 position: visiting
 avatar: aayushprakash_profile.jpg
 ---
