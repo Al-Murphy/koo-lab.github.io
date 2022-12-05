@@ -1,6 +1,6 @@
 ---
 name: Antonio Majdandzic<br>Postdoc<br>Since 2020
-position: postdoc
+position: alumni
 avatar: antonio.JPEG
 ---
 
