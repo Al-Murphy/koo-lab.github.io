@@ -1,6 +1,6 @@
 ---
 name: Rohan Ghotra<br>Columbia University<br>Since 2021<br>
-position: undergrad
+position: alumni
 avatar: rohanghotra_profile.jpg
 ---
 
