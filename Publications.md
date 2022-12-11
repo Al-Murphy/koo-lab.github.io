@@ -5,6 +5,18 @@ permalink: /Publication/
 
 ## 2022
 
+_Evolution-inspired augmentations improve deep learning for regulatory genomicss_<br>
+<b>NK Lee</b>, <b>S Toneyan</b>, <b>Z Tang</b>, <b>PK Koo</b><br>
+bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2022.11.03.515117v1.abstract), [Code](https://github.com/p-koo/evoaug))<br>
+
+_Evaluating histopathology transfer learning with ChampKit_<br>
+<b>JR Kaczmarzyk</b>, TM Kurc, S Abousamra, R Gupta, JH Saltz, <b>PK Koo</b><br>
+arXiv ([Preprint](https://arxiv.org/abs/2206.06862), [Code](https://github.com/kaczmarj/champkit))
+
+_Statistical correction of input gradients for black box models trained with categorical input features_<br>
+<b>A Majdandzic</b>, <b>C Rajesh</b>, <b>PK Koo</b><br>
+bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2022.04.29.490102v2), [Code](https://github.com/Antonio-Ionaton/GradientCorrection))
+
 _Selecting deep neural networks that yield consistent attribution-based interpretations for genomics_<br>
 <b>A Majdandzic</b>, <b>C Rajesh</b>, <b>Z Tang</b>, <b>S Toneyan</b>, <b>E Labelson</b>, <b>R Tripathy</b>, <b>PK Koo</b><br>
 _Accepted in Machine Learning in Computational Biology_
@@ -19,19 +31,7 @@ _Accepted in Briefings in Bioinformatics_
 
 _Evaluating deep learning for predicting epigenomic profiles_<br>
 <b>S Toneyan</b>, <b>Z Tang</b>, <b>PK Koo</b><br>
-Nature Machine Intelligence ([Preprint](https://www.nature.com/articles/s42256-022-00570-9), [Code](https://github.com/shtoneyan/gopher))<br>
-
-_Evolution-inspired augmentations improve deep learning for regulatory genomicss_<br>
-<b>NK Lee</b>, <b>S Toneyan</b>, <b>Z Tang</b>, <b>PK Koo</b><br>
-bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2022.11.03.515117v1.abstract), [Code](https://github.com/p-koo/evoaug))<br>
-
-_Evaluating histopathology transfer learning with ChampKit_<br>
-<b>JR Kaczmarzyk</b>, TM Kurc, S Abousamra, R Gupta, JH Saltz, <b>PK Koo</b><br>
-arXiv ([Preprint](https://arxiv.org/abs/2206.06862), [Code](https://github.com/kaczmarj/champkit))
-
-_Statistical correction of input gradients for black box models trained with categorical input features_<br>
-<b>A Majdandzic</b>, <b>C Rajesh</b>, <b>PK Koo</b><br>
-bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2022.04.29.490102v2), [Code](https://github.com/Antonio-Ionaton/GradientCorrection))
+Nature Machine Intelligence ([Paper](https://www.nature.com/articles/s42256-022-00570-9), [Code](https://github.com/shtoneyan/gopher))<br>
 
 _Interpreting Potts and Transformer Protein Models Through the Lens of Simplified Attention_<br>
 N Bhattacharya, N Thomas, R Rao, J Dauparas, <b>PK Koo</b>, D Baker, YS Song, S Ovchinnikov <br>
