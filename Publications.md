@@ -17,17 +17,17 @@ _Statistical correction of input gradients for black box models trained with cat
 <b>A Majdandzic</b>, <b>C Rajesh</b>, <b>PK Koo</b><br>
 bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2022.04.29.490102v2), [Code](https://github.com/Antonio-Ionaton/GradientCorrection))
 
-_Selecting deep neural networks that yield consistent attribution-based interpretations for genomics_<br>
-<b>A Majdandzic</b>, <b>C Rajesh</b>, <b>Z Tang</b>, <b>S Toneyan</b>, <b>E Labelson</b>, <b>R Tripathy</b>, <b>PK Koo</b><br>
-_Accepted in Machine Learning in Computational Biology_
-
 _ETV6 dependency in Ewing sarcoma by antagonism of EWS-FLI1-mediated enhancer activation_<br>
 Y Gao, XY He, ..., <b>S Toneyan</b>, ..., <b>PK Koo</b>, ..., C Vakoc<br>
 _Accepted in Nature Cell Biology_
 
+_Selecting deep neural networks that yield consistent attribution-based interpretations for genomics_<br>
+<b>A Majdandzic</b>, <b>C Rajesh</b>, <b>Z Tang</b>, <b>S Toneyan</b>, <b>E Labelson</b>, <b>R Tripathy</b>, <b>PK Koo</b><br>
+Machine Learning in Computational Biology ([Paper](https://proceedings.mlr.press/v200/majdandzic22a.html), [Code](https://github.com/crajesh6/acme))<br>
+
 _Learning single-cell chromatin accessibility profiles using meta-analytic marker genes_<br>
 RK Kawaguchi, <b>Z Tang</b>, S Fischer, <b>Chandana Rajesh</b>, <b>R Tripathy</b>, <b>PK Koo</b>, J Gillis <br>
-_Accepted in Briefings in Bioinformatics_
+Briefings in Bioinformatics ([Paper](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac541/6957249?login=false), [Code](https://github.com/carushi/Catactor))<br>
 
 _Evaluating deep learning for predicting epigenomic profiles_<br>
 <b>S Toneyan</b>, <b>Z Tang</b>, <b>PK Koo</b><br>
