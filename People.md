@@ -52,6 +52,8 @@ Rohit Tripathy | Postdoc | CSHL | 2020-2022 | Staff Scientist in Jackson Laborat
 Lucia Tellez Perez | Rotation Student | CSHL SBS | Spring 2022 | Grad student in dos Santos Lab |
 Thomas Huffstutler | Rotation Student | Stony Brook Applied Math Masters student | Spring 2022 | |
 Vandana Agarwala | Summer Undergrad Research Program | Penn State, Computer Science | Summer 2021 | Software developer at Flagship Pioneering |
+Joon-Hyun Song | Rotation Student | Stony Brook Applied Math PhD student | Winter 2021 | |
+Scott Feltman | Rotation Student | Stony Brook Applied Math PhD student | Winter 2021 | |
 Brenda Delamonica | Rotation Student | Stony Brook Applied Math Masters student | Fall 2021 | |
 Sam Kleeman | Rotation Student | CSHL SBS | Spring 2021 | Grad student in Janowitz and Furukawa Labs |
 Roshan Kenia | Undergrad Researcher | Stony Brook, Computer Science | 2020-2021 | Intern at SupplyHouse.com |
