@@ -89,7 +89,7 @@ ________________________________________________________________________________
 #### DL books
 * _Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow_ ([Book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646), [Link](https://github.com/ageron/handson-ml2))
 * _Patterns, Predictions, and Actions: A story about machine learning by Hardt and Recht_ ([Link](https://mlstory.org/pdf/patterns.pdf))
-* _Deep Learning by Goodfellow, Bengio, & Courville_ ([Link](https://www.deeplearningbook.org/))
+* _Deep Learning by Goodfelloiiiow, Bengio, & Courville_ ([Link](https://www.deeplearningbook.org/))
 * _Dive into Deep Learning by Zhang, Lipton, Li & Smola_ ([Link](https://d2l.ai/chapter_introduction/index.html))
 * _Interpretable Machine Learning by Christoph Molnar_ ([Link](https://christophm.github.io/interpretable-ml-book/))
 
