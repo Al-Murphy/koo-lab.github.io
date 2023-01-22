@@ -3,6 +3,13 @@ title: Publication
 permalink: /Publication/
 ---
 
+## 2023
+
+_ETV6 dependency in Ewing sarcoma by antagonism of EWS-FLI1-mediated enhancer activation_<br>
+Y Gao, XY He, ..., <b>S Toneyan</b>, ..., <b>PK Koo</b>, ..., C Vakoc<br>
+Nature Cell Biology ([Paper](https://www.nature.com/articles/s41556-022-01060-1))<br>
+
+
 ## 2022
 
 _Evolution-inspired augmentations improve deep learning for regulatory genomicss_<br>
@@ -16,10 +23,6 @@ arXiv ([Preprint](https://arxiv.org/abs/2206.06862), [Code](https://github.com/k
 _Statistical correction of input gradients for black box models trained with categorical input features_<br>
 <b>A Majdandzic</b>, <b>C Rajesh</b>, <b>PK Koo</b><br>
 bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2022.04.29.490102v2), [Code](https://github.com/Antonio-Ionaton/GradientCorrection))
-
-_ETV6 dependency in Ewing sarcoma by antagonism of EWS-FLI1-mediated enhancer activation_<br>
-Y Gao, XY He, ..., <b>S Toneyan</b>, ..., <b>PK Koo</b>, ..., C Vakoc<br>
-Nature Cell Biology ([Paper](https://www.nature.com/articles/s41556-022-01060-1))<br>
 
 _Selecting deep neural networks that yield consistent attribution-based interpretations for genomics_<br>
 <b>A Majdandzic</b>, <b>C Rajesh</b>, <b>Z Tang</b>, <b>S Toneyan</b>, <b>E Labelson</b>, <b>R Tripathy</b>, <b>PK Koo</b><br>
