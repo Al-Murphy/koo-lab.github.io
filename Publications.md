@@ -9,6 +9,11 @@ _ETV6 dependency in Ewing sarcoma by antagonism of EWS-FLI1-mediated enhancer ac
 Y Gao, XY He, ..., <b>S Toneyan</b>, ..., <b>PK Koo</b>, ..., C Vakoc<br>
 Nature Cell Biology ([Paper](https://www.nature.com/articles/s41556-022-01060-1))<br>
 
+_ResidualBind: Uncovering Sequence-Structure Preferences of RNA-Binding Proteins with Deep Neural Networks_<br>
+<b>PK Koo</b>, M Ploenzke, P Anand, S Paul, <b>A Majdandzic</b> <br>
+Koo, P.K., Ploenzke, M., Anand, P., Paul, S., Majdandzic, A. (2023).
+RNA Structure Prediction, Methods in Molecular Biology ([Chapter](https://link.springer.com/protocol/10.1007/978-1-0716-2768-6_12))<br>
+
 
 ## 2022
 
