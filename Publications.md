@@ -5,21 +5,22 @@ permalink: /Publication/
 
 ## 2023
 
+_EvoAug: improving generalization and interpretability of genomic deep neural networks with evolution-inspired data augmentations_<br>
+<b>NK Lee</b>, <b>S Toneyan</b>, <b>Z Tang</b>, <b>PK Koo</b><br>
+bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2022.11.03.515117v2), [Code](https://github.com/p-koo/evoaug))<br>
+
+
 _ETV6 dependency in Ewing sarcoma by antagonism of EWS-FLI1-mediated enhancer activation_<br>
 Y Gao, XY He, ..., <b>S Toneyan</b>, ..., <b>PK Koo</b>, ..., C Vakoc<br>
 Nature Cell Biology ([Paper](https://www.nature.com/articles/s41556-022-01060-1))<br>
 
 _ResidualBind: Uncovering Sequence-Structure Preferences of RNA-Binding Proteins with Deep Neural Networks_<br>
 <b>PK Koo</b>, M Ploenzke, P Anand, S Paul, <b>A Majdandzic</b> <br>
-Koo, P.K., Ploenzke, M., Anand, P., Paul, S., Majdandzic, A. (2023).
 RNA Structure Prediction, Methods in Molecular Biology ([Chapter](https://link.springer.com/protocol/10.1007/978-1-0716-2768-6_12))<br>
 
 
 ## 2022
 
-_Evolution-inspired augmentations improve deep learning for regulatory genomicss_<br>
-<b>NK Lee</b>, <b>S Toneyan</b>, <b>Z Tang</b>, <b>PK Koo</b><br>
-bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2022.11.03.515117v1.abstract), [Code](https://github.com/p-koo/evoaug))<br>
 
 _Evaluating histopathology transfer learning with ChampKit_<br>
 <b>JR Kaczmarzyk</b>, TM Kurc, S Abousamra, R Gupta, JH Saltz, <b>PK Koo</b><br>
