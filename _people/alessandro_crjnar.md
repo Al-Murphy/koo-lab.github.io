@@ -25,7 +25,7 @@ avatar: alessandro.jpeg
 
 ### Research Interests
 
-Biophysics, Complex Systems, Machine Learning, Algorithm Design. For more details, [see here](https://scholar.google.com/citations?user=ASvuZZAAAAAJ&hl=it).
+Deep Learning, Molecular Dynamics, Enhanced Sampling Methods, Genomics, Nanobody Design, Neuroreceptors, Plastics Degrading Enzymes. For more details, [see here](https://scholar.google.com/citations?user=ASvuZZAAAAAJ&hl=it).
 <br>
 <br>
 <br>
