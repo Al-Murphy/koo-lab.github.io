@@ -9,7 +9,7 @@ avatar: alessandro.jpeg
 
 
 
-- _2022-present, Computational Postdoctoral Fellow, Simons Center for Quantitative Biology at Cold Spring Harbor Laboratory_ <br>
+- _2023-present, Computational Postdoctoral Fellow, Simons Center for Quantitative Biology at Cold Spring Harbor Laboratory_ <br>
 - _2021-2022, Postdoctoral researcher in Computational Biochemistry, Uppsala University_ <br>
 - _2017-2021, PhD in Computational Biophysics, King's College London_ <br>
 - _2014-2016, Master of Science in Physics, Universita' degli Studi di Cagliari_ <br>
