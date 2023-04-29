@@ -1,7 +1,7 @@
 ---
 name: Anirban Sarkar<br>Postdoc<br>Since 2023
 position: postdoc
-avatar: anirban.jpeg
+avatar: anirban_profile.jpg
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
