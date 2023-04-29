@@ -7,28 +7,30 @@ permalink: /Publication/
 
 _EvoAug: improving generalization and interpretability of genomic deep neural networks with evolution-inspired data augmentations_<br>
 <b>NK Lee</b>, <b>S Toneyan</b>, <b>Z Tang</b>, <b>PK Koo</b><br>
-bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2022.11.03.515117v2), [Code](https://github.com/p-koo/evoaug))<br>
+bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2022.11.03.515117v2), [Code](https://github.com/p-koo/evoaug))<br> (accepted in Genome Biology)
+
+
+_Correcting gradient-based interpretations of deep neural networks for genomics_<br>
+<b>A Majdandzic</b>, <b>C Rajesh</b>, <b>PK Koo</b><br>
+bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2022.04.29.490102v2), [Code](https://github.com/p-koo/GradientCorrection)) (accepted in Genome Biology)
 
 
 _ETV6 dependency in Ewing sarcoma by antagonism of EWS-FLI1-mediated enhancer activation_<br>
 Y Gao, XY He, ..., <b>S Toneyan</b>, ..., <b>PK Koo</b>, ..., C Vakoc<br>
 Nature Cell Biology ([Paper](https://www.nature.com/articles/s41556-022-01060-1))<br>
 
+
 _ResidualBind: Uncovering Sequence-Structure Preferences of RNA-Binding Proteins with Deep Neural Networks_<br>
 <b>PK Koo</b>, M Ploenzke, P Anand, S Paul, <b>A Majdandzic</b> <br>
 RNA Structure Prediction, Methods in Molecular Biology ([Chapter](https://link.springer.com/protocol/10.1007/978-1-0716-2768-6_12))<br>
 
 
-## 2022
 
+## 2022
 
 _Evaluating histopathology transfer learning with ChampKit_<br>
 <b>JR Kaczmarzyk</b>, TM Kurc, S Abousamra, R Gupta, JH Saltz, <b>PK Koo</b><br>
 arXiv ([Preprint](https://arxiv.org/abs/2206.06862), [Code](https://github.com/kaczmarj/champkit))
-
-_Statistical correction of input gradients for black box models trained with categorical input features_<br>
-<b>A Majdandzic</b>, <b>C Rajesh</b>, <b>PK Koo</b><br>
-bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2022.04.29.490102v2), [Code](https://github.com/Antonio-Ionaton/GradientCorrection))
 
 _Selecting deep neural networks that yield consistent attribution-based interpretations for genomics_<br>
 <b>A Majdandzic</b>, <b>C Rajesh</b>, <b>Z Tang</b>, <b>S Toneyan</b>, <b>E Labelson</b>, <b>R Tripathy</b>, <b>PK Koo</b><br>
