@@ -7,12 +7,12 @@ permalink: /Publication/
 
 _EvoAug: improving generalization and interpretability of genomic deep neural networks with evolution-inspired data augmentations_<br>
 <b>NK Lee</b>, <b>S Toneyan</b>, <b>Z Tang</b>, <b>PK Koo</b><br>
-bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2022.11.03.515117v2), [Code](https://github.com/p-koo/evoaug))<br> (accepted in Genome Biology)
+Genome Biology ([Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02941-w), [Code](https://github.com/p-koo/evoaug))<br> 
 
 
 _Correcting gradient-based interpretations of deep neural networks for genomics_<br>
 <b>A Majdandzic</b>, <b>C Rajesh</b>, <b>PK Koo</b><br>
-bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2022.04.29.490102v2), [Code](https://github.com/p-koo/GradientCorrection)) (accepted in Genome Biology)
+bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2022.04.29.490102v2), [Code](https://github.com/p-koo/GradientCorrection)) (accepted in Genome Biology)<br>
 
 
 _ETV6 dependency in Ewing sarcoma by antagonism of EWS-FLI1-mediated enhancer activation_<br>
