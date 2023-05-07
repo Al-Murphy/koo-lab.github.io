@@ -46,6 +46,7 @@ permalink: /People/
 
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
+June He | Rotation Student | Stony Brook Genetics PhD student | Spring 2023 |  |
 Antonio Majdandzic | Postdoc | CSHL | 2020-2022 | ML Researcher at Bloomberg |
 Rohan Ghotra | High School Researcher  | Syosset High | 2021-2022 | Undergrad at Columbia |
 Ethan Labelson | High School Researcher  | Friends Academy | 2021-2022 | Undergrad at Caltech |

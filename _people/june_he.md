@@ -1,6 +1,6 @@
 ---
 name: June He<br>Stony Brook Medicine<br>PhD Student<br>Since 2023
-position: rotation
+position: alumni
 avatar: junehe_profile.jpg
 ---
 
