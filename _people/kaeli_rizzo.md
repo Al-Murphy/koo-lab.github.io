@@ -1,6 +1,6 @@
 ---
 name: Kaeli Rizzo<br>CSHL<br>Grad Student<br>Since 2023
-position: rotation
+position: gradstudent
 avatar: kaelirizzo_profile.jpg
 ---
 

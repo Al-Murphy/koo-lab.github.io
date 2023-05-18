@@ -46,22 +46,22 @@ permalink: /People/
 
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
-June He | Rotation Student | Stony Brook Genetics PhD student | Spring 2023 |  |
 Antonio Majdandzic | Postdoc | CSHL | 2020-2022 | ML Researcher at Bloomberg |
+Rohit Tripathy | Postdoc | CSHL | 2020-2022 | Staff Scientist in Jackson Laboratory |
+Spring 2022 | |
 Rohan Ghotra | High School Researcher  | Syosset High | 2021-2022 | Undergrad at Columbia |
 Ethan Labelson | High School Researcher  | Friends Academy | 2021-2022 | Undergrad at Caltech |
+Zaara Yakub | High School Researcher | Partners for the Future Program, Bethpage High School | 2020-2021 | Undergrad at Lehigh University |
+Roshan Kenia | Undergrad Researcher | Stony Brook, Computer Science | 2020-2021 | Intern at SupplyHouse.com |
+Eduardo Esteva | Masters Student | NYU, Bioinformatics | 2020-2021 | Bioinformatics Analyst at NYU Grossman School of Medicine, Office of Science & Research|
 Phillip Zhou | Summer Undergrad Research Program  | Amherst College | Summer 2022 | |
-Rohit Tripathy | Postdoc | CSHL | 2020-2022 | Staff Scientist in Jackson Laboratory |
-Lucia Tellez Perez | Rotation Student | CSHL SBS | Spring 2022 | Grad student in dos Santos Lab |
-Thomas Huffstutler | Rotation Student | Stony Brook Applied Math Masters student | Spring 2022 | |
 Vandana Agarwala | Summer Undergrad Research Program | Penn State, Computer Science | Summer 2021 | Software developer at Flagship Pioneering |
-Joon-Hyun Song | Rotation Student | Stony Brook Applied Math PhD student | Winter 2021 | |
+June He | Rotation Student | Stony Brook Genetics PhD student | Spring 2023 |  |
+Lucia Tellez Perez | Rotation Student | CSHL SBS | Spring 2022 | Grad student in dos Santos Lab |
+Thomas Huffstutler | Rotation Student | Stony Brook Applied Math Masters student | Joon-Hyun Song | Rotation Student | Stony Brook Applied Math PhD student | Winter 2021 | |
 Scott Feltman | Rotation Student | Stony Brook Applied Math PhD student | Winter 2021 | |
 Brenda Delamonica | Rotation Student | Stony Brook Applied Math Masters student | Fall 2021 | |
 Sam Kleeman | Rotation Student | CSHL SBS | Spring 2021 | Grad student in Janowitz and Furukawa Labs |
-Roshan Kenia | Undergrad Researcher | Stony Brook, Computer Science | 2020-2021 | Intern at SupplyHouse.com |
-Eduardo Esteva | Masters Student | NYU, Bioinformatics | 2020-2021 | Bioinformatics Analyst at NYU Grossman School of Medicine, Office of Science & Research|
-Zaara Yakub | High School Researcher | Partners for the Future Program, Bethpage High School | 2020-2021 | Undergrad at Lehigh University |
 
 <br>
 <br>

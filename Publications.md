@@ -12,7 +12,7 @@ Genome Biology ([Paper](https://genomebiology.biomedcentral.com/articles/10.1186
 
 _Correcting gradient-based interpretations of deep neural networks for genomics_<br>
 <b>A Majdandzic</b>, <b>C Rajesh</b>, <b>PK Koo</b><br>
-bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2022.04.29.490102v2), [Code](https://github.com/p-koo/GradientCorrection)) (accepted in Genome Biology)<br>
+Genome Biology ([Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02956-3), [Code](https://github.com/p-koo/GradientCorrection)) <br>
 
 
 _ETV6 dependency in Ewing sarcoma by antagonism of EWS-FLI1-mediated enhancer activation_<br>
