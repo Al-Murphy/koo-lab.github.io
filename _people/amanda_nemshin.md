@@ -1,6 +1,6 @@
 ---
 name: Amanda Nemshin<br>Parnters for the Future Program<br>Cold Spring Harbor High<br>Since 2022<br>
-position: visiting
+position: alumni
 avatar: amandanemshin_profile.jpg
 ---
 

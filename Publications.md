@@ -15,6 +15,11 @@ _Correcting gradient-based interpretations of deep neural networks for genomics_
 Genome Biology ([Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02956-3), [Code](https://github.com/p-koo/GradientCorrection)) <br>
 
 
+_ChampKit: A framework for rapid evaluation of deep neural networks for patch-based histopathology classification_<br>
+<b>JR Kaczmarzyk</b>, R Gupta, TM Kurc, S Abousamra, JH Saltz, <b>PK Koo</b><br>
+Computer Methods and Programs in Biomedicine ([Paper](https://www.sciencedirect.com/science/article/pii/S0169260723002961), [Code](https://github.com/kaczmarj/champkit))
+
+
 _ETV6 dependency in Ewing sarcoma by antagonism of EWS-FLI1-mediated enhancer activation_<br>
 Y Gao, XY He, ..., <b>S Toneyan</b>, ..., <b>PK Koo</b>, ..., C Vakoc<br>
 Nature Cell Biology ([Paper](https://www.nature.com/articles/s41556-022-01060-1))<br>
@@ -28,9 +33,6 @@ RNA Structure Prediction, Methods in Molecular Biology ([Chapter](https://link.s
 
 ## 2022
 
-_Evaluating histopathology transfer learning with ChampKit_<br>
-<b>JR Kaczmarzyk</b>, TM Kurc, S Abousamra, R Gupta, JH Saltz, <b>PK Koo</b><br>
-arXiv ([Preprint](https://arxiv.org/abs/2206.06862), [Code](https://github.com/kaczmarj/champkit))
 
 _Selecting deep neural networks that yield consistent attribution-based interpretations for genomics_<br>
 <b>A Majdandzic</b>, <b>C Rajesh</b>, <b>Z Tang</b>, <b>S Toneyan</b>, <b>E Labelson</b>, <b>R Tripathy</b>, <b>PK Koo</b><br>

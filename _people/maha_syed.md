@@ -1,6 +1,6 @@
 ---
 name: Maha Syed<br>CSHL<br>Grad Student<br>Since 2023
-position: rotation
+position: alumni
 avatar: mahasyed_profile.png
 ---
 

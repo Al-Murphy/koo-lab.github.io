@@ -4,6 +4,8 @@
 _____________________________________________________________
 ## Tensorflow tutorials
 
+https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb
+
 Recommended:
 * _Tensorflow tutorials_ ([Link](https://www.tensorflow.org/tutorials))
 * _Francis Chollet's tensorflow 2 + keras tutorial_ 
