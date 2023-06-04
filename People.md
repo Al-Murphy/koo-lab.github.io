@@ -48,7 +48,6 @@ permalink: /People/
 | :------------- |:-------------| :-----------| :-----------| :-----------|
 Antonio Majdandzic | Postdoc | CSHL | 2020-2022 | ML Researcher at Bloomberg |
 Rohit Tripathy | Postdoc | CSHL | 2020-2022 | Staff Scientist in Jackson Laboratory |
-Spring 2022 | |
 Amanda Nemshin | High School Researcher  | Cold Spring Harbor High | 2022-2023 | Undergrad at Duke |
 Rohan Ghotra | High School Researcher  | Syosset High | 2021-2022 | Undergrad at Columbia |
 Ethan Labelson | High School Researcher  | Friends Academy | 2021-2022 | Undergrad at Caltech |
