@@ -17,7 +17,7 @@ Genome Biology ([Paper](https://genomebiology.biomedcentral.com/articles/10.1186
 
 _ChampKit: A framework for rapid evaluation of deep neural networks for patch-based histopathology classification_<br>
 <b>JR Kaczmarzyk</b>, R Gupta, TM Kurc, S Abousamra, JH Saltz, <b>PK Koo</b><br>
-Computer Methods and Programs in Biomedicine ([Paper](https://www.sciencedirect.com/science/article/pii/S0169260723002961), [Code](https://github.com/kaczmarj/champkit)) <br>
+Computer Methods and Programs in Biomedicine ([Paper](https://www.sciencedirect.com/science/article/pii/S0169260723002961), [Code](https://github.com/kaczmarj/champkit))<br>
 
 
 _ETV6 dependency in Ewing sarcoma by antagonism of EWS-FLI1-mediated enhancer activation_<br>
