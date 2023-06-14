@@ -4,7 +4,7 @@ permalink: /People/
 ---
 
 {% assign people_sorted = (site.people | sort: 'joined' %}
-{% assign people_array = "pi|postdoc|gradstudent|undergrad|visiting" | split: "|" %}
+{% assign people_array = "pi|staff|postdoc|gradstudent|rotation|undergrad|visiting|honarary" | split: "|" %}
 
 {% for item in people_array %}
 
@@ -15,6 +15,8 @@ permalink: /People/
 <h3>Postdoctoral Researchers</h3>
  {% elsif item == 'gradstudent' %}
 <h3>Graduate Students</h3>
+ {% elsif item == 'rotation' %}
+<h3>Rotation Students</h3>
 {% elsif item == 'undergrad' %}
 <h3>Undergrad Researchers</h3>
 {% elsif item == 'visiting' %}
@@ -42,7 +44,6 @@ permalink: /People/
 
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
-Nicholas Keone Lee | Comp Sci Dev | CSHL | 2020-2022 |  |
 Antonio Majdandzic | Postdoc | CSHL | 2020-2022 | ML Researcher at Bloomberg |
 Rohit Tripathy | Postdoc | CSHL | 2020-2022 | Staff Scientist in Jackson Laboratory |
 Amanda Nemshin | High School Researcher  | Cold Spring Harbor High | 2022-2023 | Undergrad at Duke |
