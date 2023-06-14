@@ -1,6 +1,6 @@
 ---
 name: Nicholas Lee<br>Comp Sci Developer II<br>Since 2020
-position: honarary
+position: alumni
 avatar: nicklee_profile.jpg
 ---
 

@@ -21,8 +21,6 @@ permalink: /People/
 <h3>Undergrad Researchers</h3>
 {% elsif item == 'visiting' %}
 <h3>High School Researchers</h3>
-{% elsif item == 'honarary' %}
-<h3>Honorary Members</h3>
 {% endif %}
 </div>
 
@@ -46,6 +44,7 @@ permalink: /People/
 
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
+Nicholas Keone Lee | Comp Sci Dev | CSHL | 2020-2022 |  |
 Antonio Majdandzic | Postdoc | CSHL | 2020-2022 | ML Researcher at Bloomberg |
 Rohit Tripathy | Postdoc | CSHL | 2020-2022 | Staff Scientist in Jackson Laboratory |
 Amanda Nemshin | High School Researcher  | Cold Spring Harbor High | 2022-2023 | Undergrad at Duke |
