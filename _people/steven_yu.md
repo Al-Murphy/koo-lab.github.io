@@ -1,5 +1,5 @@
 ---
-name: Steven Yu<br>Stony Brook<br>Since 2022<br>
+name: Steven Yu<br>Columbia University<br>Since 2022<br>
 position: undergrad
 avatar: stevenyu_profile.png
 ---
@@ -7,7 +7,8 @@ avatar: stevenyu_profile.png
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 <br>
 
-- _Fall 2022-present, Stony Brook University_ <br>
+- _Fall 2023-present, Columbia University_ <br>
+- _Fall 2022-2023, Stony Brook University_ <br>
 - _Summer 2022, High School Student Researcher, Koo Lab at CSHL_ <br>
 - _Class of 2022, Syosset High School_ <br>
 
