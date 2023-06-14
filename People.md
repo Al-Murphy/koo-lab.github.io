@@ -21,6 +21,8 @@ permalink: /People/
 <h3>Undergrad Researchers</h3>
 {% elsif item == 'visiting' %}
 <h3>High School Researchers</h3>
+{% elsif item == 'honorary' %}
+<h3>Honorary Members/h3>
 {% endif %}
 </div>
 
