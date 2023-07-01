@@ -4,7 +4,7 @@ permalink: /People/
 ---
 
 {% assign people_sorted = (site.people | sort: 'joined' %}
-{% assign people_array = "pi|staff|postdoc|gradstudent|rotation|undergrad|visiting|honarary" | split: "|" %}
+{% assign people_array = "pi|staff|postdoc|gradstudent|postbac|undergrad|highschool" | split: "|" %}
 
 {% for item in people_array %}
 
@@ -15,14 +15,12 @@ permalink: /People/
 <h3>Postdoctoral Researchers</h3>
  {% elsif item == 'gradstudent' %}
 <h3>Graduate Students</h3>
- {% elsif item == 'rotation' %}
-<h3>Rotation Students</h3>
+ {% elsif item == 'postbac' %}
+<h3>Postbaccalaureate Researchers</h3>
 {% elsif item == 'undergrad' %}
 <h3>Undergrad Researchers</h3>
-{% elsif item == 'visiting' %}
+{% elsif item == 'highschool' %}
 <h3>High School Researchers</h3>
-{% elsif item == 'honorary' %}
-<h3>Honorary Members/h3>
 {% endif %}
 </div>
 
