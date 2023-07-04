@@ -5,6 +5,11 @@ permalink: /Publication/
 
 ## 2023
 
+_Interpreting Cis-Regulatory Interactions from Large-Scale Deep Neural Networks for Genomics_<br>
+<b>S Toneyan</b>, <b>PK Koo</b><br>
+bioRxiv ([Preprint](hhttps://www.biorxiv.org/content/10.1101/2023.07.03.547592v1), [Code](https://github.com/p-koo/creme-nn))<br> 
+
+
 _EvoAug: improving generalization and interpretability of genomic deep neural networks with evolution-inspired data augmentations_<br>
 <b>NK Lee</b>, <b>S Toneyan</b>, <b>Z Tang</b>, <b>PK Koo</b><br>
 Genome Biology ([Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02941-w), [Code](https://github.com/p-koo/evoaug))<br> 
