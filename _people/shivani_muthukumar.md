@@ -1,5 +1,5 @@
 ---
-name: Aayush Prakash<br>Half Hallow Hills<br>Since 2022<br><br>
+name: Shivani Muthukumar<br>Commack High<br>Since 2023<br><br>
 position: highschool
 avatar: shivanimuthukumar_profile.jpg
 ---
