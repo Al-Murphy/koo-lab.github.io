@@ -1,7 +1,7 @@
 ---
 name: Katie Engel<br>Cold Spring Harbor High<br>Since 2023<br><br>
 position: highschool
-avatar: katieengel_profile.jpg
+avatar: katie_engel_profile.png
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

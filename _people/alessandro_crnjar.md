@@ -1,7 +1,7 @@
 ---
 name: Alessandro Crnjar<br>Postdoc<br>Since 2023
 position: postdoc
-avatar: alessandro.jpeg
+avatar: alessandro_crnjar_profile.png
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

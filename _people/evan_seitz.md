@@ -1,7 +1,7 @@
 ---
 name: Evan Seitz<br>Postdoc<br>Since 2022
 position: postdoc
-avatar: evan.JPEG
+avatar: evan_seitz_profile.png
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

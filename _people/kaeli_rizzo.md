@@ -1,7 +1,7 @@
 ---
 name: Kaeli Rizzo<br>CSHL<br>Grad Student<br>Since 2023
 position: gradstudent
-avatar: kaelirizzo_profile.jpg
+avatar: kaeli_rizzo_profile.png
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

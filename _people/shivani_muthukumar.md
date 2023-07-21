@@ -1,7 +1,7 @@
 ---
 name: Shivani Muthukumar<br>Commack High<br>Since 2023<br><br>
 position: highschool
-avatar: shivanimuthukumar_profile.jpg
+avatar: shivani_muthukumar_profile.png
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

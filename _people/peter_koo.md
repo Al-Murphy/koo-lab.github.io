@@ -1,7 +1,7 @@
 ---
 name: Peter Koo
 position: pi
-avatar: peter.JPEG
+avatar: peter_koo_profile.png
 twitter: pkoo562
 ---
 

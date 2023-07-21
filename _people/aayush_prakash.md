@@ -1,7 +1,7 @@
 ---
 name: Aayush Prakash<br>Half Hallow Hills<br>Since 2022<br><br>
 position: highschool
-avatar: aayushprakash_profile.jpg
+avatar: aayush_prakash_profile.png
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
