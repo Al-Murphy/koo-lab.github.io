@@ -8,7 +8,7 @@ permalink: /Social/
 
 #### Thai Thai Villa for Amber's Bday <br>
 <div class="col6 center">
-	<img class='img-responsive center-block' src="/images/social/2023/7-17-23_ambers_bday.jpg" width="100%" height="100%"/>
+	<img class='img-responsive center-block' src="/images/social/2023/7-17-23_ambers_bday.jpg" width="75%" height="75%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
@@ -16,7 +16,7 @@ permalink: /Social/
 
 #### Dirty Taco for Evan's Bday <br>
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2023/4-14-23_evans_bday.jpg" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2023/4-14-23_evans_bday.jpg" width="75%" height="75%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
@@ -24,7 +24,7 @@ permalink: /Social/
 
 #### Oaxaca for Jakub's Bday <br>
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2023/3-11-23_jakubs_bday.jpg" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2023/3-11-23_jakubs_bday.jpg" width="75%" height="75%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
@@ -32,7 +32,7 @@ permalink: /Social/
 
 #### QB Happy Hour <br>
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2023/1-28-23_chandanas_bday2.jpg" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2023/1-28-23_chandanas_bday2.jpg" width="75%" height="75%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
@@ -40,7 +40,7 @@ permalink: /Social/
 
 #### Little Mexico for Chandana's Bday <br>
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2023/1-28-23_chandanas_bday1.jpg" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2023/1-28-23_chandanas_bday1.jpg" width="75%" height="75%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
@@ -52,7 +52,7 @@ permalink: /Social/
 
 #### Koo Lab Holiday Party <br>
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2022/12-19-22_holiday_party.png" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2022/12-19-22_holiday_party.png" width="75%" height="75%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
@@ -60,7 +60,7 @@ permalink: /Social/
 
 #### Mister Seoul for Shush's Bday <br>
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2022/12-11-22_shush_bday_MisterSeoul.png" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2022/12-11-22_shush_bday_MisterSeoul.png" width="75%" height="75%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
@@ -69,7 +69,7 @@ permalink: /Social/
 
 #### Jakub starting new tradition in the lab <br>
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/jakub_coding_boot.png" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/jakub_coding_boot.png" width="75%" height="75%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
@@ -79,7 +79,7 @@ permalink: /Social/
 
 #### Vinoteka for Antonio's Farewell <br>
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2022/11-17-22_antonio_farewell.png" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2022/11-17-22_antonio_farewell.png" width="75%" height="75%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
@@ -88,13 +88,13 @@ permalink: /Social/
 
 #### Celebrating Raft Race win at Noreetuh in NYC <br>
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2022/9-29-22_lab_dinner.png" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2022/9-29-22_lab_dinner.png" width="75%" height="75%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
 
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2022/9-29-22_lab_train.png" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2022/9-29-22_lab_train.png" width="75%" height="75%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
@@ -106,25 +106,25 @@ permalink: /Social/
 
 #### 2022 CSHL Raft Race <br>
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2022/9-13-22_raftrace1.jpg" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2022/9-13-22_raftrace1.jpg" width="75%" height="75%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
 
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2022/9-17-22_raftrace2.jpg" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2022/9-17-22_raftrace2.jpg" width="75%" height="75%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
 
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2022/9-17-22_raftrace3.jpg" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2022/9-17-22_raftrace3.jpg" width="75%" height="75%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
 
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2022/9-17-22_raftrace4.jpg" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2022/9-17-22_raftrace4.jpg" width="75%" height="75%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
@@ -134,7 +134,7 @@ permalink: /Social/
 #### Farewell to Rohan and Ethan at Burgerology<br>
 
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2022/9-11-22_highschooler_farewell.png" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2022/9-11-22_highschooler_farewell.png" width="75%" height="75%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
@@ -144,7 +144,7 @@ permalink: /Social/
 #### Summer B.B.Koo<br>
 
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2022/8-4-22_phillips_farewell.png" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2022/8-4-22_phillips_farewell.png" width="75%" height="75%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
@@ -154,7 +154,7 @@ permalink: /Social/
 #### BCD in Bayside for Rohit's Farewell<br>
 
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2022/6-21-22_rohit_farewell.png" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2022/6-21-22_rohit_farewell.png" width="75%" height="75%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
@@ -163,14 +163,14 @@ permalink: /Social/
 #### Miscellaneous<br>
 
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2022/9-7-22_paper_accepted.png" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2022/9-7-22_paper_accepted.png" width="75%" height="75%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
 
 
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2022/8-5-22_cshl_picnic.png" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2022/8-5-22_cshl_picnic.png" width="75%" height="75%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
@@ -182,7 +182,7 @@ permalink: /Social/
 
 #### Holiday dinner at Burgerology in Huntington
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2021/11-4-21_burgerology.jpg" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2021/11-4-21_burgerology.jpg" width="75%" height="75%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
@@ -190,7 +190,7 @@ permalink: /Social/
 
 #### Vandana's Bday at CSHL
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2021/8-6-21_Lab_Lunch_Vandana_Birthday.jpg" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2021/8-6-21_Lab_Lunch_Vandana_Birthday.jpg" width="75%" height="75%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
@@ -198,7 +198,7 @@ permalink: /Social/
 
 #### Peter's Bday!
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2021/7-27-21_Koo_birthday.jpg" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2021/7-27-21_Koo_birthday.jpg" width="75%" height="75%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
@@ -206,7 +206,7 @@ permalink: /Social/
 
 #### Destination Lunch at Nan Xiang Xio Long Bao
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2021/7-6-21_queens_lunch.jpg" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2021/7-6-21_queens_lunch.jpg" width="75%" height="75%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
@@ -214,7 +214,7 @@ permalink: /Social/
 
 #### Summer B.B.Koo
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2021/6-13-21_KoolabBBQ.jpg" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2021/6-13-21_KoolabBBQ.jpg" width="75%" height="75%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
@@ -226,7 +226,7 @@ permalink: /Social/
 
 #### Lab Hike
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2020/10-23-20_LabHike.jpeg" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2020/10-23-20_LabHike.jpeg" width="75%" height="75%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
