@@ -1,7 +1,7 @@
 ---
 name: Chandana Rajesh<br>Stony Brook Applied Math<br>PhD Student<br>Since 2021
 position: gradstudent
-avatar: chandana_rajesh.png
+avatar: chandana_rajesh_profile.png
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
