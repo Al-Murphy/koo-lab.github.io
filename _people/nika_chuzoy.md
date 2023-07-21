@@ -1,7 +1,7 @@
 ---
 name: Nika Chuzhoy<br>CalTech<br>Since 2023<br>
 position: undergrad
-avatar: nikachuzhoy_profile.jpg
+avatar: nika_chuzhoy_profile.jpg
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
