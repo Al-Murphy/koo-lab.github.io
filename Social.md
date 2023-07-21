@@ -66,6 +66,17 @@ permalink: /Social/
 </div>
 
 
+
+#### Jakub starting new tradition in the lab <br>
+<div class="col6 center">
+     <img class='img-responsive center-block' src="/images/social/2022/jakub_coding_boot.png" width="100%" height="100%"/>
+ <span style="display: block; margin-bottom: 1em"></span>
+      <span style="display: block; margin-bottom: 3em"></span>
+</div>
+
+
+
+
 #### Vinoteka for Antonio's Farewell <br>
 <div class="col6 center">
      <img class='img-responsive center-block' src="/images/social/2022/11-17-22_antonio_farewell.png" width="100%" height="100%"/>
