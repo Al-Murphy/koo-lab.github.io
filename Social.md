@@ -69,7 +69,7 @@ permalink: /Social/
 
 #### Jakub starting new tradition in the lab <br>
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2022/jakub_coding_boot.png" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/jakub_coding_boot.png" width="100%" height="100%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
@@ -182,7 +182,7 @@ permalink: /Social/
 
 #### Holiday dinner at Burgerology in Huntington
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2022/11-4-21_burgerology.jpg" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2021/11-4-21_burgerology.jpg" width="100%" height="100%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
@@ -190,7 +190,7 @@ permalink: /Social/
 
 #### Vandana's Bday at CSHL
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2022/8-6-21_Lab_Lunch_Vandana_Birthday.jpg" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2021/8-6-21_Lab_Lunch_Vandana_Birthday.jpg" width="100%" height="100%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
@@ -198,7 +198,7 @@ permalink: /Social/
 
 #### Peter's Bday!
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2022/7-27-21_Koo_birthday.jpg" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2021/7-27-21_Koo_birthday.jpg" width="100%" height="100%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
@@ -206,7 +206,7 @@ permalink: /Social/
 
 #### Destination Lunch at Nan Xiang Xio Long Bao
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2022/7-6-21_queens_lunch.jpg" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2021/7-6-21_queens_lunch.jpg" width="100%" height="100%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
@@ -214,7 +214,7 @@ permalink: /Social/
 
 #### Summer B.B.Koo
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2022/6-13-21_KoolabBBQ.jpg" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2021/6-13-21_KoolabBBQ.jpg" width="100%" height="100%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
@@ -226,7 +226,7 @@ permalink: /Social/
 
 #### Lab Hike
 <div class="col6 center">
-     <img class='img-responsive center-block' src="/images/social/2022/10-23-20_LabHike.jpeg" width="100%" height="100%"/>
+     <img class='img-responsive center-block' src="/images/social/2020/10-23-20_LabHike.jpeg" width="100%" height="100%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
