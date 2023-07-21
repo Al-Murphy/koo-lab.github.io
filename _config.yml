@@ -35,6 +35,8 @@ nav:
     href:           "/Publication"
   - name:           "Openings"
     href:           "/Openings"
+  - name:           "Social"
+    href:           "/Social"
   - name:           "Contact"
     href:           "/Contact"
 
