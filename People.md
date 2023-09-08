@@ -52,7 +52,8 @@ Ethan Labelson | High School Researcher  | Friends Academy | 2021-2022 | Undergr
 Zaara Yakub | High School Researcher | Partners for the Future Program, Bethpage High School | 2020-2021 | Undergrad at Lehigh University |
 Roshan Kenia | Undergrad Researcher | Stony Brook, Computer Science | 2020-2021 | Intern at SupplyHouse.com |
 Eduardo Esteva | Masters Student | NYU, Bioinformatics | 2020-2021 | Bioinformatics Analyst at NYU Grossman School of Medicine, Office of Science & Research|
-Phillip Zhou | Summer Undergrad Research Program  | Amherst College | Summer 2022 | |
+Tianhao Luo | Summer Undergrad Research Program | UPenn, Statistics | Summer 2023 | |
+Phillip Zhou | Summer Undergrad Research Program  | Amherst College, Math | Summer 2022 | |
 Vandana Agarwala | Summer Undergrad Research Program | Penn State, Computer Science | Summer 2021 | Software developer at Flagship Pioneering |
 Maha Sayed | Rotation Student | CSHL SBS | Spring 2023 | Grad student in Meyer Lab |
 June He | Rotation Student | Stony Brook Genetics PhD student | Spring 2023 |  |

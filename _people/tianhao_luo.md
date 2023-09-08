@@ -1,6 +1,6 @@
 ---
 name: Tianhao Luo<br>UPenn<br>Since 2023<br>
-position: undergrad
+position: alumni
 avatar: tianhao_luo_profile.png
 ---
 
