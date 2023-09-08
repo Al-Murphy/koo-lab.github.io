@@ -10,6 +10,11 @@ _Interpreting Cis-Regulatory Interactions from Large-Scale Deep Neural Networks 
 bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2023.07.03.547592v1), [Code](https://github.com/p-koo/creme-nn))<br> 
 
 
+_Building foundation models for regulatory genomics requires rethinking large language models_<br> 
+<b>Z Tang</b>, <b>PK Koo</b><br>
+ICML 2023 Workshop on Computational Biology ([Workshop paper](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper92.pdf))
+
+
 _EvoAug: improving generalization and interpretability of genomic deep neural networks with evolution-inspired data augmentations_<br>
 <b>NK Lee</b>, <b>S Toneyan</b>, <b>Z Tang</b>, <b>PK Koo</b><br>
 Genome Biology ([Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02941-w), [Code](https://github.com/p-koo/evoaug))<br> 
