@@ -40,6 +40,13 @@ permalink: /Social/
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
 
+#### CSHL Lab Picnic <br>
+<div class="col6 center">
+     <img class='img-responsive center-block' src="/images/social/2023/78-11-23_lab_picnic.jpg" width="75%" height="75%"/>
+ <span style="display: block; margin-bottom: 1em"></span>
+      <span style="display: block; margin-bottom: 3em"></span>
+</div>
+
 
 #### Thai Thai Villa for Amber's Bday <br>
 <div class="col6 center">
