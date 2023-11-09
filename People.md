@@ -75,6 +75,8 @@ Zaara Yakub | High School Researcher | Partners for the Future Program, Bethpage
 
 <h5>Visiting researchers</h5>
 
+| Name | Position | Program | Time in Lab | Current Position |
+| :------------- |:-------------| :-----------| :-----------| :-----------|
 Eduardo Esteva | Masters Student | NYU, Bioinformatics | 2020-2021 | Bioinformatics Analyst at NYU Grossman School of Medicine |
 
 <h5>Rotation Students</h5>
