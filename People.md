@@ -57,8 +57,7 @@ Rohit Tripathy | Postdoc | CSHL | 2020-2022 | Staff Scientist in Jackson Laborat
 Nika Chuzhoy | Undergrad Researcher | CalTech | Summer 2023 | |
 Tianhao Luo | Summer Undergrad Research Program | UPenn, Statistics | Summer 2023 | |
 Phillip Zhou | Summer Undergrad Research Program  | Amherst College, Math | Summer 2022 | |
-Vandana Agarwala | Summer Undergrad Research Program | Penn State, Computer Science | Summer 2021 | Software 
-developer at Flagship Pioneering |
+Vandana Agarwala | Summer Undergrad Research Program | Penn State, Computer Science | Summer 2021 | Software developer at Flagship Pioneering |
 Roshan Kenia | Undergrad Researcher | Stony Brook, Computer Science | 2020-2021 | Intern at SupplyHouse.com |
 
 #### High Schoolers
