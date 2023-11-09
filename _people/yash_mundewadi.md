@@ -1,7 +1,7 @@
 ---
 name: Yash Mundewadi<br>IIT Kharagpur<br>Since 2023<br>
 position: visiting
-avatar: yash_mundewadi_profile.png
+avatar: yash_mundewadi_profile.jpg
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
