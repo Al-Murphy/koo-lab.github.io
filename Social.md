@@ -6,6 +6,41 @@ permalink: /Social/
 
 # 2023
 
+#### Amber's green light celebratin w/ pinata? <br>
+<div class="col6 center">
+     <img class='img-responsive center-block' src="/images/social/2023/11-8-23_amber_green_light.jpg" width="75%" height="75%"/>
+ <span style="display: block; margin-bottom: 1em"></span>
+      <span style="display: block; margin-bottom: 3em"></span>
+</div>
+
+#### Pumpkin carving <br>
+<div class="col6 center">
+     <img class='img-responsive center-block' src="/images/social/2023/10-31-23_pumpkin_carving.jpg" width="75%" height="75%"/>
+ <span style="display: block; margin-bottom: 1em"></span>
+      <span style="display: block; margin-bottom: 3em"></span>
+</div>
+
+
+#### CSHL Raft Race <br>
+<div class="col6 center">
+     <img class='img-responsive center-block' src="/images/social/2023/9-6-23_raft_race2.jpg" width="75%" height="75%"/>
+ <span style="display: block; margin-bottom: 1em"></span>
+      <span style="display: block; margin-bottom: 3em"></span>
+</div>
+
+<div class="col6 center">
+     <img class='img-responsive center-block' src="/images/social/2023/9-6-23_raft_race.jpg" width="75%" height="75%"/>
+ <span style="display: block; margin-bottom: 1em"></span>
+      <span style="display: block; margin-bottom: 3em"></span>
+</div>
+
+<div class="col6 center">
+     <img class='img-responsive center-block' src="/images/social/2023/8-24-23_making_raft.jpg" width="75%" height="75%"/>
+ <span style="display: block; margin-bottom: 1em"></span>
+      <span style="display: block; margin-bottom: 3em"></span>
+</div>
+
+
 #### Thai Thai Villa for Amber's Bday <br>
 <div class="col6 center">
 	<img class='img-responsive center-block' src="/images/social/2023/7-17-23_ambers_bday.jpg" width="75%" height="75%"/>
