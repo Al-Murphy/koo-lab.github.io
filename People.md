@@ -44,11 +44,15 @@ permalink: /People/
 
 <h3>Alumni</h3>
 
+#### Postdocs
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
 Yinan Dong | Postdoc | CSHL | 2023-2023 | Research Scientist at Meta |
 Antonio Majdandzic | Postdoc | CSHL | 2020-2022 | ML Researcher at Bloomberg |
 Rohit Tripathy | Postdoc | CSHL | 2020-2022 | Staff Scientist in Jackson Laboratory |
+
+#### Undergrads
+| Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
 Nika Chuzhoy | Undergrad Researcher | CalTech | Summer 2023 | |
 Tianhao Luo | Summer Undergrad Research Program | UPenn, Statistics | Summer 2023 | |
@@ -56,13 +60,18 @@ Phillip Zhou | Summer Undergrad Research Program  | Amherst College, Math | Summ
 Vandana Agarwala | Summer Undergrad Research Program | Penn State, Computer Science | Summer 2021 | Software 
 developer at Flagship Pioneering |
 Roshan Kenia | Undergrad Researcher | Stony Brook, Computer Science | 2020-2021 | Intern at SupplyHouse.com |
+
+#### High Schoolers
+| Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
 Amanda Nemshin | High School Researcher  | Cold Spring Harbor High | 2022-2023 | Undergrad at Duke |
 Rohan Ghotra | High School Researcher  | Syosset High | 2021-2022 | Undergrad at Columbia |
 Ethan Labelson | High School Researcher  | Friends Academy | 2021-2022 | Undergrad at Caltech |
 Zaara Yakub | High School Researcher | Partners for the Future Program, Bethpage High School | 2020-2021 | Undergrad at Lehigh University |
-| :------------- |:-------------| :-----------| :-----------| :-----------|
 Eduardo Esteva | Masters Student | NYU, Bioinformatics | 2020-2021 | Bioinformatics Analyst at NYU Grossman School of Medicine, Office of Science & Research|
+
+#### Rotation Students
+| Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
 Maha Sayed | Rotation Student | CSHL SBS | Spring 2023 | Grad student in Meyer Lab |
 June He | Rotation Student | Stony Brook Genetics PhD student | Spring 2023 |  |
