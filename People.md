@@ -50,7 +50,7 @@ permalink: /People/
 | :------------- |:-------------| :-----------| :-----------| :-----------|
 Yinan Dong | Postdoc | CSHL | 2023-2023 | Research Scientist at Meta |
 Antonio Majdandzic | Postdoc | CSHL | 2020-2022 | ML Researcher at Bloomberg |
-Rohit Tripathy | Postdoc | CSHL | 2020-2022 | Staff Scientist in Jackson Laboratory |
+Rohit Tripathy | Postdoc | CSHL | 2020-2022 | Staff Scientist at Jackson Laboratory |
 
 <h5>Undergrads</h5>
 
