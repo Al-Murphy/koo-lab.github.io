@@ -56,7 +56,7 @@ Rohit Tripathy | Postdoc | CSHL | 2020-2022 | Staff Scientist at Jackson Laborat
 
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
-Nika Chuzhoy | Undergrad Researcher | CalTech | Summer 2023 | |
+Nika Chuzhoy | Undergrad Researcher | CalTech, Computer Science | Summer 2023 | |
 Tianhao Luo | Summer Undergrad Research Program | UPenn, Statistics | Summer 2023 | |
 Phillip Zhou | Summer Undergrad Research Program  | Amherst College, Math | Summer 2022 | |
 Vandana Agarwala | Summer Undergrad Research Program | Penn State, Computer Science | Summer 2021 | Software developer at Flagship Pioneering |
