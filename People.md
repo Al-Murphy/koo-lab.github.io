@@ -76,7 +76,8 @@ Eduardo Esteva | Masters Student | NYU, Bioinformatics | 2020-2021 | Bioinformat
 Maha Sayed | Rotation Student | CSHL SBS | Spring 2023 | Grad student in Meyer Lab |
 June He | Rotation Student | Stony Brook Genetics PhD student | Spring 2023 |  |
 Lucia Tellez Perez | Rotation Student | CSHL SBS | Spring 2022 | Grad student in dos Santos Lab |
-Thomas Huffstutler | Rotation Student | Stony Brook Applied Math Masters student | Joon-Hyun Song | Rotation Student | Stony Brook Applied Math PhD student | Winter 2021 | |
+Thomas Huffstutler | Rotation Student | Stony Brook Applied Math Masters student | |
+Joon-Hyun Song | Rotation Student | Stony Brook Applied Math PhD student | Winter 2021 | |
 Scott Feltman | Rotation Student | Stony Brook Applied Math PhD student | Winter 2021 | |
 Brenda Delamonica | Rotation Student | Stony Brook Applied Math Masters student | Fall 2021 | |
 Sam Kleeman | Rotation Student | CSHL SBS | Spring 2021 | Grad student in Janowitz and Furukawa Labs |
