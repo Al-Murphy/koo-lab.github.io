@@ -1,6 +1,6 @@
 ---
 name: Nika Chuzhoy<br>CalTech<br>Since 2023<br>
-position: undergrad
+position: alumni
 avatar: nika_chuzhoy_profile.jpg
 ---
 
