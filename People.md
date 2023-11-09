@@ -70,7 +70,8 @@ Steven Yu | High School Researcher  | Syosset High | 2022-2023 | Undergrad at Co
 Amanda Nemshin | High School Researcher  | Cold Spring Harbor High | 2022-2023 | Undergrad at Duke |
 Rohan Ghotra | High School Researcher  | Syosset High | 2021-2022 | Undergrad at Columbia |
 Ethan Labelson | High School Researcher  | Friends Academy | 2021-2022 | Undergrad at Caltech |
-Zaara Yakub | High School Researcher | Partners for the Future Program, Bethpage High School | 2020-2021 | Undergrad at Lehigh |
+Ashwin Narayanan | High School Researcher  | Jericho High | Summer 2022 | Undergrad at Johns Hopkins |
+Zaara Yakub | High School Researcher | Bethpage High School | 2020-2021 | Undergrad at Lehigh |
 
 
 <h5>Visiting researchers</h5>
