@@ -17,12 +17,10 @@ permalink: /People/
 <h3>Graduate Students</h3>
  {% elsif item == 'postbac' %}
 <h3>Postbaccalaureate Researchers</h3>
-{% elsif item == 'undergrad' %}
-<h3>Undergrad Researchers</h3>
-{% elsif item == 'highschool' %}
-<h3>High School Researchers</h3>
 {% elsif item == 'visiting' %}
 <h3>Visiting Researchers</h3>
+{% elsif item == 'highschool' %}
+<h3>High School Researchers</h3>
 {% endif %}
 </div>
 
