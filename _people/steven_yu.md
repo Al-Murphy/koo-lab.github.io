@@ -1,6 +1,6 @@
 ---
 name: Steven Yu<br>Columbia University<br>Since 2022<br>
-position: undergrad
+position: alumni
 avatar: steven_yu_profile.png
 ---
 
