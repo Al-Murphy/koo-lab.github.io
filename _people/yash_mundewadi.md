@@ -1,5 +1,5 @@
 ---
-name: Yash Mundewadi<br>IIT Kharagpur<br>Since 2023<br>
+name: Yash Mundewadi<br>IIT Kharagpur<br>Since 2023
 position: visiting
 avatar: yash_mundewadi_profile.jpg
 ---
