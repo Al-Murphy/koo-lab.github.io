@@ -4,7 +4,7 @@ permalink: /Contact/
 ---
 
 <div class="col6 center">
-	<img class='img-responsive center-block' src="/images/group3.jpg" width="100%" height="100%"/>
+	<img class='img-responsive center-block' src="/images/group_goofy.jpg" width="100%" height="100%"/>
  <span style="display: block; margin-bottom: 1em"></span>
       <span style="display: block; margin-bottom: 3em"></span>
 </div>
