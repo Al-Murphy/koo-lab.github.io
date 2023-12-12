@@ -6,7 +6,7 @@ permalink: /Publication/
 ## 2023
 
 _Interpreting Cis-Regulatory Mechanisms from Genomic Deep Neural Networks using Surrogate Models_<br>
-<b>S Toneyan</b>, <b>PK Koo</b><br>
+<b>E Seits</b>, <b>DM McCandlish</b>, <b>JB Kinney</b>, <b>PK Koo</b><br>
 bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2023.11.14.567120), [Code](https://github.com/evanseitz/squid-nn))<br> 
 
 
