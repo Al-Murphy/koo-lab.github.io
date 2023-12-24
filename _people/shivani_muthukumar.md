@@ -1,6 +1,6 @@
 ---
 name: Shivani Muthukumar<br>Commack High<br>HS Researcher<br>Since 2023
-position: visitresearch
+position: highschool
 avatar: shivani_muthukumar_profile.png
 ---
 
