@@ -6,6 +6,14 @@ permalink: /Social/
 
 # 2023
 
+#### Axe throwing bar! <br>
+<div class="col6 center">
+     <img class='img-responsive center-block' src="/images/social/2023/11-21-23_axe.jpg" width="75%" height="75%"/>
+ <span style="display: block; margin-bottom: 1em"></span>
+      <span style="display: block; margin-bottom: 3em"></span>
+</div>
+
+
 #### Amber's green light celebratin w/ pinata? <br>
 <div class="col6 center">
      <img class='img-responsive center-block' src="/images/social/2023/11-8-23_amber_green_light.jpg" width="75%" height="75%"/>
