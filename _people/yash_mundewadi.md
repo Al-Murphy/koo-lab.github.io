@@ -1,6 +1,6 @@
 ---
-name: Yash Mundewadi<br>IIT Kharagpur<br>Masters Student<br>Since 2023
-position: highschool
+name: Yash Mundewadi<br>IIT Kharagpur<br>Masters Thesis<br>Since 2023
+position: gradstudent
 avatar: yash_mundewadi_profile.jpg
 ---
 
