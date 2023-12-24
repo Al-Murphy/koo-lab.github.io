@@ -17,7 +17,7 @@ permalink: /People/
 <h3>Graduate Students</h3>
  {% elsif item == 'postbac' %}
 <h3>Postbaccalaureate Researchers</h3>
- {% elsif item == 'visiting' %}
+ {% elsif item == 'visitresearch' %}
 <h3>Visiting Researchers</h3>
 {% endif %}
 </div>

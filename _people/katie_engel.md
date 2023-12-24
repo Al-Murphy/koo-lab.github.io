@@ -1,6 +1,6 @@
 ---
-name: Katie Engel<br>Cold Spring Harbor High<br>Partners for the Future<br>Since 2023<br><br>
-position: visiting
+name: Katie Engel<br>Cold Spring Harbor High<br>Partners for the Future<br>Since 2023
+position: visitresearch
 avatar: katie_engel_profile.png
 ---
 

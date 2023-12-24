@@ -1,6 +1,6 @@
 ---
-name: Aayush Prakash<br>Half Hallow Hills<br>Partners for the Future<br>Since 2022<br><br>
-position: visiting
+name: Aayush Prakash<br>Half Hallow Hills<br>Partners for the Future<br>Since 2022
+position: visitresearch
 avatar: aayush_prakash_profile.png
 ---
 
