@@ -19,8 +19,6 @@ permalink: /People/
 <h3>Postbaccalaureate Researchers</h3>
  {% elsif item == 'visiting' %}
 <h3>Visiting Researchers</h3>
- {% elsif item == 'highschool' %}
-<h3>High School Researchers</h3>
 {% endif %}
 </div>
 
