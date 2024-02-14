@@ -3,6 +3,14 @@ title: Publication
 permalink: /Publication/
 ---
 
+## 2024
+
+_EvoAug-TF: Extending evolution-inspired data augmentations for genomic deep learning to TensorFlow_<br>
+<b>Y Yu</b>, <b>S Muthukumarn</b>, <b>PK Koo</b><br>
+bioRxiv ([Paper](https://www.biorxiv.org/content/10.1101/2024.01.17.575961v1.article-info), [Code](https://github.com/p-koo/evoaug-tf))<br> 
+
+
+
 ## 2023
 
 _Interpreting Cis-Regulatory Mechanisms from Genomic Deep Neural Networks using Surrogate Models_<br>
