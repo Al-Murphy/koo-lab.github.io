@@ -7,8 +7,11 @@ permalink: /Publication/
 
 _EvoAug-TF: Extending evolution-inspired data augmentations for genomic deep learning to TensorFlow_<br>
 <b>Y Yu</b>, <b>S Muthukumarn</b>, <b>PK Koo</b><br>
-bioRxiv ([Paper](https://www.biorxiv.org/content/10.1101/2024.01.17.575961v1.article-info), [Code](https://github.com/p-koo/evoaug-tf))<br> 
+Bioinformatics ([Paper](https://academic.oup.com/bioinformatics/article/40/3/btae092/7609674), [Code](https://github.com/p-koo/evoaug-tf))<br> 
 
+_Evaluating the representational power of pre-trained DNA language models for regulatory genomics_<br>
+<b>Z Tang</b>, <b>PK Koo</b><br>
+bioRxiv ([Paper](https://www.biorxiv.org/content/10.1101/2024.02.29.582810v1), [Code](https://github.com/amberT15/LLM_eval))<br> 
 
 
 ## 2023
