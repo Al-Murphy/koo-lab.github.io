@@ -12,7 +12,7 @@ Bioinformatics ([Paper](https://academic.oup.com/bioinformatics/article/40/3/bta
 _Evaluating the representational power of pre-trained DNA language models for regulatory genomics_<br>
 <b>Z Tang</b>, <b>PK Koo</b><br>
 bioRxiv ([Paper](https://www.biorxiv.org/content/10.1101/2024.02.29.582810v1), [Code](https://github.com/amberT15/LLM_eval)) <br> 
-_Selected for oral presentation at 2024 Systems Biology Meeting at CSHL_ 
+_Selected for oral presentation at 2024 CSHL Meeting on Systems Biology_ 
 
 
 ## 2023
