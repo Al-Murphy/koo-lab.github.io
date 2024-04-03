@@ -62,6 +62,8 @@ Roshan Kenia | Undergrad Researcher | Stony Brook, Computer Science | 2020-2021 
  
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
+Aayush Prakash | High School Researcher  | Half Hallow Hills High | 2022-2024 |  |
+Katie Engel | High School Researcher  | Cold Spring Harbor High | 2023-2024 |  |
 Steven Yu | High School Researcher  | Syosset High | 2022-2023 | Undergrad at Columbia |
 Amanda Nemshin | High School Researcher  | Cold Spring Harbor High | 2022-2023 | Undergrad at Duke |
 Rohan Ghotra | High School Researcher  | Syosset High | 2021-2022 | Undergrad at Columbia |

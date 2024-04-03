@@ -1,6 +1,6 @@
 ---
 name: Katie Engel<br>Cold Spring Harbor High<br>Partners for the Future<br>Since 2023
-position: highschool
+position: alumni
 avatar: katie_engel_profile.png
 ---
 
