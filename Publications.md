@@ -11,7 +11,8 @@ Bioinformatics ([Paper](https://academic.oup.com/bioinformatics/article/40/3/bta
 
 _Evaluating the representational power of pre-trained DNA language models for regulatory genomics_<br>
 <b>Z Tang</b>, <b>PK Koo</b><br>
-bioRxiv ([Paper](https://www.biorxiv.org/content/10.1101/2024.02.29.582810v1), [Code](https://github.com/amberT15/LLM_eval))<br> 
+bioRxiv ([Paper](https://www.biorxiv.org/content/10.1101/2024.02.29.582810v1), [Code](https://github.com/amberT15/LLM_eval)) <br> 
+_Selected for oral presentation at 2024 Systems Biology Meeting at CSHL_ 
 
 
 ## 2023
@@ -20,21 +21,22 @@ _Interpreting Cis-Regulatory Mechanisms from Genomic Deep Neural Networks using 
 <b>E Seits</b>, <b>DM McCandlish</b>, <b>JB Kinney</b>, <b>PK Koo</b><br>
 bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2023.11.14.567120), [Code](https://github.com/evanseitz/squid-nn))<br> 
 
-
 _Interpreting Cis-Regulatory Interactions from Large-Scale Deep Neural Networks for Genomics_<br>
 <b>S Toneyan</b>, <b>PK Koo</b><br>
-bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2023.07.03.547592v1), [Code](https://github.com/p-koo/creme-nn))<br> 
+bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2023.07.03.547592v1), [Code](https://github.com/p-koo/creme-nn)) <br>
+_Selected for oral presentation at 2023 MLCB_
 
+_Revisiting initialization strategies for deep learning in regulatory genomics_<br> 
+<b>C Rajesh</b>, <b>Z Tang</b>, <b>PK Koo</b><br>
+2023 Machine Learning in Computational Biology
 
 _Building foundation models for regulatory genomics requires rethinking large language models_<br> 
 <b>Z Tang</b>, <b>PK Koo</b><br>
 ICML 2023 Workshop on Computational Biology ([Workshop paper](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper92.pdf))
 
-
 _EvoAug: improving generalization and interpretability of genomic deep neural networks with evolution-inspired data augmentations_<br>
 <b>NK Lee</b>, <b>S Toneyan</b>, <b>Z Tang</b>, <b>PK Koo</b><br>
 Genome Biology ([Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02941-w), [Code](https://github.com/p-koo/evoaug))<br> 
-
 
 _Correcting gradient-based interpretations of deep neural networks for genomics_<br>
 <b>A Majdandzic</b>, <b>C Rajesh</b>, <b>PK Koo</b><br>
@@ -62,7 +64,8 @@ RNA Structure Prediction, Methods in Molecular Biology ([Chapter](https://link.s
 
 _Selecting deep neural networks that yield consistent attribution-based interpretations for genomics_<br>
 <b>A Majdandzic</b>, <b>C Rajesh</b>, <b>Z Tang</b>, <b>S Toneyan</b>, <b>E Labelson</b>, <b>R Tripathy</b>, <b>PK Koo</b><br>
-Machine Learning in Computational Biology ([Paper](https://proceedings.mlr.press/v200/majdandzic22a.html), [Code](https://github.com/crajesh6/acme))<br>
+2022 Machine Learning in Computational Biology ([Paper](https://proceedings.mlr.press/v200/majdandzic22a.html), [Code](https://github.com/crajesh6/acme))<br>
+_Selected for oral presentation_
 
 _Learning single-cell chromatin accessibility profiles using meta-analytic marker genes_<br>
 RK Kawaguchi, <b>Z Tang</b>, S Fischer, <b>Chandana Rajesh</b>, <b>R Tripathy</b>, <b>PK Koo</b>, J Gillis <br>
