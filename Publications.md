@@ -5,6 +5,11 @@ permalink: /Publication/
 
 ## 2024
 
+_Designing DNA With Tunable Regulatory Activity Using Discrete Diffusion_<br>
+<b>A Sarkar</b>, <b>Z Tang</b>, <b>C Zhao</b>, <b>PK Koo</b><br>
+bioRxiv ([Paper](https://www.biorxiv.org/content/10.1101/2024.05.23.595630v1.abstract), [Code](https://anonymous.4open.science/r/D3-DNA-Discrete-Diffusion-3E42/)<br> 
+
+
 _EvoAug-TF: Extending evolution-inspired data augmentations for genomic deep learning to TensorFlow_<br>
 <b>Y Yu</b>, <b>S Muthukumarn</b>, <b>PK Koo</b><br>
 Bioinformatics ([Paper](https://academic.oup.com/bioinformatics/article/40/3/btae092/7609674), [Code](https://github.com/p-koo/evoaug-tf))<br> 
