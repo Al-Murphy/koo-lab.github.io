@@ -5,9 +5,14 @@ permalink: /Publication/
 
 ## 2024
 
+_Interpreting Cis-Regulatory Mechanisms from Genomic Deep Neural Networks using Surrogate Models_<br>
+<b>E Seits</b>, <b>DM McCandlish</b>, <b>JB Kinney</b>, <b>PK Koo</b><br>
+Nature Machine Intelligence ([Article](https://www.nature.com/articles/s42256-024-00851-5), [Code](https://github.com/evanseitz/squid-nn))<br> 
+
+
 _Designing DNA With Tunable Regulatory Activity Using Discrete Diffusion_<br>
 <b>A Sarkar</b>, <b>Z Tang</b>, <b>C Zhao</b>, <b>PK Koo</b><br>
-bioRxiv ([Paper](https://www.biorxiv.org/content/10.1101/2024.05.23.595630v1.abstract), [Code](https://anonymous.4open.science/r/D3-DNA-Discrete-Diffusion-3E42/)<br> 
+bioRxiv ([Paper](https://www.biorxiv.org/content/10.1101/2024.05.23.595630v1.abstract), [Code](https://anonymous.4open.science/r/D3-DNA-Discrete-Diffusion-3E42/))<br> 
 
 
 _EvoAug-TF: Extending evolution-inspired data augmentations for genomic deep learning to TensorFlow_<br>
@@ -22,9 +27,6 @@ _Selected for oral presentation at 2024 CSHL Meeting on Systems Biology_
 
 ## 2023
 
-_Interpreting Cis-Regulatory Mechanisms from Genomic Deep Neural Networks using Surrogate Models_<br>
-<b>E Seits</b>, <b>DM McCandlish</b>, <b>JB Kinney</b>, <b>PK Koo</b><br>
-bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2023.11.14.567120), [Code](https://github.com/evanseitz/squid-nn))<br> 
 
 _Interpreting Cis-Regulatory Interactions from Large-Scale Deep Neural Networks for Genomics_<br>
 <b>S Toneyan</b>, <b>PK Koo</b><br>
