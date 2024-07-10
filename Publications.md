@@ -5,6 +5,13 @@ permalink: /Publication/
 
 ## 2024
 
+
+_Interpreting Cis-Regulatory Interactions from Large-Scale Deep Neural Networks for Genomics_<br>
+<b>S Toneyan</b>, <b>PK Koo</b><br>
+Nature Genetics -- accepted ([Preprint](https://www.biorxiv.org/content/10.1101/2023.07.03.547592v1), [Code](https://github.com/p-koo/creme-nn)) <br>
+_Selected for oral presentation at 2023 MLCB_
+
+
 _Interpreting Cis-Regulatory Mechanisms from Genomic Deep Neural Networks using Surrogate Models_<br>
 <b>E Seits</b>, <b>DM McCandlish</b>, <b>JB Kinney</b>, <b>PK Koo</b><br>
 Nature Machine Intelligence ([Article](https://www.nature.com/articles/s42256-024-00851-5), [Code](https://github.com/evanseitz/squid-nn))<br> 
@@ -27,11 +34,6 @@ _Selected for oral presentation at 2024 CSHL Meeting on Systems Biology_
 
 ## 2023
 
-
-_Interpreting Cis-Regulatory Interactions from Large-Scale Deep Neural Networks for Genomics_<br>
-<b>S Toneyan</b>, <b>PK Koo</b><br>
-bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2023.07.03.547592v1), [Code](https://github.com/p-koo/creme-nn)) <br>
-_Selected for oral presentation at 2023 MLCB_
 
 _Revisiting initialization strategies for deep learning in regulatory genomics_<br> 
 <b>C Rajesh</b>, <b>Z Tang</b>, <b>PK Koo</b><br>
