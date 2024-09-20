@@ -13,7 +13,7 @@ arXiv ([Preprint](https://arxiv.org/abs/2409.03080), [Code](https://github.com/k
 
 _Interpreting Cis-Regulatory Interactions from Large-Scale Deep Neural Networks for Genomics_<br>
 <b>S Toneyan</b>, <b>PK Koo</b><br>
-Nature Genetics ([Paper](https://www.nature.com/articles/s41588-024-01923-3), [Code](https://github.com/p-koo/creme-nn)) <br>
+Nature Genetics ([Article](https://www.nature.com/articles/s41588-024-01923-3), [Code](https://github.com/p-koo/creme-nn)) <br>
 _Selected for oral presentation at 2023 MLCB_
 
 
@@ -24,17 +24,17 @@ Nature Machine Intelligence ([Article](https://www.nature.com/articles/s42256-02
 
 _Designing DNA With Tunable Regulatory Activity Using Discrete Diffusion_<br>
 <b>A Sarkar</b>, <b>Z Tang</b>, <b>C Zhao</b>, <b>PK Koo</b><br>
-bioRxiv ([Paper](https://www.biorxiv.org/content/10.1101/2024.05.23.595630v1.abstract), [Code](https://anonymous.4open.science/r/D3-DNA-Discrete-Diffusion-3E42/))<br> 
+bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2024.05.23.595630v1.abstract), [Code](https://anonymous.4open.science/r/D3-DNA-Discrete-Diffusion-3E42/))<br> 
  Selected for oral presentation at 2024 MLCB
 
 _EvoAug-TF: Extending evolution-inspired data augmentations for genomic deep learning to TensorFlow_<br>
 <b>Y Yu</b>, <b>S Muthukumar</b>, <b>PK Koo</b><br>
-Bioinformatics ([Paper](https://academic.oup.com/bioinformatics/article/40/3/btae092/7609674), [Code](https://github.com/p-koo/evoaug-tf))<br> 
+Bioinformatics ([Article](https://academic.oup.com/bioinformatics/article/40/3/btae092/7609674), [Code](https://github.com/p-koo/evoaug-tf))<br> 
 
 
 _Evaluating the representational power of pre-trained DNA language models for regulatory genomics_<br>
 <b>Z Tang</b>, <b>PK Koo</b><br>
-bioRxiv ([Paper](https://www.biorxiv.org/content/10.1101/2024.02.29.582810v1), [Code](https://github.com/amberT15/LLM_eval)) <br> 
+bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2024.02.29.582810v1), [Code](https://github.com/amberT15/LLM_eval)) <br> 
 _Selected for oral presentation at 2024 CSHL Meeting on Systems Biology_ 
 
 
@@ -45,27 +45,30 @@ _Revisiting initialization strategies for deep learning in regulatory genomics_<
 <b>C Rajesh</b>, <b>Z Tang</b>, <b>PK Koo</b><br>
 2023 Machine Learning in Computational Biology
 
+
 _Building foundation models for regulatory genomics requires rethinking large language models_<br> 
 <b>Z Tang</b>, <b>PK Koo</b><br>
 ICML 2023 Workshop on Computational Biology ([Workshop paper](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper92.pdf))
 
+
 _EvoAug: improving generalization and interpretability of genomic deep neural networks with evolution-inspired data augmentations_<br>
 <b>NK Lee</b>, <b>S Toneyan</b>, <b>Z Tang</b>, <b>PK Koo</b><br>
-Genome Biology ([Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02941-w), [Code](https://github.com/p-koo/evoaug))<br> 
+Genome Biology ([Article](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02941-w), [Code](https://github.com/p-koo/evoaug))<br> 
+
 
 _Correcting gradient-based interpretations of deep neural networks for genomics_<br>
 <b>A Majdandzic</b>, <b>C Rajesh</b>, <b>PK Koo</b><br>
-Genome Biology ([Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02956-3), [Code](https://github.com/p-koo/GradientCorrection)) <br>
+Genome Biology ([Article](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02956-3), [Code](https://github.com/p-koo/GradientCorrection)) <br>
 
 
 _ChampKit: A framework for rapid evaluation of deep neural networks for patch-based histopathology classification_<br>
 <b>JR Kaczmarzyk</b>, R Gupta, TM Kurc, S Abousamra, JH Saltz, <b>PK Koo</b><br>
-Computer Methods and Programs in Biomedicine ([Paper](https://www.sciencedirect.com/science/article/pii/S0169260723002961), [Code](https://github.com/kaczmarj/champkit))<br>
+Computer Methods and Programs in Biomedicine ([Article](https://www.sciencedirect.com/science/article/pii/S0169260723002961), [Code](https://github.com/kaczmarj/champkit))<br>
 
 
 _ETV6 dependency in Ewing sarcoma by antagonism of EWS-FLI1-mediated enhancer activation_<br>
 Y Gao, XY He, ..., <b>S Toneyan</b>, ..., <b>PK Koo</b>, ..., C Vakoc<br>
-Nature Cell Biology ([Paper](https://www.nature.com/articles/s41556-022-01060-1))<br>
+Nature Cell Biology ([Article](https://www.nature.com/articles/s41556-022-01060-1))<br>
 
 
 _ResidualBind: Uncovering Sequence-Structure Preferences of RNA-Binding Proteins with Deep Neural Networks_<br>
@@ -79,16 +82,16 @@ RNA Structure Prediction, Methods in Molecular Biology ([Chapter](https://link.s
 
 _Selecting deep neural networks that yield consistent attribution-based interpretations for genomics_<br>
 <b>A Majdandzic</b>, <b>C Rajesh</b>, <b>Z Tang</b>, <b>S Toneyan</b>, <b>E Labelson</b>, <b>R Tripathy</b>, <b>PK Koo</b><br>
-2022 Machine Learning in Computational Biology ([Paper](https://proceedings.mlr.press/v200/majdandzic22a.html), [Code](https://github.com/crajesh6/acme))<br>
-_Selected for oral presentation_
+2022 Machine Learning in Computational Biology ([Proceedings](https://proceedings.mlr.press/v200/majdandzic22a.html), [Code](https://github.com/crajesh6/acme))<br>
+_Selected for oral presentation at MLCB_
 
 _Learning single-cell chromatin accessibility profiles using meta-analytic marker genes_<br>
 RK Kawaguchi, <b>Z Tang</b>, S Fischer, <b>Chandana Rajesh</b>, <b>R Tripathy</b>, <b>PK Koo</b>, J Gillis <br>
-Briefings in Bioinformatics ([Paper](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac541/6957249?login=false), [Code](https://github.com/carushi/Catactor))<br>
+Briefings in Bioinformatics ([Article](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac541/6957249?login=false), [Code](https://github.com/carushi/Catactor))<br>
 
 _Evaluating deep learning for predicting epigenomic profiles_<br>
 <b>S Toneyan</b>, <b>Z Tang</b>, <b>PK Koo</b><br>
-Nature Machine Intelligence ([Paper](https://www.nature.com/articles/s42256-022-00570-9), [Code](https://github.com/shtoneyan/gopher))<br>
+Nature Machine Intelligence ([Article](https://www.nature.com/articles/s42256-022-00570-9), [Code](https://github.com/shtoneyan/gopher))<br>
 
 _Interpreting Potts and Transformer Protein Models Through the Lens of Simplified Attention_<br>
 N Bhattacharya, N Thomas, R Rao, J Dauparas, <b>PK Koo</b>, D Baker, YS Song, S Ovchinnikov <br>
