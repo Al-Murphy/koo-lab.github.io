@@ -25,7 +25,7 @@ Nature Machine Intelligence ([Article](https://www.nature.com/articles/s42256-02
 _Designing DNA With Tunable Regulatory Activity Using Discrete Diffusion_<br>
 <b>A Sarkar</b>, <b>Z Tang</b>, <b>C Zhao</b>, <b>PK Koo</b><br>
 bioRxiv ([Paper](https://www.biorxiv.org/content/10.1101/2024.05.23.595630v1.abstract), [Code](https://anonymous.4open.science/r/D3-DNA-Discrete-Diffusion-3E42/))<br> 
-
+ Selected for oral presentation at 2024 MLCB
 
 _EvoAug-TF: Extending evolution-inspired data augmentations for genomic deep learning to TensorFlow_<br>
 <b>Y Yu</b>, <b>S Muthukumar</b>, <b>PK Koo</b><br>
