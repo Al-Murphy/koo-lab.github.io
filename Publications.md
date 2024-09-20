@@ -28,7 +28,7 @@ bioRxiv ([Paper](https://www.biorxiv.org/content/10.1101/2024.05.23.595630v1.abs
 
 
 _EvoAug-TF: Extending evolution-inspired data augmentations for genomic deep learning to TensorFlow_<br>
-<b>Y Yu</b>, <b>S Muthukumarn</b>, <b>PK Koo</b><br>
+<b>Y Yu</b>, <b>S Muthukumar</b>, <b>PK Koo</b><br>
 Bioinformatics ([Paper](https://academic.oup.com/bioinformatics/article/40/3/btae092/7609674), [Code](https://github.com/p-koo/evoaug-tf))<br> 
 
 
