@@ -50,6 +50,21 @@ Yinan Dong | Postdoc | CSHL | 2023-2023 | Research Scientist at Meta |
 Antonio Majdandzic | Postdoc | CSHL | 2020-2022 | ML Researcher at Bloomberg |
 Rohit Tripathy | Postdoc | CSHL | 2020-2022 | Staff Scientist at Jackson Laboratory |
 
+<h5>Grad Students</h5>
+
+| Name | Position | Program | Time in Lab | Current Position |
+| :------------- |:-------------| :-----------| :-----------| :-----------|
+Shushan Toneyan | Grad Student | CSHL | 2020-2024 | Postdoc at Roche |
+Ziqi (Amber) Tang | Grad Student | CSHL | 2020-2024 | ML Researcher at InstaDeep |
+
+
+<h5>Staff</h5>
+
+| Name | Position | Program | Time in Lab | Current Position |
+| :------------- |:-------------| :-----------| :-----------| :-----------|
+Nicholas Lee | Comp Sci Developer | CSHL | 2020-2022 | |
+
+
 <h5>Undergrads</h5>
 
 | Name | Position | Program | Time in Lab | Current Position |
