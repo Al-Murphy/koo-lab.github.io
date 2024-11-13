@@ -1,6 +1,6 @@
 ---
 name: Pretty Garcia<br>PREP Scholar<br>Since 2023<br>
-position: postbac
+position: alumni
 avatar: pretty_garcia_profile.png
 ---
 
