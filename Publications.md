@@ -5,10 +5,25 @@ permalink: /Publication/
 
 ## 2024
 
+_Uncertainty-aware genomic deep learning with knowledge distillation_<br>
+<b>JL Zhou</b>, <b>K Rizzo</b>, <b>Z Tang</b>, <b>PK Koo</b><br>
+Cell Genomics ([Paper](https://tinyurl.com/4ewpja7t), [Code](https://github.com/zrcjessica/ensemble_distillation))<br>
+
 
 _Explainable AI for computational pathology identifies model limitations and tissue biomarkers_<br>
 <b>JR Kaczmarzyk</b>, JH Saltz, <b>PK Koo</b><br>
 arXiv ([Preprint](https://arxiv.org/abs/2409.03080), [Code](https://github.com/kaczmarj/HIPPO))<br>
+
+
+_Evaluating the representational power of pre-trained DNA language models for regulatory genomics_<br>
+<b>Z Tang</b>, <b>N Somia</b>, <b>Y Kang</b>, <b>PK Koo</b><br>
+bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2024.02.29.582810v1), [Code](https://github.com/amberT15/LLM_eval)) <br> 
+_Selected for oral presentation at 2024 CSHL Meeting on Systems Biology_ 
+
+
+_Analysis of single-cell CRISPR perturbations indicates that enhancers predominantly act multiplicatively_<br>
+JL Zhou, K Guruvayurappan, <b>S Toneyan</b>, HV Chen, AR Chen, <b>PK Koo</b>, G McVicker<br>
+Cell Genomics ([Paper](https://www.cell.com/cell-genomics/fulltext/S2666-979X(24)00291-X), [Code](https://github.com/mcvickerlab/GLiMMIRS))<br>
 
 
 _Interpreting Cis-Regulatory Interactions from Large-Scale Deep Neural Networks for Genomics_<br>
@@ -31,11 +46,6 @@ _EvoAug-TF: Extending evolution-inspired data augmentations for genomic deep lea
 <b>Y Yu</b>, <b>S Muthukumar</b>, <b>PK Koo</b><br>
 Bioinformatics ([Article](https://academic.oup.com/bioinformatics/article/40/3/btae092/7609674), [Code](https://github.com/p-koo/evoaug-tf))<br> 
 
-
-_Evaluating the representational power of pre-trained DNA language models for regulatory genomics_<br>
-<b>Z Tang</b>, <b>PK Koo</b><br>
-bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2024.02.29.582810v1), [Code](https://github.com/amberT15/LLM_eval)) <br> 
-_Selected for oral presentation at 2024 CSHL Meeting on Systems Biology_ 
 
 
 ## 2023
