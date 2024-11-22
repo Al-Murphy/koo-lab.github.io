@@ -1,5 +1,5 @@
 ---
-name: Moon Nagai<br><br>CSHL<br>Grad Student<br>Since 2024
+name: Masayuki (Moon) Nagai<br><br>CSHL<br>Grad Student<br>Since 2024
 position: gradstudent
 avatar: moonnagai_profile2.jpg
 twitter: 
