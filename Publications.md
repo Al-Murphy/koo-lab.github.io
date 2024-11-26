@@ -7,7 +7,7 @@ permalink: /Publication/
 
 _Uncertainty-aware genomic deep learning with knowledge distillation_<br>
 <b>JL Zhou</b>, <b>K Rizzo</b>, <b>Z Tang</b>, <b>PK Koo</b><br>
-Cell Genomics ([Paper](https://tinyurl.com/4ewpja7t), [Code](https://github.com/zrcjessica/ensemble_distillation))<br>
+bioRxiv ([Paper](https://www.biorxiv.org/content/10.1101/2024.11.13.623485), [Code](https://github.com/zrcjessica/ensemble_distillation))<br>
 
 
 _Explainable AI for computational pathology identifies model limitations and tissue biomarkers_<br>
