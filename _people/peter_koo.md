@@ -8,7 +8,8 @@ twitter: pkoo562
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 <br>
 
-- _2019-present, Assistant Professor, Simons Center for Quantitative Biology at Cold Spring Harbor Laboratory_ <br>
+- _2025-present, Associate Professor, Simons Center for Quantitative Biology at Cold Spring Harbor Laboratory_ <br>
+- _2019-2024, Assistant Professor, Simons Center for Quantitative Biology at Cold Spring Harbor Laboratory_ <br>
 	- **Affiliations:** <br>
 		- _2020-present, CSHL Cancer Center Member_ <br>
 		- _2023-present, Graduate Program in Genetics at Stony Brook University_<br>
