@@ -3,6 +3,13 @@ title: Publication
 permalink: /Publication/
 ---
 
+## 2025
+
+_Reusable specimen-level inference in computational pathologys_<br>
+<b>JR Kaczmarzyk</b>, R Sharma, <b>PK Koo</b>, JH Saltz<br>
+arXiv ([Preprint](https://arxiv.org/abs/2501.05945), [Code](https://github.com/SBU-BMI/SpinPath))<br>
+
+
 ## 2024
 
 _Uncertainty-aware genomic deep learning with knowledge distillation_<br>
@@ -13,6 +20,12 @@ bioRxiv ([Paper](https://www.biorxiv.org/content/10.1101/2024.11.13.623485), [Co
 _Explainable AI for computational pathology identifies model limitations and tissue biomarkers_<br>
 <b>JR Kaczmarzyk</b>, JH Saltz, <b>PK Koo</b><br>
 arXiv ([Preprint](https://arxiv.org/abs/2409.03080), [Code](https://github.com/kaczmarj/HIPPO))<br>
+
+
+_Designing DNA With Tunable Regulatory Activity Using Discrete Diffusion_<br>
+<b>A Sarkar</b>, <b>Z Tang</b>, <b>C Zhao</b>, <b>PK Koo</b><br>
+bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2024.05.23.595630v1.abstract), [Code](https://anonymous.4open.science/r/D3-DNA-Discrete-Diffusion-3E42/))<br> 
+ Selected for oral presentation at 2024 MLCB
 
 
 _Evaluating the representational power of pre-trained DNA language models for regulatory genomics_<br>
@@ -36,11 +49,6 @@ _Interpreting Cis-Regulatory Mechanisms from Genomic Deep Neural Networks using 
 <b>E Seits</b>, <b>DM McCandlish</b>, <b>JB Kinney</b>, <b>PK Koo</b><br>
 Nature Machine Intelligence ([Article](https://www.nature.com/articles/s42256-024-00851-5), [Code](https://github.com/evanseitz/squid-nn))<br> 
 
-
-_Designing DNA With Tunable Regulatory Activity Using Discrete Diffusion_<br>
-<b>A Sarkar</b>, <b>Z Tang</b>, <b>C Zhao</b>, <b>PK Koo</b><br>
-bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2024.05.23.595630v1.abstract), [Code](https://anonymous.4open.science/r/D3-DNA-Discrete-Diffusion-3E42/))<br> 
- Selected for oral presentation at 2024 MLCB
 
 _EvoAug-TF: Extending evolution-inspired data augmentations for genomic deep learning to TensorFlow_<br>
 <b>Y Yu</b>, <b>S Muthukumar</b>, <b>PK Koo</b><br>
