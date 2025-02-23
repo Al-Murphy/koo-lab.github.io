@@ -9,6 +9,10 @@ _Reusable specimen-level inference in computational pathologys_<br>
 <b>JR Kaczmarzyk</b>, R Sharma, <b>PK Koo</b>, JH Saltz<br>
 arXiv ([Preprint](https://arxiv.org/abs/2501.05945), [Code](https://github.com/SBU-BMI/SpinPath))<br>
 
+_Probabilistic and machine-learning methods for predicting local rates of transcription elongation from nascent RNA sequencing data_
+L Liu, Y Zhao, R Hassett, <b>S Toneyan</b>, <b>PK Koo</b>, A Siepel
+Nucleic Acids Research ([Paper](https://academic.oup.com/nar/article/53/4/gkaf092/8020229))<br>
+
 
 ## 2024
 
