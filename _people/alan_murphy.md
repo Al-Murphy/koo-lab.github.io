@@ -1,6 +1,6 @@
 ---
 name: Alan Murphy
-position: Postdoc 
+position: postdoc 
 avatar: alan_murphy.jpg
 twitter: Al_Murphy_
 ---
